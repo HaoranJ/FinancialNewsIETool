@@ -2,9 +2,9 @@ Use coreNLP to train relation model:
 
 coreNLP_root : stanford-corenlp-full-2015-04-20 (The Stanford coreNLP we downloaded from the website)
 
-(1) put training input file ( Here we use "output.corp")  into coreNLP_root
+(1) put training input file ( Here we use "output.corp")  under coreNLP_root
 
-(2) open "roth.properties" under coreNLP_root, modifiy:
+(2) open "roth.properties" under coreNLP_root, modify:
 	trainPath = output.corp
 	trainUsePipelineNER=true
 
@@ -14,7 +14,7 @@ coreNLP_root : stanford-corenlp-full-2015-04-20 (The Stanford coreNLP we downloa
 
 java -Xmx1024m -cp stanford-corenlp-3.5.2.jar;stanford-corenlp-3.5.2-models.jar;xom.jar;joda-time.jar;jollyday.jar;javax.json.jar edu.stanford.nlp.ie.machinereading.MachineReading --arguments roth.properties
 
-(5) It start to run and show the training log on the commend prompt.
+(5) It will start to run and show the training log on the commend prompt.
 
 (6) When it finished, the model will be created under the "tmp" folder
 
