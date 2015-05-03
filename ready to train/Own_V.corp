@@ -1,0 +1,704 @@
+129	Loc	0	O	NNP	Colombia	O	O	O
+129	O	1	O	POS	's	O	O	O
+129	O	2	O	JJ	top	O	O	O
+129	O	3	O	NN	producer	O	O	O
+129	Peop	4	O	NNP	Cerrejon	O	O	O
+129	O	5	O	,	,	O	O	O
+129	O	6	O	RB	jointly	O	O	O
+129	O	7	O	VBN	own	O	O	O
+129	O	8	O	IN	by	O	O	O
+129	Org	9	O	NNP	BHP	O	O	O
+129	O	10	O	,	,	O	O	O
+129	Org	11	O	NNP	Glencore	O	O	O
+129	O	12	O	CC	and	O	O	O
+129	Org	13	O	NNP/NNP/NNP	Anglo/American/Plc	O	O	O
+129	O	14	O	,	,	O	O	O
+129	O	15	O	VBZ	have	O	O	O
+129	O	16	O	VBN	complete	O	O	O
+129	O	17	O	PRP$	its	O	O	O
+129	O	18	O	NN	system	O	O	O
+129	O	19	O	IN	for	O	O	O
+129	O	20	O	JJ	direct	O	O	O
+129	O	21	O	NN	loading	O	O	O
+129	O	22	O	IN	of	O	O	O
+129	O	23	O	NN	coal	O	O	O
+129	O	24	O	.	.	O	O	O
+
+9	4	Own
+
+130	Org	0	O	NNP/NNP	ABN/AMRO	O	O	O
+130	O	1	O	VBZ	be	O	O	O
+130	OTHER	2	O	RB	now	O	O	O
+130	O	3	O	VBN	own	O	O	O
+130	O	4	O	IN	by	O	O	O
+130	Org	5	O	NNP/NNP/IN/NNP/NNP/NNP	Royal/Bank/of/Scotland/Group/Plc	O	O	O
+130	O	6	O	.	.	O	O	O
+
+5	0	Own
+
+131	Org	0	O	NNP/NNP	Freedom/Industries	O	O	O
+131	O	1	O	POS	'	O	O	O
+131	O	2	O	NN	equity	O	O	O
+131	O	3	O	VBZ	be	O	O	O
+131	OTHER	4	O	CD/NN	100/percent	O	O	O
+131	O	5	O	VBN	own	O	O	O
+131	O	6	O	IN	by	O	O	O
+131	Org	7	O	NNP/NNPS/NNP	Chemstream/Holdings/Inc	O	O	O
+131	O	8	O	,	,	O	O	O
+131	O	9	O	VBG	accord	O	O	O
+131	O	10	O	TO	to	O	O	O
+131	O	11	O	NN	court	O	O	O
+131	O	12	O	NNS	filings	O	O	O
+131	O	13	O	.	.	O	O	O
+
+7	0	Own
+
+132	Peop	0	O	NNP	Ergen	O	O	O
+132	O	1	O	VBZ	be	O	O	O
+132	O	2	O	VBN	accuse	O	O	O
+132	O	3	O	IN	of	O	O	O
+132	O	4	O	RB	surreptitiously	O	O	O
+132	O	5	O	VBG	buy	O	O	O
+132	O	6	O	NN	debt	O	O	O
+132	O	7	O	IN	in	O	O	O
+132	Org	8	O	NNP	LightSquared	O	O	O
+132	O	9	O	,	,	O	O	O
+132	O	10	O	DT	the	O	O	O
+132	O	11	O	JJ	wireless	O	O	O
+132	O	12	O	NN	broadband	O	O	O
+132	O	13	O	NN	provider	O	O	O
+132	O	14	O	VBN	own	O	O	O
+132	O	15	O	IN	by	O	O	O
+132	Org	16	O	NNP/NNP	Philip/Falcone	O	O	O
+132	O	17	O	,	,	O	O	O
+132	O	18	O	TO	to	O	O	O
+132	O	19	O	VB	hijack	O	O	O
+132	O	20	O	PRP$	its	O	O	O
+132	O	21	O	NN	reorganization	O	O	O
+132	O	22	O	CC	and	O	O	O
+132	O	23	O	NN	gain	O	O	O
+132	O	24	O	NN	control	O	O	O
+132	O	25	O	IN	of	O	O	O
+132	O	26	O	PRP$	its	O	O	O
+132	O	27	O	NNS	airwave	O	O	O
+132	O	28	O	.	.	O	O	O
+
+16	8	Own
+
+133	Org	0	O	NNP	globalfoundry	O	O	O
+133	O	1	O	,	,	O	O	O
+133	O	2	O	VBN	own	O	O	O
+133	O	3	O	IN	by	O	O	O
+133	Peop	4	O	NNP	Abu	O	O	O
+133	O	5	O	NNP	Dhabi-based	O	O	O
+133	Org	6	O	NNP/NNP/NNP	Mubadala/Development/Co	O	O	O
+133	O	7	O	,	,	O	O	O
+133	O	8	O	VBD	say	O	O	O
+133	O	9	O	PRP	it	O	O	O
+133	O	10	O	VBZ	be	O	O	O
+133	O	11	O	VBG	spend	O	O	O
+133	O	12	O	DT	a	O	O	O
+133	O	13	O	JJ	additional	O	O	O
+133	OTHER	14	O	$/CD/CD	$/9/billion	O	O	O
+133	O	15	O	TO	to	O	O	O
+133	OTHER	16	O	$/CD/CD	$/10/billion	O	O	O
+133	O	17	O	IN	on	O	O	O
+133	O	18	O	NNS	plant	O	O	O
+133	O	19	O	CC	and	O	O	O
+133	O	20	O	NN	equipment	O	O	O
+133	O	21	O	IN	over	O	O	O
+133	OTHER	22	O	DT/JJ/CD/NNS	the/next/two/years	O	O	O
+133	O	23	O	TO	to	O	O	O
+133	O	24	O	VB	boost	O	O	O
+133	O	25	O	PRP$	its	O	O	O
+133	O	26	O	NN	capacity	O	O	O
+133	O	27	O	.	.	O	O	O
+
+6	0	Own
+
+134	O	0	O	DT	the	O	O	O
+134	Org	1	O	NNP/NNP/NNP	S/R/American/Progress	O	O	O
+134	O	2	O	,	,	O	O	O
+134	O	3	O	DT	a	O	O	O
+134	OTHER	4	O	NNP/NNP	Jones/Act	O	O	O
+134	O	5	O	NN	tanker	O	O	O
+134	O	6	O	VBN	own	O	O	O
+134	O	7	O	IN	by	O	O	O
+134	Org	8	O	NNP/NNP/NNP	Exxon/Mobil/Corp	O	O	O
+134	O	9	O	POS	's	O	O	O
+134	Org	10	O	NNP/NNP/NNP	SeaRiver/Maritime/Inc	O	O	O
+134	O	11	O	,	,	O	O	O
+134	O	12	O	VBD	leave	O	O	O
+134	Loc	13	O	NNP/NNP	Los/Angeles	O	O	O
+134	O	14	O	IN	on	O	O	O
+134	OTHER	15	O	NNP	Jan	O	O	O
+134	O	16	O	.	.	O	O	O
+
+8	1	Own
+
+135	Org	0	O	NNP/POS/NNP	Hoover/’s/Inc	O	O	O
+135	O	1	O	,	,	O	O	O
+135	O	2	O	DT	a	O	O	O
+135	O	3	O	NN	business-information	O	O	O
+135	O	4	O	NN	service	O	O	O
+135	O	5	O	VBN	own	O	O	O
+135	O	6	O	IN	by	O	O	O
+135	Org	7	O	NNP/CC/NNP/NNP	Dun/&/Bradstreet/Corp	O	O	O
+135	O	8	O	.	.	O	O	O
+
+7	0	Own
+
+136	Org	0	O	NNP/JJ/NNP	New/York-based/Arbiter	O	O	O
+136	O	1	O	,	,	O	O	O
+136	O	2	O	WDT	which	O	O	O
+136	O	3	O	VBD	say	O	O	O
+136	O	4	O	IN	in	O	O	O
+136	O	5	O	NN	court	O	O	O
+136	O	6	O	NNS	filings	O	O	O
+136	O	7	O	PRP	it	O	O	O
+136	O	8	O	VBD	own	O	O	O
+136	OTHER	9	O	CD/NN	77/percent	O	O	O
+136	O	10	O	IN	of	O	O	O
+136	Org	11	O	NNP	Maxxam	O	O	O
+136	O	12	O	POS	's	O	O	O
+136	O	13	O	NNS	share	O	O	O
+136	O	14	O	,	,	O	O	O
+136	O	15	O	VBN	allege	O	O	O
+136	O	16	O	IN	in	O	O	O
+136	O	17	O	PRP$	its	O	O	O
+136	O	18	O	NN	complaint	O	O	O
+136	O	19	O	IN	that	O	O	O
+136	Org	20	O	NNP	Maxxam	O	O	O
+136	O	21	O	NNS	director	O	O	O
+136	O	22	O	VBD	approve	O	O	O
+136	O	23	O	``	``	O	O	O
+136	O	24	O	JJ	self-dealing	O	O	O
+136	O	25	O	NNS	transaction	O	O	O
+136	O	26	O	''	''	O	O	O
+136	O	27	O	WDT	that	O	O	O
+136	O	28	O	VBD	provide	O	O	O
+136	O	29	O	JJ	excessive	O	O	O
+136	O	30	O	NN	compensation	O	O	O
+136	O	31	O	TO	to	O	O	O
+136	Peop	32	O	NNP	Hurwitz	O	O	O
+136	O	33	O	.	.	O	O	O
+
+0	11	Own
+
+137	Org	0	O	NNP/NNP	Taco/Bell	O	O	O
+137	O	1	O	VBZ	be	O	O	O
+137	O	2	O	VBN	own	O	O	O
+137	O	3	O	IN	by	O	O	O
+137	Org	4	O	NNP/NNP/NNP	Yum/Brands/Inc	O	O	O
+137	O	5	O	.	.	O	O	O
+
+4	0	Own
+
+138	Org	0	O	NNP	VMware	O	O	O
+138	O	1	O	,	,	O	O	O
+138	O	2	O	JJ	majority-owned	O	O	O
+138	O	3	O	IN	by	O	O	O
+138	Org	4	O	NNP/NNP	EMC/Corp	O	O	O
+138	O	5	O	,	,	O	O	O
+138	O	6	O	VBZ	make	O	O	O
+138	O	7	O	NN	virtualization	O	O	O
+138	O	8	O	NN	software	O	O	O
+138	O	9	O	WDT	that	O	O	O
+138	O	10	O	VBZ	let	O	O	O
+138	O	11	O	NNS	customer	O	O	O
+138	O	12	O	VBP	combine	O	O	O
+138	O	13	O	JJ	multiple	O	O	O
+138	O	14	O	NNS	application	O	O	O
+138	O	15	O	IN	on	O	O	O
+138	O	16	O	DT	a	O	O	O
+138	O	17	O	JJ	single	O	O	O
+138	O	18	O	NN	machine	O	O	O
+138	O	19	O	.	.	O	O	O
+
+4	0	Own
+
+139	Org	0	O	NNP/NNP	Clydesdale/Bank	O	O	O
+139	O	1	O	,	,	O	O	O
+139	O	2	O	DT	the	O	O	O
+139	Loc	3	O	NNP	Glasgow	O	O	O
+139	O	4	O	,	,	O	O	O
+139	OTHER	5	O	JJ	Scotland-based	O	O	O
+139	O	6	O	NN	lender	O	O	O
+139	O	7	O	VBN	own	O	O	O
+139	O	8	O	IN	by	O	O	O
+139	Org	9	O	NNP	NAB	O	O	O
+139	O	10	O	,	,	O	O	O
+139	O	11	O	VBZ	be	O	O	O
+139	O	12	O	VBG	expand	O	O	O
+139	O	13	O	NN	profit	O	O	O
+139	O	14	O	NNS	margin	O	O	O
+139	O	15	O	IN	on	O	O	O
+139	O	16	O	PRP$	its	O	O	O
+139	O	17	O	NNS	loan	O	O	O
+139	O	18	O	IN	at	O	O	O
+139	O	19	O	DT	the	O	O	O
+139	O	20	O	JJ	same	O	O	O
+139	O	21	O	NN	time	O	O	O
+139	O	22	O	WDT	that	O	O	O
+139	O	23	O	NN	mortgage	O	O	O
+139	O	24	O	NN	demand	O	O	O
+139	O	25	O	VBZ	be	O	O	O
+139	O	26	O	VBG	rise	O	O	O
+139	O	27	O	CC	and	O	O	O
+139	O	28	O	NNS	default	O	O	O
+139	O	29	O	VBP	be	O	O	O
+139	O	30	O	VBG	shrink	O	O	O
+139	O	31	O	.	.	O	O	O
+
+9	0	Own
+
+140	Org	0	O	NNP/NNP	Akbank/TAS	O	O	O
+140	O	1	O	,	,	O	O	O
+140	O	2	O	DT	the	O	O	O
+140	O	3	O	NN	lender	O	O	O
+140	O	4	O	JJ	part-owned	O	O	O
+140	O	5	O	IN	by	O	O	O
+140	Org	6	O	NNP/NNP	Citigroup/Inc	O	O	O
+140	O	7	O	,	,	O	O	O
+140	O	8	O	CC	and	O	O	O
+140	O	9	O	JJ	state-run	O	O	O
+140	O	10	O	NNP	Turkiye	O	O	O
+140	O	11	O	NNP	Halk	O	O	O
+140	O	12	O	NNP	Bankasi	O	O	O
+140	O	13	O	NNP	AS	O	O	O
+140	O	14	O	DT	each	O	O	O
+140	O	15	O	VBD	gain	O	O	O
+140	O	16	O	JJR	more	O	O	O
+140	O	17	O	IN	than	O	O	O
+140	OTHER	18	O	CD/NN	54/percent	O	O	O
+140	O	19	O	.	.	O	O	O
+
+6	0	Own
+
+141	Org	0	O	NNP	Ellison	O	O	O
+141	O	1	O	VBD	own	O	O	O
+141	OTHER	2	O	CD/NN	55/percent	O	O	O
+141	O	3	O	IN	of	O	O	O
+141	Org	4	O	NNP	Pillar	O	O	O
+141	O	5	O	,	,	O	O	O
+141	O	6	O	DT	a	O	O	O
+141	O	7	O	RB	closely	O	O	O
+141	O	8	O	VBN	hold	O	O	O
+141	O	9	O	NN	provider	O	O	O
+141	O	10	O	IN	of	O	O	O
+141	O	11	O	JJ	data-storage	O	O	O
+141	O	12	O	NNS	system	O	O	O
+141	O	13	O	.	.	O	O	O
+
+0	4	Own
+
+142	Org	0	O	NNP/NNP/NNP	Education/Management/Co	O	O	O
+142	O	1	O	,	,	O	O	O
+142	O	2	O	DT	the	O	O	O
+142	O	3	O	NN	education	O	O	O
+142	O	4	O	NN	chain	O	O	O
+142	O	5	O	RB	partly	O	O	O
+142	O	6	O	VBN	own	O	O	O
+142	O	7	O	IN	by	O	O	O
+142	Org	8	O	NNP/NNP/NNP/NNP	Goldman/Sachs/Group/Inc	O	O	O
+142	O	9	O	:	;	O	O	O
+142	Org	10	O	NNP	Renesas	O	O	O
+142	O	11	O	,	,	O	O	O
+142	O	12	O	WDT	which	O	O	O
+142	O	13	O	VBZ	be	O	O	O
+142	OTHER	14	O	CD/NN	69/percent	O	O	O
+142	O	15	O	VBN	own	O	O	O
+142	O	16	O	IN	by	O	O	O
+142	Org	17	O	NNP/NNP/NNP	Innovation/Network/Corp	O	O	O
+142	O	18	O	.	.	O	O	O
+
+8	0	Own
+
+143	Org	0	O	NNP/NNPS	Volvo/Cars	O	O	O
+143	O	1	O	,	,	O	O	O
+143	O	2	O	DT	the	O	O	O
+143	OTHER	3	O	JJ	Swedish	O	O	O
+143	O	4	O	NN	maker	O	O	O
+143	O	5	O	IN	of	O	O	O
+143	O	6	O	JJ	premium	O	O	O
+143	O	7	O	NNS	vehicle	O	O	O
+143	O	8	O	VBN	own	O	O	O
+143	O	9	O	IN	by	O	O	O
+143	Loc	10	O	NNP	China	O	O	O
+143	O	11	O	POS	's	O	O	O
+143	Org	12	O	NNP/NNP/NNP/NNP/NNP	Zhejiang/Geely/Holding/Group/Co	O	O	O
+143	O	13	O	,	,	O	O	O
+143	O	14	O	VBD	post	O	O	O
+143	O	15	O	DT	a	O	O	O
+143	OTHER	16	O	CD/NN	32/percent	O	O	O
+143	O	17	O	NN	jump	O	O	O
+143	O	18	O	IN	in	O	O	O
+143	OTHER	19	O	JJ	European	O	O	O
+143	O	20	O	NNS	sale	O	O	O
+143	O	21	O	IN	in	O	O	O
+143	OTHER	22	O	NNP	December	O	O	O
+143	O	23	O	.	.	O	O	O
+
+12	0	Own
+
+144	O	0	O	DT	the	O	O	O
+144	O	1	O	JJS	largest	O	O	O
+144	O	2	O	NN	coal	O	O	O
+144	O	3	O	NN	producer	O	O	O
+144	O	4	O	IN	in	O	O	O
+144	Loc	5	O	NNP	Colombia	O	O	O
+144	O	6	O	VBZ	be	O	O	O
+144	Loc	7	O	NNP	Cerrejon	O	O	O
+144	O	8	O	,	,	O	O	O
+144	O	9	O	DT	a	O	O	O
+144	O	10	O	NN	venture	O	O	O
+144	O	11	O	VBN	own	O	O	O
+144	O	12	O	IN	by	O	O	O
+144	Org	13	O	NNP/NNP/NNP	Anglo/American/Plc	O	O	O
+144	O	14	O	,	,	O	O	O
+144	Org	15	O	NNP/NNP/NNP	Glencore/Xstrata/Plc	O	O	O
+144	O	16	O	CC	and	O	O	O
+144	Org	17	O	NNP/NNP/NNP	BHP/Billiton/Plc	O	O	O
+144	O	18	O	,	,	O	O	O
+144	OTHER	19	O	CD	three	O	O	O
+144	O	20	O	IN	of	O	O	O
+144	O	21	O	DT	the	O	O	O
+144	O	22	O	NN	world	O	O	O
+144	O	23	O	POS	's	O	O	O
+144	O	24	O	JJS	biggest	O	O	O
+144	O	25	O	NN	mining	O	O	O
+144	O	26	O	NNS	company	O	O	O
+144	O	27	O	.	.	O	O	O
+
+13	7	Own
+
+145	Org	0	O	NNP	EmCare	O	O	O
+145	O	1	O	VBD	be	O	O	O
+145	O	2	O	VBN	own	O	O	O
+145	O	3	O	IN	by	O	O	O
+145	OTHER	4	O	JJ	Canadian	O	O	O
+145	O	5	O	NN	buyout	O	O	O
+145	O	6	O	NN	firm	O	O	O
+145	Org	7	O	NNP/NNP	Onex/Corp	O	O	O
+145	O	8	O	.	.	O	O	O
+
+7	0	Own
+
+146	Org	0	O	NNP	Fiat	O	O	O
+146	O	1	O	,	,	O	O	O
+146	O	2	O	WDT	which	O	O	O
+146	O	3	O	VBD	own	O	O	O
+146	OTHER	4	O	CD/NN	585/percent	O	O	O
+146	O	5	O	IN	of	O	O	O
+146	Org	6	O	NNP	Chrysler	O	O	O
+146	O	7	O	IN	before	O	O	O
+146	O	8	O	TO	to	O	O	O
+146	O	9	O	DT	the	O	O	O
+146	O	10	O	JJ	full	O	O	O
+146	O	11	O	NN	takeover	O	O	O
+146	OTHER	12	O	DT/NN	this/month	O	O	O
+146	O	13	O	,	,	O	O	O
+146	O	14	O	VBZ	rely	O	O	O
+146	O	15	O	IN	on	O	O	O
+146	O	16	O	DT	the	O	O	O
+146	Loc	17	O	NNP	US	O	O	O
+146	O	18	O	.	.	O	O	O
+
+0	6	Own
+
+147	Org	0	O	NNP	Unisource	O	O	O
+147	O	1	O	VBZ	be	O	O	O
+147	O	2	O	VBN	own	O	O	O
+147	O	3	O	IN	by	O	O	O
+147	O	4	O	NN	private-equity	O	O	O
+147	O	5	O	NN	firm	O	O	O
+147	Org	6	O	NNP/NNP/NNP	Bain/Capital/LLC	O	O	O
+147	O	7	O	CC	and	O	O	O
+147	O	8	O	NN	paper	O	O	O
+147	O	9	O	NN	producer	O	O	O
+147	Org	10	O	NNP/NNP	Georgia-Pacific/LLC	O	O	O
+147	O	11	O	.	.	O	O	O
+
+6	0	Own
+
+148	O	0	O	JJ	net	O	O	O
+148	O	1	O	NN	income	O	O	O
+148	O	2	O	IN	at	O	O	O
+148	Org	3	O	NNP/NNP/NNP	Hindustan/Zinc/Ltd	O	O	O
+148	O	4	O	,	,	O	O	O
+148	O	5	O	WDT	which	O	O	O
+148	O	6	O	VBZ	be	O	O	O
+148	O	7	O	RB	also	O	O	O
+148	O	8	O	VBN	own	O	O	O
+148	O	9	O	IN	by	O	O	O
+148	Org	10	O	NNP	Sesa	O	O	O
+148	O	11	O	,	,	O	O	O
+148	O	12	O	VBD	rise	O	O	O
+148	OTHER	13	O	CD/NN	7/percent	O	O	O
+148	O	14	O	TO	to	O	O	O
+148	OTHER	15	O	CD/CD/NNS	172/billion/rupees	O	O	O
+148	O	16	O	,	,	O	O	O
+148	O	17	O	VBN	compare	O	O	O
+148	O	18	O	IN	with	O	O	O
+148	O	19	O	DT	a	O	O	O
+148	O	20	O	JJ	median	O	O	O
+148	O	21	O	NN	profit	O	O	O
+148	O	22	O	NN	estimate	O	O	O
+148	O	23	O	IN	of	O	O	O
+148	OTHER	24	O	CD/CD/NNS	175/billion/rupees	O	O	O
+148	O	25	O	.	.	O	O	O
+
+10	3	Own
+
+149	Org	0	O	NNS/NNP/NNP/NNP	Sales/Growth/Red/Bull	O	O	O
+149	O	1	O	,	,	O	O	O
+149	O	2	O	VBN	own	O	O	O
+149	O	3	O	IN	by	O	O	O
+149	Loc	4	O	NNP	Austria	O	O	O
+149	O	5	O	POS	's	O	O	O
+149	Org	6	O	NNP/NNP/NNP	Red/Bull/GmbH	O	O	O
+149	O	7	O	,	,	O	O	O
+149	O	8	O	CC	and	O	O	O
+149	O	9	O	NN	monster	O	O	O
+149	O	10	O	VBP	have	O	O	O
+149	O	11	O	DT	the	O	O	O
+149	O	12	O	JJS	largest	O	O	O
+149	O	13	O	NN	share	O	O	O
+149	O	14	O	IN	of	O	O	O
+149	O	15	O	DT	the	O	O	O
+149	O	16	O	JJ	global	O	O	O
+149	O	17	O	NN	energy	O	O	O
+149	O	18	O	NN	drink	O	O	O
+149	O	19	O	NN	market	O	O	O
+149	O	20	O	,	,	O	O	O
+149	O	21	O	VBG	accord	O	O	O
+149	O	22	O	TO	to	O	O	O
+149	Peop	23	O	NNP/NNP	Thomas/Mullarkey	O	O	O
+149	O	24	O	,	,	O	O	O
+149	O	25	O	DT	a	O	O	O
+149	OTHER	26	O	JJ	Chicago-based	O	O	O
+149	O	27	O	NN	analyst	O	O	O
+149	O	28	O	IN	at	O	O	O
+149	Org	29	O	NNP/NNP	Morningstar/Inc	O	O	O
+149	O	30	O	.	.	O	O	O
+
+6	0	Own
+
+150	OTHER	0	O	RB	Now	O	O	O
+150	O	1	O	VBN	own	O	O	O
+150	O	2	O	IN	by	O	O	O
+150	O	3	O	JJ	closely-held	O	O	O
+150	OTHER	4	O	JJ	Spanish	O	O	O
+150	O	5	O	NN	company	O	O	O
+150	Org	6	O	NNP/NNP/NNS	Grupo/Villar/Mir	O	O	O
+150	O	7	O	,	,	O	O	O
+150	Org	8	O	NNP	FerroPem	O	O	O
+150	O	9	O	``	``	O	O	O
+150	O	10	O	VBZ	pay	O	O	O
+150	O	11	O	JJR	less	O	O	O
+150	O	12	O	IN	than	O	O	O
+150	OTHER	13	O	CD/NNS	30/euros	O	O	O
+150	O	14	O	DT	a	O	O	O
+150	O	15	O	NN	megawatt	O	O	O
+150	OTHER	16	O	NN	hour	O	O	O
+150	O	17	O	,	,	O	O	O
+150	O	18	O	''	''	O	O	O
+150	O	19	O	PRP	he	O	O	O
+150	O	20	O	VBD	say	O	O	O
+150	O	21	O	IN	in	O	O	O
+150	O	22	O	DT	a	O	O	O
+150	O	23	O	NN	phone	O	O	O
+150	O	24	O	NN	interview	O	O	O
+150	O	25	O	,	,	O	O	O
+150	O	26	O	VBG	decline	O	O	O
+150	O	27	O	TO	to	O	O	O
+150	O	28	O	VB	give	O	O	O
+150	O	29	O	DT	the	O	O	O
+150	O	30	O	JJ	precise	O	O	O
+150	O	31	O	NN	price	O	O	O
+150	O	32	O	.	.	O	O	O
+
+6	8	Own
+
+151	Org	0	O	NNP	Porsche	O	O	O
+151	O	1	O	,	,	O	O	O
+151	O	2	O	DT	the	O	O	O
+151	O	3	O	NN	maker	O	O	O
+151	O	4	O	IN	of	O	O	O
+151	O	5	O	DT	the	O	O	O
+151	OTHER	6	O	CD	911	O	O	O
+151	O	7	O	NNS	sport	O	O	O
+151	O	8	O	NN	car	O	O	O
+151	O	9	O	WDT	that	O	O	O
+151	O	10	O	VBZ	be	O	O	O
+151	O	11	O	RB	also	O	O	O
+151	O	12	O	VBN	own	O	O	O
+151	O	13	O	IN	by	O	O	O
+151	Org	14	O	NNP	Volkswagen	O	O	O
+151	O	15	O	,	,	O	O	O
+151	O	16	O	VBD	report	O	O	O
+151	O	17	O	DT	a	O	O	O
+151	OTHER	18	O	CD/NN	15/percent	O	O	O
+151	O	19	O	NN	increase	O	O	O
+151	O	20	O	IN	in	O	O	O
+151	OTHER	21	O	CD	2013	O	O	O
+151	O	22	O	NNS	sale	O	O	O
+151	O	23	O	TO	to	O	O	O
+151	OTHER	24	O	CD	162,145	O	O	O
+151	O	25	O	NNS	car	O	O	O
+151	O	26	O	CC	and	O	O	O
+151	O	27	O	NNS	suv	O	O	O
+151	O	28	O	.	.	O	O	O
+
+14	0	Own
+
+152	Org	0	O	NNP/NNP/NNP/CC/NNP	Borgata/Hotel/Casino/&/Spa	O	O	O
+152	O	1	O	,	,	O	O	O
+152	O	2	O	VBN	own	O	O	O
+152	O	3	O	IN	by	O	O	O
+152	Org	4	O	NNP/NN/NNP	Boyd/Gaming/Corp	O	O	O
+152	O	5	O	.	.	O	O	O
+
+4	0	Own
+
+153	O	0	O	DT	the	O	O	O
+153	O	1	O	NN	measure	O	O	O
+153	O	2	O	VBD	rise	O	O	O
+153	OTHER	3	O	CD	41	O	O	O
+153	O	4	O	NN	basis	O	O	O
+153	O	5	O	NNS	point	O	O	O
+153	OTHER	6	O	JJ/NN	last/week	O	O	O
+153	O	7	O	IN	for	O	O	O
+153	OTHER	8	O	DT/JJ	a/second	O	O	O
+153	O	9	O	JJ	straight	O	O	O
+153	OTHER	10	O	NN	week	O	O	O
+153	O	11	O	IN	of	O	O	O
+153	O	12	O	NNS	increase	O	O	O
+153	O	13	O	,	,	O	O	O
+153	O	14	O	VBG	accord	O	O	O
+153	O	15	O	TO	to	O	O	O
+153	Org	16	O	NNP	CMA	O	O	O
+153	O	17	O	,	,	O	O	O
+153	O	18	O	WDT	which	O	O	O
+153	O	19	O	VBZ	be	O	O	O
+153	O	20	O	VBN	own	O	O	O
+153	O	21	O	IN	by	O	O	O
+153	Org	22	O	NNP/NNP	McGraw-Hill/Cos.	O	O	O
+153	O	23	O	``	``	O	O	O
+153	O	24	O	PRP	we	O	O	O
+153	O	25	O	VBD	decide	O	O	O
+153	O	26	O	TO	to	O	O	O
+153	O	27	O	VB	do	O	O	O
+153	O	28	O	NN	distribution	O	O	O
+153	O	29	O	PRP	ourselves	O	O	O
+153	O	30	O	RB	rather	O	O	O
+153	O	31	O	IN	than	O	O	O
+153	O	32	O	VBG	let	O	O	O
+153	O	33	O	NN	someone	O	O	O
+153	O	34	O	RB	else	O	O	O
+153	O	35	O	VB	be	O	O	O
+153	O	36	O	IN	in	O	O	O
+153	O	37	O	NN	charge	O	O	O
+153	O	38	O	''	''	O	O	O
+153	Org	39	O	NN/NN	SB/Power	O	O	O
+153	O	40	O	,	,	O	O	O
+153	O	41	O	DT	a	O	O	O
+153	O	42	O	RB	wholly	O	O	O
+153	O	43	O	VBN	own	O	O	O
+153	O	44	O	NN	unit	O	O	O
+153	O	45	O	IN	of	O	O	O
+153	Org	46	O	NN/NNP/NNP	SB/Energy/Corp	O	O	O
+153	O	47	O	.	.	O	O	O
+
+22	16	Own
+
+154	Org	0	O	NNP/NNP/NNP	Grupo/Iusacell/SA	O	O	O
+154	O	1	O	,	,	O	O	O
+154	O	2	O	DT	a	O	O	O
+154	O	3	O	NN	phone	O	O	O
+154	O	4	O	NN	operator	O	O	O
+154	O	5	O	VBN	co-own	O	O	O
+154	O	6	O	IN	by	O	O	O
+154	Peop	7	O	NNP/NNP	Ricardo/Salinas	O	O	O
+154	O	8	O	CC	and	O	O	O
+154	Org	9	O	NNP/NNP/NNP	Grupo/Televisa/SAB	O	O	O
+154	O	10	O	,	,	O	O	O
+154	O	11	O	VBD	ask	O	O	O
+154	Loc	12	O	NNP	Mexico	O	O	O
+154	O	13	O	POS	's	O	O	O
+154	O	14	O	NN	regulator	O	O	O
+154	O	15	O	TO	to	O	O	O
+154	O	16	O	VB	impose	O	O	O
+154	O	17	O	JJ	new	O	O	O
+154	O	18	O	NNS	rule	O	O	O
+154	O	19	O	TO	to	O	O	O
+154	O	20	O	VB	rein	O	O	O
+154	O	21	O	RP	in	O	O	O
+154	Org	22	O	NNP/NNP/NNP	America/Movil/SAB	O	O	O
+154	O	23	O	POS	's	O	O	O
+154	O	24	O	NN	dominance	O	O	O
+154	O	25	O	IN	in	O	O	O
+154	O	26	O	DT	the	O	O	O
+154	O	27	O	NN	market	O	O	O
+154	O	28	O	.	.	O	O	O
+
+9	0	Own
+
+155	Org	0	O	NNP/NNP	Diaverum/AB	O	O	O
+155	O	1	O	,	,	O	O	O
+155	O	2	O	DT	the	O	O	O
+155	O	3	O	JJ	dialysis-clinic	O	O	O
+155	O	4	O	NN	operator	O	O	O
+155	O	5	O	VBN	own	O	O	O
+155	O	6	O	IN	by	O	O	O
+155	Org	7	O	NNP	Bridgepoint	O	O	O
+155	O	8	O	,	,	O	O	O
+155	O	9	O	VBZ	be	O	O	O
+155	O	10	O	VBG	plan	O	O	O
+155	O	11	O	TO	to	O	O	O
+155	O	12	O	VB	raise	O	O	O
+155	O	13	O	RB	about	O	O	O
+155	OTHER	14	O	CD/CD/NNS	900/million/euros	O	O	O
+155	O	15	O	-LRB-	-lrb-	O	O	O
+155	OTHER	16	O	$/CD/CD	$/12/billion	O	O	O
+155	O	17	O	-RRB-	-rrb-	O	O	O
+155	O	18	O	IN	of	O	O	O
+155	O	19	O	NN	debt	O	O	O
+155	O	20	O	TO	to	O	O	O
+155	O	21	O	VB	help	O	O	O
+155	O	22	O	VB	refinance	O	O	O
+155	O	23	O	NNS	loan	O	O	O
+155	O	24	O	CC	and	O	O	O
+155	O	25	O	VB	build	O	O	O
+155	O	26	O	PRP$	its	O	O	O
+155	O	27	O	NN	business	O	O	O
+155	O	28	O	.	.	O	O	O
+
+7	0	Own
+
+156	Org	0	O	NNP	SouthGobi	O	O	O
+156	O	1	O	VBZ	be	O	O	O
+156	OTHER	2	O	CD	56	O	O	O
+156	O	3	O	JJ	percent-owned	O	O	O
+156	O	4	O	IN	by	O	O	O
+156	Org	5	O	NNP/NNP/NNPS/NNP	Turquoise/Hill/Resources/Ltd	O	O	O
+156	O	6	O	,	,	O	O	O
+156	O	7	O	VBG	accord	O	O	O
+156	O	8	O	TO	to	O	O	O
+156	O	9	O	NNS	datum	O	O	O
+156	O	10	O	VBN	compile	O	O	O
+156	O	11	O	IN	by	O	O	O
+156	Org	12	O	NNP	Bloomberg	O	O	O
+156	O	13	O	.	.	O	O	O
+
+5	0	Own
+
+157	Org	0	O	NNP	BNSF	O	O	O
+157	O	1	O	VBZ	be	O	O	O
+157	O	2	O	VBN	own	O	O	O
+157	O	3	O	IN	by	O	O	O
+157	Org	4	O	NNP/NNP/NNP	Berkshire/Hathaway/Inc	O	O	O
+157	O	5	O	.	.	O	O	O
+
+4	0	Own
+
