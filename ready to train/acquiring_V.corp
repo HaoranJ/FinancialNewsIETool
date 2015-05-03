@@ -461,7 +461,7 @@
 189	O	60	O	VBN	say	O	O	O
 189	O	61	O	.	.	O	O	O
 
-14	40	Acquire
+24	40	Acquire
 
 190	Org	0	O	JJ	JPMorgan	O	O	O
 190	O	1	O	NN	wound	O	O	O
@@ -473,4 +473,5 @@
 190	O	7	O	.	.	O	O	O
 
 0	6	Acquire
+
 
