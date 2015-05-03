@@ -1,3 +1,5 @@
+Four relations: Acquire, Own, Invest_In, Merge
+
 Input text:​company name, for example Google.
 Output graphic:​The user­input company is drawn as the central entity which is surrounded by several or dozens of other companies, and the arc lines between them represent the type of relationships (competitors, merged company, business cooperator, etc) and the intensity level of the relationships (weak competitors or strong competitors). Different types of relationships are represented as various shape of arcs and the intensity level is represented as distance between entities (shorter arc means “closer” or “stronger” relationship).
 The project aims to extract the information from financial news and to form a knowledge database that can provide relation information regarding related “entities”. For example, “Facebook $22 billion WhatsApp deal buys $10 million in sales last year.” For Facebook as the central entity, the relationship between them is the merged company and the intensity is strong.
