@@ -1,0 +1,708 @@
+105	Org	0	O	NNP	Charter	O	O	O
+105	O	1	O	,	,	O	O	O
+105	O	2	O	VBN	back	O	O	O
+105	O	3	O	IN	by	O	O	O
+105	Peop	4	O	NNP	Malone	O	O	O
+105	O	5	O	,	,	O	O	O
+105	O	6	O	VBZ	be	O	O	O
+105	O	7	O	VBG	prepare	O	O	O
+105	O	8	O	DT	a	O	O	O
+105	O	9	O	NN	takeover	O	O	O
+105	O	10	O	NN	offer	O	O	O
+105	O	11	O	IN	of	O	O	O
+105	O	12	O	IN	about	O	O	O
+105	OTHER	13	O	$/CD	$/135	O	O	O
+105	O	14	O	DT	a	O	O	O
+105	O	15	O	NN	share	O	O	O
+105	O	16	O	IN	for	O	O	O
+105	Org	17	O	NNP/NNP/NNP	Time/Warner/Cable	O	O	O
+105	O	18	O	,	,	O	O	O
+105	O	19	O	NNS	people	O	O	O
+105	O	20	O	JJ	familiar	O	O	O
+105	O	21	O	IN	with	O	O	O
+105	O	22	O	DT	the	O	O	O
+105	O	23	O	NN	situation	O	O	O
+105	O	24	O	VBP	have	O	O	O
+105	O	25	O	VBN	say	O	O	O
+105	O	26	O	.	.	O	O	O
+
+0	17	Acquire
+
+106	Org	0	O	NN/NNPS/NNP	Forest/Laboratories/Inc	O	O	O
+106	O	1	O	,	,	O	O	O
+106	O	2	O	DT	the	O	O	O
+106	O	3	O	NN	maker	O	O	O
+106	O	4	O	IN	of	O	O	O
+106	O	5	O	DT	the	O	O	O
+106	O	6	O	NN	alzheimer	O	O	O
+106	O	7	O	POS	's	O	O	O
+106	O	8	O	NN	drug	O	O	O
+106	Org	9	O	NNP	Namenda	O	O	O
+106	O	10	O	,	,	O	O	O
+106	O	11	O	VBD	raise	O	O	O
+106	OTHER	12	O	$/CD/CD	$/18/billion	O	O	O
+106	O	13	O	IN	with	O	O	O
+106	O	14	O	DT	a	O	O	O
+106	O	15	O	JJ	two-part	O	O	O
+106	O	16	O	NN	bond	O	O	O
+106	O	17	O	VBG	offer	O	O	O
+106	O	18	O	TO	to	O	O	O
+106	O	19	O	VB	fund	O	O	O
+106	O	20	O	DT	the	O	O	O
+106	O	21	O	NN	takeover	O	O	O
+106	O	22	O	IN	of	O	O	O
+106	Org	23	O	NNP/NNP	Aptalis/Pharma	O	O	O
+106	O	24	O	,	,	O	O	O
+106	O	25	O	JJR	more	O	O	O
+106	O	26	O	IN	than	O	O	O
+106	O	27	O	VBG	double	O	O	O
+106	O	28	O	PRP$	its	O	O	O
+106	O	29	O	NN	debt	O	O	O
+106	O	30	O	.	.	O	O	O
+
+9	23	Acquire
+
+107	Org	0	O	NNP	Apple	O	O	O
+107	O	1	O	NNS	sale	O	O	O
+107	O	2	O	VBD	rise	O	O	O
+107	OTHER	3	O	CD/NN	81/percent	O	O	O
+107	O	4	O	TO	to	O	O	O
+107	OTHER	5	O	CD/CD/NNS	185/billion/euros	O	O	O
+107	O	6	O	,	,	O	O	O
+107	O	7	O	VBN	boost	O	O	O
+107	O	8	O	IN	by	O	O	O
+107	O	9	O	DT	the	O	O	O
+107	O	10	O	NN	takeover	O	O	O
+107	O	11	O	IN	of	O	O	O
+107	O	12	O	NN	light-source	O	O	O
+107	O	13	O	NN	manufacturer	O	O	O
+107	Org	14	O	NNP/NNP	Cymer/Inc	O	O	O
+107	O	15	O	.	.	O	O	O
+
+0	14	Acquire
+
+108	Org	0	O	NNP	Statoil	O	O	O
+108	O	1	O	VBZ	have	O	O	O
+108	O	2	O	RB	already	O	O	O
+108	O	3	O	VBN	make	O	O	O
+108	O	4	O	NNS	foray	O	O	O
+108	O	5	O	IN	into	O	O	O
+108	Loc	6	O	NNP/NNP	North/America	O	O	O
+108	O	7	O	IN	through	O	O	O
+108	O	8	O	NNS	takeover	O	O	O
+108	O	9	O	,	,	O	O	O
+108	O	10	O	VBG	spend	O	O	O
+108	OTHER	11	O	$/CD/CD	$/45/billion	O	O	O
+108	O	12	O	TO	to	O	O	O
+108	O	13	O	VB	acquire	O	O	O
+108	Loc	14	O	NNP	Austin	O	O	O
+108	O	15	O	,	,	O	O	O
+108	O	16	O	JJ	texas-based	O	O	O
+108	Org	17	O	NNP/NNP/NNP	Brigham/Exploration/Co	O	O	O
+108	O	18	O	.	.	O	O	O
+
+0	17	Acquire
+
+109	Org	0	O	NNP/NNP	AB/InBev	O	O	O
+109	O	1	O	,	,	O	O	O
+109	O	2	O	DT	the	O	O	O
+109	O	3	O	NN	world	O	O	O
+109	O	4	O	POS	's	O	O	O
+109	O	5	O	JJS	biggest	O	O	O
+109	O	6	O	NN	beermaker	O	O	O
+109	O	7	O	,	,	O	O	O
+109	O	8	O	VBD	sell	O	O	O
+109	O	9	O	PRP	it	O	O	O
+109	O	10	O	TO	to	O	O	O
+109	Org	11	O	NNP	KKR	O	O	O
+109	O	12	O	IN	in	O	O	O
+109	OTHER	13	O	CD	2009	O	O	O
+109	O	14	O	IN	for	O	O	O
+109	OTHER	15	O	$/CD/CD	$/18/billion	O	O	O
+109	O	16	O	WRB	when	O	O	O
+109	O	17	O	PRP	it	O	O	O
+109	O	18	O	VBD	seek	O	O	O
+109	O	19	O	TO	to	O	O	O
+109	O	20	O	VB	cut	O	O	O
+109	O	21	O	NN	debt	O	O	O
+109	O	22	O	VBG	follow	O	O	O
+109	Org	23	O	NNP/NNP	InBev/NV	O	O	O
+109	O	24	O	POS	's	O	O	O
+109	OTHER	25	O	$/CD/CD	$/52/billion	O	O	O
+109	O	26	O	NN	takeover	O	O	O
+109	O	27	O	IN	of	O	O	O
+109	Org	28	O	NNP/NNP	Anheuser-Busch/Cos	O	O	O
+109	O	29	O	.	.	O	O	O
+
+23	28	Acquire
+
+110	O	0	O	DT	the	O	O	O
+110	O	1	O	NN	company	O	O	O
+110	Org	2	O	NNP	XYZ	O	O	O
+110	O	3	O	VBD	agree	O	O	O
+110	O	4	O	IN	in	O	O	O
+110	OTHER	5	O	NNP	July	O	O	O
+110	O	6	O	TO	to	O	O	O
+110	O	7	O	DT	a	O	O	O
+110	OTHER	8	O	$/CD/CD	$/39/billion	O	O	O
+110	O	9	O	NN	takeover	O	O	O
+110	O	10	O	IN	by	O	O	O
+110	Org	11	O	NNP/NNP/NNPS/NNP	Community/Health/Systems/Inc	O	O	O
+110	O	12	O	,	,	O	O	O
+110	O	13	O	DT	the	O	O	O
+110	O	14	O	JJ	second-biggest	O	O	O
+110	Loc	15	O	NNP	US	O	O	O
+110	O	16	O	.	.	O	O	O
+
+11	2	Acquire
+
+111	Org	0	O	NNP	Fiat	O	O	O
+111	O	1	O	,	,	O	O	O
+111	O	2	O	WDT	which	O	O	O
+111	O	3	O	VBD	own	O	O	O
+111	OTHER	4	O	CD/NN	585/percent	O	O	O
+111	O	5	O	IN	of	O	O	O
+111	Org	6	O	NNP	Chrysler	O	O	O
+111	O	7	O	IN	before	O	O	O
+111	O	8	O	TO	to	O	O	O
+111	O	9	O	DT	the	O	O	O
+111	O	10	O	JJ	full	O	O	O
+111	O	11	O	NN	takeover	O	O	O
+111	OTHER	12	O	DT/NN	this/month	O	O	O
+111	O	13	O	,	,	O	O	O
+111	O	14	O	VBZ	rely	O	O	O
+111	O	15	O	IN	on	O	O	O
+111	O	16	O	DT	the	O	O	O
+111	Loc	17	O	NNP	US	O	O	O
+111	O	18	O	.	.	O	O	O
+
+0	6	Acquire
+
+112	Org	0	O	NNP	Statoil	O	O	O
+112	O	1	O	,	,	O	O	O
+112	Loc	2	O	NNP	Norway	O	O	O
+112	O	3	O	POS	's	O	O	O
+112	O	4	O	JJ	national	O	O	O
+112	O	5	O	NN	oil	O	O	O
+112	O	6	O	NN	company	O	O	O
+112	O	7	O	,	,	O	O	O
+112	O	8	O	VBZ	have	O	O	O
+112	O	9	O	VBN	analyze	O	O	O
+112	Org	10	O	NNP	Tullow	O	O	O
+112	O	11	O	IN	as	O	O	O
+112	O	12	O	DT	a	O	O	O
+112	O	13	O	JJ	potential	O	O	O
+112	O	14	O	NN	takeover	O	O	O
+112	O	15	O	NN	target	O	O	O
+112	O	16	O	,	,	O	O	O
+112	OTHER	17	O	CD	one	O	O	O
+112	O	18	O	IN	of	O	O	O
+112	O	19	O	DT	the	O	O	O
+112	O	20	O	NNS	people	O	O	O
+112	O	21	O	JJ	familiar	O	O	O
+112	O	22	O	IN	with	O	O	O
+112	O	23	O	DT	the	O	O	O
+112	O	24	O	NN	matter	O	O	O
+112	O	25	O	VBD	say	O	O	O
+112	OTHER	26	O	JJ/NN	late/yesterday	O	O	O
+112	O	27	O	.	.	O	O	O
+
+
+113	Org	0	O	NNP/NNP/NNP/NNP	Valeant/Pharmaceuticals/International/Inc	O	O	O
+113	O	1	O	POS	's	O	O	O
+113	OTHER	2	O	$/CD/CD	$/23/billion	O	O	O
+113	O	3	O	NN	equity	O	O	O
+113	O	4	O	NN	sale	O	O	O
+113	O	5	O	IN	in	O	O	O
+113	OTHER	6	O	NNP	June	O	O	O
+113	O	7	O	VBD	help	O	O	O
+113	O	8	O	VB	fund	O	O	O
+113	O	9	O	PRP$	its	O	O	O
+113	O	10	O	NN	takeover	O	O	O
+113	O	11	O	IN	of	O	O	O
+113	Org	12	O	NNP/CC/NNP/NNPS/NNP	Bausch/&/Lomb/Holdings/Inc	O	O	O
+113	O	13	O	,	,	O	O	O
+113	Org	14	O	NNP/NNP	Empire/Co	O	O	O
+113	O	15	O	POS	's	O	O	O
+113	OTHER	16	O	$/CD/CD	C$/184/billion	O	O	O
+113	O	17	O	-LRB-	-lrb-	O	O	O
+113	OTHER	18	O	$/CD/CD	$/173/billion	O	O	O
+113	O	19	O	-RRB-	-rrb-	O	O	O
+113	O	20	O	NN	offering	O	O	O
+113	O	21	O	IN	of	O	O	O
+113	O	22	O	NN	subscription	O	O	O
+113	O	23	O	NNS	receipt	O	O	O
+113	O	24	O	VBD	help	O	O	O
+113	O	25	O	VB	pay	O	O	O
+113	O	26	O	IN	for	O	O	O
+113	O	27	O	PRP$	its	O	O	O
+113	O	28	O	NN	purchase	O	O	O
+113	O	29	O	IN	of	O	O	O
+113	Org	30	O	NNP/NNP	Safeway/Inc	O	O	O
+113	O	31	O	POS	's	O	O	O
+113	OTHER	32	O	JJ	Canadian	O	O	O
+113	O	33	O	NNS	store	O	O	O
+113	O	34	O	,	,	O	O	O
+113	O	35	O	CC	and	O	O	O
+113	Org	36	O	NNP/NNP	Fortis/Inc	O	O	O
+113	O	37	O	POS	's	O	O	O
+113	OTHER	38	O	$/CD/CD	C$/159/billion	O	O	O
+113	O	39	O	NN	debenture	O	O	O
+113	O	40	O	NN	sale	O	O	O
+113	OTHER	41	O	JJ/NN	last/month	O	O	O
+113	O	42	O	VBD	go	O	O	O
+113	O	43	O	IN	toward	O	O	O
+113	O	44	O	PRP$	its	O	O	O
+113	O	45	O	NN	purchase	O	O	O
+113	O	46	O	IN	of	O	O	O
+113	Loc	47	O	NNP	Tucson	O	O	O
+113	O	48	O	,	,	O	O	O
+113	OTHER	49	O	JJ	Arizona-based	O	O	O
+113	Org	50	O	NNP/NNP/NNP	UNS/Energy/Corp	O	O	O
+113	O	51	O	.	.	O	O	O
+
+0	12	Acquire
+
+114	Org	0	O	NNP	Valeant	O	O	O
+114	O	1	O	VBZ	have	O	O	O
+114	O	2	O	VBN	expand	O	O	O
+114	O	3	O	IN	in	O	O	O
+114	O	4	O	NN	skin	O	O	O
+114	O	5	O	NN	care	O	O	O
+114	O	6	O	,	,	O	O	O
+114	O	7	O	NN	eye	O	O	O
+114	O	8	O	NN	care	O	O	O
+114	O	9	O	CC	and	O	O	O
+114	O	10	O	JJ	medical	O	O	O
+114	O	11	O	NNS	device	O	O	O
+114	O	12	O	IN	with	O	O	O
+114	O	13	O	DT	the	O	O	O
+114	O	14	O	NNS	takeover	O	O	O
+114	O	15	O	IN	of	O	O	O
+114	Org	16	O	NNP/NNP/NNPS/NNP	Obagi/Medical/Products/Inc	O	O	O
+114	O	17	O	,	,	O	O	O
+114	Org	18	O	NNP/CC/NNP	Bausch/&/Lomb	O	O	O
+114	O	19	O	CC	and	O	O	O
+114	Org	20	O	NNP/NNP/NNP	Solta/Medical/Inc	O	O	O
+114	O	21	O	.	.	O	O	O
+
+0	16	Acquire
+
+115	O	0	O	DT	the	O	O	O
+115	O	1	O	NN	shakeup	O	O	O
+115	O	2	O	VBZ	follow	O	O	O
+115	O	3	O	DT	a	O	O	O
+115	O	4	O	JJ	new	O	O	O
+115	O	5	O	NN	delay	O	O	O
+115	O	6	O	IN	in	O	O	O
+115	Org	7	O	NNP	M&T	O	O	O
+115	O	8	O	POS	's	O	O	O
+115	OTHER	9	O	$/CD/CD	$/37/billion	O	O	O
+115	O	10	O	NN	takeover	O	O	O
+115	O	11	O	IN	of	O	O	O
+115	O	12	O	NNP	New	O	O	O
+115	O	13	O	JJ	jersey-based	O	O	O
+115	Org	14	O	NNP/NNP	Hudson/City	O	O	O
+115	O	15	O	,	,	O	O	O
+115	O	16	O	VBD	announce	O	O	O
+115	O	17	O	IN	in	O	O	O
+115	OTHER	18	O	NNP/CD	August/2012	O	O	O
+115	O	19	O	.	.	O	O	O
+
+7	14	Acquire
+
+116	O	0	O	DT	the	O	O	O
+116	O	1	O	JJ	activist	O	O	O
+116	O	2	O	NN	investor	O	O	O
+116	O	3	O	VBZ	be	O	O	O
+116	O	4	O	RB	probably	O	O	O
+116	O	5	O	VBG	try	O	O	O
+116	O	6	O	TO	to	O	O	O
+116	O	7	O	VB	draw	O	O	O
+116	O	8	O	VBG	compete	O	O	O
+116	O	9	O	NNS	bid	O	O	O
+116	O	10	O	IN	for	O	O	O
+116	Org	11	O	NNP	Riverb	O	O	O
+116	O	12	O	IN	with	O	O	O
+116	O	13	O	PRP$	its	O	O	O
+116	OTHER	14	O	$/JJ	$/19-a-share	O	O	O
+116	O	15	O	NN	takeover	O	O	O
+116	O	16	O	NN	offer	O	O	O
+116	O	17	O	,	,	O	O	O
+116	O	18	O	VBD	say	O	O	O
+116	O	19	O	NN	stockholder	O	O	O
+116	Org	20	O	NNP/NNP	Parnassus/Investments	O	O	O
+116	O	21	O	.	.	O	O	O
+
+20	11	Acquire
+
+117	Org	0	O	NNP	Elliott	O	O	O
+117	O	1	O	POS	's	O	O	O
+117	O	2	O	NN	takeover	O	O	O
+117	O	3	O	NN	offer	O	O	O
+117	O	4	O	IN	for	O	O	O
+117	Org	5	O	NNP	Riverbed	O	O	O
+117	O	6	O	MD	would	O	O	O
+117	O	7	O	VB	include	O	O	O
+117	O	8	O	DT	a	O	O	O
+117	O	9	O	JJ	go-shop	O	O	O
+117	O	10	O	NN	period	O	O	O
+117	O	11	O	TO	to	O	O	O
+117	O	12	O	VB	allow	O	O	O
+117	O	13	O	DT	the	O	O	O
+117	O	14	O	NN	board	O	O	O
+117	O	15	O	TO	to	O	O	O
+117	O	16	O	VB	seek	O	O	O
+117	O	17	O	VBG	compete	O	O	O
+117	O	18	O	NNS	offer	O	O	O
+117	O	19	O	,	,	O	O	O
+117	O	20	O	CC	and	O	O	O
+117	O	21	O	DT	the	O	O	O
+117	O	22	O	NN	hedge	O	O	O
+117	O	23	O	NN	fund	O	O	O
+117	O	24	O	VBD	say	O	O	O
+117	O	25	O	PRP	it	O	O	O
+117	O	26	O	MD	may	O	O	O
+117	O	27	O	VB	boost	O	O	O
+117	O	28	O	PRP$	its	O	O	O
+117	O	29	O	JJ	own	O	O	O
+117	O	30	O	NN	bid	O	O	O
+117	O	31	O	IN	after	O	O	O
+117	O	32	O	VBG	conduct	O	O	O
+117	O	33	O	JJ	due	O	O	O
+117	O	34	O	NN	diligence	O	O	O
+117	O	35	O	.	.	O	O	O
+
+0	5	Acquire
+
+118	O	0	O	DT	the	O	O	O
+118	O	1	O	JJR	tighter	O	O	O
+118	O	2	O	NN	cooperation	O	O	O
+118	O	3	O	VBZ	follow	O	O	O
+118	Org	4	O	NNP/NNP	Fiat/SpA	O	O	O
+118	O	5	O	POS	's	O	O	O
+118	O	6	O	JJ	full	O	O	O
+118	O	7	O	NN	takeover	O	O	O
+118	O	8	O	IN	of	O	O	O
+118	Org	9	O	NNP	Chrysler	O	O	O
+118	O	10	O	CC	and	O	O	O
+118	O	11	O	PRP$	its	O	O	O
+118	O	12	O	NN	move	O	O	O
+118	O	13	O	TO	to	O	O	O
+118	O	14	O	VB	create	O	O	O
+118	O	15	O	DT	a	O	O	O
+118	O	16	O	JJ	combined	O	O	O
+118	O	17	O	NN	company	O	O	O
+118	O	18	O	.	.	O	O	O
+
+4	9	Acquire
+
+119	O	0	O	JJ	overseas	O	O	O
+119	O	1	O	NN	expansion	O	O	O
+119	O	2	O	``	``	O	O	O
+119	Org	3	O	PRP	I	O	O	O
+119	O	4	O	VBP	do	O	O	O
+119	O	5	O	RB	not	O	O	O
+119	O	6	O	VB	think	O	O	O
+119	O	7	O	PRP	it	O	O	O
+119	O	8	O	MD	would	O	O	O
+119	O	9	O	VB	be	O	O	O
+119	O	10	O	JJ	fair	O	O	O
+119	O	11	O	TO	to	O	O	O
+119	O	12	O	VB	make	O	O	O
+119	O	13	O	DT	the	O	O	O
+119	O	14	O	NN	comparison	O	O	O
+119	O	15	O	WDT	that	O	O	O
+119	O	16	O	IN	since	O	O	O
+119	Org	17	O	NN	DBS	O	O	O
+119	O	18	O	CC	and	O	O	O
+119	Peop	19	O	NNP/NNP	Dao/Heng	O	O	O
+119	O	20	O	VBD	be	O	O	O
+119	O	21	O	RB	so	O	O	O
+119	O	22	O	RB	disastrously	O	O	O
+119	O	23	O	JJ	bad	O	O	O
+119	O	24	O	,	,	O	O	O
+119	O	25	O	DT	this	O	O	O
+119	OTHER	26	O	CD	one	O	O	O
+119	O	27	O	VBZ	be	O	O	O
+119	O	28	O	RB	also	O	O	O
+119	O	29	O	VBG	go	O	O	O
+119	O	30	O	TO	to	O	O	O
+119	O	31	O	VB	be	O	O	O
+119	O	32	O	RB	as	O	O	O
+119	O	33	O	JJ	bad	O	O	O
+119	O	34	O	,	,	O	O	O
+119	O	35	O	''	''	O	O	O
+119	O	36	O	VBD	say	O	O	O
+119	Org	37	O	NNP	Macquarie	O	O	O
+119	O	38	O	POS	's	O	O	O
+119	Peop	39	O	NNP	Smith	O	O	O
+119	O	40	O	,	,	O	O	O
+119	O	41	O	VBG	refer	O	O	O
+119	O	42	O	TO	to	O	O	O
+119	O	43	O	DT	a	O	O	O
+119	O	44	O	JJ	possible	O	O	O
+119	O	45	O	NN	takeover	O	O	O
+119	O	46	O	IN	of	O	O	O
+119	O	47	O	NN	wing	O	O	O
+119	O	48	O	NNP	Hang	O	O	O
+119	O	49	O	IN	by	O	O	O
+119	Org	50	O	NNP	OCBC	O	O	O
+119	O	51	O	.	.	O	O	O
+
+37	50	Acquire
+
+120	Org	0	O	NNP	jazz	O	O	O
+120	O	1	O	RB	also	O	O	O
+120	O	2	O	VBZ	sell	O	O	O
+120	O	3	O	NNP	Prialt	O	O	O
+120	O	4	O	,	,	O	O	O
+120	O	5	O	DT	a	O	O	O
+120	O	6	O	JJ	chronic	O	O	O
+120	O	7	O	NN	pain	O	O	O
+120	O	8	O	NN	medicine	O	O	O
+120	O	9	O	VBN	inherit	O	O	O
+120	O	10	O	IN	from	O	O	O
+120	O	11	O	DT	the	O	O	O
+120	O	12	O	NN	takeover	O	O	O
+120	O	13	O	IN	of	O	O	O
+120	Org	14	O	NNP/NNP/NNP	Azur/Pharma/Ltd	O	O	O
+120	O	15	O	.	.	O	O	O
+
+0	14	Acquire
+
+121	O	0	O	NNS	shopper	O	O	O
+121	O	1	O	JJS	biggest	O	O	O
+121	O	2	O	DT	the	O	O	O
+121	O	3	O	JJS	biggest	O	O	O
+121	O	4	O	NNS	takeover	O	O	O
+121	O	5	O	IN	of	O	O	O
+121	OTHER	6	O	CD	2013	O	O	O
+121	O	7	O	VBD	be	O	O	O
+121	O	8	O	IN	in	O	O	O
+121	O	9	O	JJ	retail	O	O	O
+121	O	10	O	,	,	O	O	O
+121	O	11	O	VBN	lead	O	O	O
+121	O	12	O	IN	by	O	O	O
+121	Org	13	O	NNP/NNP	Loblaw/Cos	O	O	O
+121	O	14	O	POS	's	O	O	O
+121	OTHER	15	O	NNP	July	O	O	O
+121	O	16	O	NN	bid	O	O	O
+121	O	17	O	TO	to	O	O	O
+121	O	18	O	VB	buy	O	O	O
+121	Org	19	O	NNP/NNP/NNP/NNP	Shoppers/Drug/Mart/Corp	O	O	O
+121	O	20	O	,	,	O	O	O
+121	Loc	21	O	NNP	Canada	O	O	O
+121	O	22	O	POS	's	O	O	O
+121	O	23	O	JJS	largest	O	O	O
+121	O	24	O	NN	drug-store	O	O	O
+121	O	25	O	NN	chain	O	O	O
+121	O	26	O	,	,	O	O	O
+121	O	27	O	IN	for	O	O	O
+121	OTHER	28	O	$/CD/CD	$/13/billion	O	O	O
+121	O	29	O	VBG	include	O	O	O
+121	O	30	O	NN	debt	O	O	O
+121	O	31	O	,	,	O	O	O
+121	O	32	O	DT	the	O	O	O
+121	O	33	O	NNS	datum	O	O	O
+121	O	34	O	VBP	show	O	O	O
+121	O	35	O	.	.	O	O	O
+
+13	19	Acquire
+
+122	O	0	O	DT	the	O	O	O
+122	OTHER	1	O	$/CD/CD	$/6/billion	O	O	O
+122	O	2	O	NN	purchase	O	O	O
+122	O	3	O	IN	of	O	O	O
+122	Org	4	O	NNP/NNP/NNP	Neiman/Marcus/Inc	O	O	O
+122	O	5	O	,	,	O	O	O
+122	O	6	O	DT	a	O	O	O
+122	OTHER	7	O	JJ	Dallas-based	O	O	O
+122	O	8	O	NN	luxury	O	O	O
+122	O	9	O	NN	chain	O	O	O
+122	O	10	O	,	,	O	O	O
+122	O	11	O	IN	by	O	O	O
+122	Org	12	O	NNP/NNP/NNP/NNP/NNP	Canada/Pension/Plan/Investment/Board	O	O	O
+122	O	13	O	CC	and	O	O	O
+122	Org	14	O	NNP/NNP/NNP	Ares/Management/LLC	O	O	O
+122	O	15	O	VBD	be	O	O	O
+122	O	16	O	DT	the	O	O	O
+122	O	17	O	JJ	second-largest	O	O	O
+122	O	18	O	,	,	O	O	O
+122	O	19	O	IN	with	O	O	O
+122	Org	20	O	NNP/NNP	Empire/Co	O	O	O
+122	O	21	O	POS	's	O	O	O
+122	OTHER	22	O	$/CD/CD	$/569/billion	O	O	O
+122	O	23	O	NN	takeover	O	O	O
+122	O	24	O	IN	of	O	O	O
+122	Org	25	O	NNP/NNP	Safeway/Inc	O	O	O
+122	O	26	O	POS	's	O	O	O
+122	OTHER	27	O	JJ	Canadian	O	O	O
+122	O	28	O	NN	grocery	O	O	O
+122	O	29	O	NNS	store	O	O	O
+122	O	30	O	JJ	ranking	O	O	O
+122	OTHER	31	O	JJ	third	O	O	O
+122	O	32	O	.	.	O	O	O
+
+12	4	Acquire
+
+123	Org	0	O	NNP	Elliott	O	O	O
+123	O	1	O	POS	's	O	O	O
+123	O	2	O	NN	targeting	O	O	O
+123	O	3	O	IN	of	O	O	O
+123	O	4	O	NN	juniper	O	O	O
+123	O	5	O	VBZ	follow	O	O	O
+123	O	6	O	DT	a	O	O	O
+123	O	7	O	NN	takeover	O	O	O
+123	O	8	O	NN	offer	O	O	O
+123	OTHER	9	O	JJ/NN	last/week	O	O	O
+123	O	10	O	IN	for	O	O	O
+123	O	11	O	DT	another	O	O	O
+123	O	12	O	VBG	network	O	O	O
+123	O	13	O	NN	company	O	O	O
+123	O	14	O	,	,	O	O	O
+123	Org	15	O	NNP/NNP/NNP	Riverbed/Technology/Inc	O	O	O
+123	O	16	O	.	.	O	O	O
+
+0	15	Acquire
+
+124	Org	0	O	NNP	Cheese	O	O	O
+124	O	1	O	NN	restaurant	O	O	O
+124	O	2	O	NN	chain	O	O	O
+124	O	3	O	,	,	O	O	O
+124	O	4	O	VBD	agree	O	O	O
+124	O	5	O	TO	to	O	O	O
+124	O	6	O	DT	a	O	O	O
+124	O	7	O	NN	takeover	O	O	O
+124	O	8	O	IN	by	O	O	O
+124	O	9	O	DT	a	O	O	O
+124	O	10	O	NN	affiliate	O	O	O
+124	O	11	O	IN	of	O	O	O
+124	Org	12	O	NNP/NNP/NNP/NNP	Apollo/Global/Management/LLC	O	O	O
+124	O	13	O	IN	in	O	O	O
+124	O	14	O	DT	a	O	O	O
+124	O	15	O	NN	transaction	O	O	O
+124	O	16	O	VBN	value	O	O	O
+124	O	17	O	IN	at	O	O	O
+124	OTHER	18	O	$/CD/CD	$/13/billion	O	O	O
+124	O	19	O	,	,	O	O	O
+124	O	20	O	VBG	include	O	O	O
+124	O	21	O	NN	debt	O	O	O
+124	O	22	O	.	.	O	O	O
+
+12	0	Acquire
+
+125	Org	0	O	NNP/NNPS/NNP	Charter/Communications/Inc	O	O	O
+125	O	1	O	,	,	O	O	O
+125	O	2	O	VBN	back	O	O	O
+125	O	3	O	IN	by	O	O	O
+125	O	4	O	NN	billionaire	O	O	O
+125	O	5	O	NN	backer	O	O	O
+125	Peop	6	O	NNP/NNP	John/Malone	O	O	O
+125	O	7	O	,	,	O	O	O
+125	O	8	O	VBZ	be	O	O	O
+125	O	9	O	VBG	prepare	O	O	O
+125	O	10	O	DT	a	O	O	O
+125	O	11	O	NN	takeover	O	O	O
+125	O	12	O	NN	offer	O	O	O
+125	O	13	O	IN	of	O	O	O
+125	O	14	O	IN	about	O	O	O
+125	OTHER	15	O	$/CD	$/135	O	O	O
+125	O	16	O	DT	a	O	O	O
+125	O	17	O	NN	share	O	O	O
+125	O	18	O	IN	for	O	O	O
+125	Org	19	O	NNP/NNP/NNP/NNP	Time/Warner/Cable/Inc	O	O	O
+125	O	20	O	,	,	O	O	O
+125	O	21	O	VBG	accord	O	O	O
+125	O	22	O	TO	to	O	O	O
+125	O	23	O	DT	a	O	O	O
+125	O	24	O	NN	person	O	O	O
+125	O	25	O	JJ	familiar	O	O	O
+125	O	26	O	IN	with	O	O	O
+125	O	27	O	DT	the	O	O	O
+125	O	28	O	NN	matter	O	O	O
+125	O	29	O	.	.	O	O	O
+
+19	0	Acquire
+
+126	Org	0	O	NNP/NNP	AB/InBev	O	O	O
+126	O	1	O	POS	's	O	O	O
+126	O	2	O	NN	takeover	O	O	O
+126	O	3	O	IN	of	O	O	O
+126	Org	4	O	JJ/NNP	Oriental/Brewery	O	O	O
+126	O	5	O	VBZ	stem	O	O	O
+126	O	6	O	IN	from	O	O	O
+126	O	7	O	PRP$	its	O	O	O
+126	O	8	O	JJ	previous	O	O	O
+126	O	9	O	NN	sale	O	O	O
+126	O	10	O	IN	of	O	O	O
+126	O	11	O	DT	the	O	O	O
+126	O	12	O	NN	asset	O	O	O
+126	O	13	O	TO	to	O	O	O
+126	Org	14	O	NNP/CC/NNP	KKR/&/Co	O	O	O
+126	O	15	O	.	.	O	O	O
+
+0	4	Acquire
+
+127	Peop	0	O	NNP	Logista	O	O	O
+127	O	1	O	VBD	be	O	O	O
+127	O	2	O	VBN	acquire	O	O	O
+127	O	3	O	IN	by	O	O	O
+127	Org	4	O	NNP	Imperial	O	O	O
+127	O	5	O	IN	in	O	O	O
+127	OTHER	6	O	CD	2008	O	O	O
+127	O	7	O	IN	as	O	O	O
+127	O	8	O	NN	part	O	O	O
+127	O	9	O	IN	of	O	O	O
+127	O	10	O	DT	the	O	O	O
+127	OTHER	11	O	CD	126	O	O	O
+127	O	12	O	NN	billion-euro	O	O	O
+127	O	13	O	-LRB-	-lrb-	O	O	O
+127	OTHER	14	O	$/CD/CD	$/17/billion	O	O	O
+127	O	15	O	-RRB-	-rrb-	O	O	O
+127	O	16	O	NN	takeover	O	O	O
+127	O	17	O	IN	of	O	O	O
+127	O	18	O	NN	cigarette	O	O	O
+127	O	19	O	NN	maker	O	O	O
+127	Org	20	O	NNP/NNP	Altadis/SA	O	O	O
+127	O	21	O	.	.	O	O	O
+
+4	20	Acquire
+
+128	Org	0	O	NNP	Myer	O	O	O
+128	O	1	O	NNP	Benefit	O	O	O
+128	O	2	O	NNP	Myer	O	O	O
+128	O	3	O	NNS	shareholder	O	O	O
+128	O	4	O	MD	would	O	O	O
+128	O	5	O	VB	benefit	O	O	O
+128	O	6	O	IN	from	O	O	O
+128	O	7	O	DT	a	O	O	O
+128	O	8	O	NN	takeover	O	O	O
+128	O	9	O	IN	of	O	O	O
+128	Org	10	O	NNP/NNP	David/Jones	O	O	O
+128	O	11	O	,	,	O	O	O
+128	O	12	O	RB	even	O	O	O
+128	O	13	O	IN	if	O	O	O
+128	O	14	O	DT	the	O	O	O
+128	O	15	O	NN	company	O	O	O
+128	O	16	O	VBD	pay	O	O	O
+128	O	17	O	DT	a	O	O	O
+128	OTHER	18	O	CD/NN	30/percent	O	O	O
+128	O	19	O	NN	premium	O	O	O
+128	O	20	O	,	,	O	O	O
+128	Peop	21	O	NNP/NNP	Michael/Simotas	O	O	O
+128	O	22	O	,	,	O	O	O
+128	O	23	O	DT	a	O	O	O
+128	OTHER	24	O	JJ	Sydney-based	O	O	O
+128	O	25	O	NN	analyst	O	O	O
+128	O	26	O	IN	at	O	O	O
+128	Org	27	O	NNP/NNP	Deutsche/Bank	O	O	O
+128	O	28	O	,	,	O	O	O
+128	O	29	O	VBD	say	O	O	O
+128	O	30	O	IN	in	O	O	O
+128	O	31	O	DT	a	O	O	O
+128	OTHER	32	O	NNP	Jan	O	O	O
+128	O	33	O	.	.	O	O	O
+
+0	10	Acquire
+
