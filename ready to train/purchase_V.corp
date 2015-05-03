@@ -1,0 +1,465 @@
+234	Org	0	O	NNP	DuPont	O	O	O
+234	O	1	O	VBZ	be	O	O	O
+234	O	2	O	VBG	pursue	O	O	O
+234	O	3	O	``	``	O	O	O
+234	O	4	O	JJR	smaller	O	O	O
+234	O	5	O	''	''	O	O	O
+234	O	6	O	NNS	acquisition	O	O	O
+234	O	7	O	IN	with	O	O	O
+234	O	8	O	JJ	geographic	O	O	O
+234	O	9	O	NN	significance	O	O	O
+234	O	10	O	,	,	O	O	O
+234	O	11	O	JJ	such	O	O	O
+234	O	12	O	IN	as	O	O	O
+234	OTHER	13	O	JJ/NN	last/year	O	O	O
+234	O	14	O	POS	's	O	O	O
+234	O	15	O	NN	purchase	O	O	O
+234	O	16	O	IN	of	O	O	O
+234	Org	17	O	NNP/NN/NNP	Pannar/Seed/Ltd	O	O	O
+234	O	18	O	,	,	O	O	O
+234	Loc	19	O	NNP	Africa	O	O	O
+234	O	20	O	POS	's	O	O	O
+234	O	21	O	JJS	largest	O	O	O
+234	O	22	O	NN	seed	O	O	O
+234	O	23	O	NN	producer	O	O	O
+234	O	24	O	,	,	O	O	O
+234	O	25	O	DT	the	O	O	O
+234	Org	26	O	NNP	CEO	O	O	O
+234	O	27	O	VBD	say	O	O	O
+234	O	28	O	.	.	O	O	O
+
+0	17	Acquire
+
+235	Org	0	O	DT	A	O	O	O
+235	O	1	O	NN	court	O	O	O
+235	O	2	O	IN	in	O	O	O
+235	Loc	3	O	NNP	India	O	O	O
+235	O	4	O	POS	's	O	O	O
+235	Loc	5	O	NNP	Karnataka	O	O	O
+235	O	6	O	NN	state	O	O	O
+235	OTHER	7	O	JJ/NN	last/month	O	O	O
+235	O	8	O	VBD	rule	O	O	O
+235	Org	9	O	NNP	Diageo	O	O	O
+235	O	10	O	POS	's	O	O	O
+235	O	11	O	NN	purchase	O	O	O
+235	O	12	O	IN	of	O	O	O
+235	O	13	O	DT	a	O	O	O
+235	O	14	O	NN	stake	O	O	O
+235	O	15	O	IN	in	O	O	O
+235	Org	16	O	NNP/NNPS	United/Spirits	O	O	O
+235	O	17	O	NN	void	O	O	O
+235	O	18	O	,	,	O	O	O
+235	O	19	O	IN	after	O	O	O
+235	O	20	O	DT	a	O	O	O
+235	O	21	O	NN	petition	O	O	O
+235	O	22	O	VBN	file	O	O	O
+235	O	23	O	IN	by	O	O	O
+235	O	24	O	NN	creditor	O	O	O
+235	O	25	O	NNS	bank	O	O	O
+235	O	26	O	.	.	O	O	O
+
+9	16	Acquire
+
+236	Org	0	O	NNP	Vodafone	O	O	O
+236	O	1	O	POS	's	O	O	O
+236	O	2	O	NN	purchase	O	O	O
+236	O	3	O	IN	in	O	O	O
+236	OTHER	4	O	NNP	October	O	O	O
+236	O	5	O	IN	of	O	O	O
+236	OTHER	6	O	NNP	German	O	O	O
+236	O	7	O	NN	cable	O	O	O
+236	O	8	O	NN	provider	O	O	O
+236	Org	9	O	NNP/NNP	Kabel/Deutschland	O	O	O
+236	O	10	O	VBD	illustrate	O	O	O
+236	O	11	O	DT	the	O	O	O
+236	O	12	O	NN	telecom	O	O	O
+236	O	13	O	NN	company	O	O	O
+236	O	14	O	POS	's	O	O	O
+236	O	15	O	NN	commitment	O	O	O
+236	O	16	O	TO	to	O	O	O
+236	Org	17	O	NN	TV	O	O	O
+236	O	18	O	,	,	O	O	O
+236	Peop	19	O	NNP	Hartley	O	O	O
+236	O	20	O	VBD	say	O	O	O
+236	O	21	O	.	.	O	O	O
+
+0	9	Acquire
+
+237	O	0	O	VBG	follow	O	O	O
+237	O	1	O	DT	the	O	O	O
+237	Org	2	O	NNP	South/African	O	O	O
+237	O	3	O	NN	unit	O	O	O
+237	O	4	O	POS	's	O	O	O
+237	O	5	O	NN	purchase	O	O	O
+237	O	6	O	IN	of	O	O	O
+237	Org	7	O	NNP	Barclays	O	O	O
+237	O	8	O	POS	's	O	O	O
+237	O	9	O	NNS	operation	O	O	O
+237	O	10	O	IN	in	O	O	O
+237	OTHER	11	O	CD	eight	O	O	O
+237	OTHER	12	O	JJ	African	O	O	O
+237	O	13	O	NNS	country	O	O	O
+237	OTHER	14	O	JJ/NN	last/year	O	O	O
+237	O	15	O	,	,	O	O	O
+237	O	16	O	DT	the	O	O	O
+237	O	17	O	NN	investment	O	O	O
+237	O	18	O	NN	bank	O	O	O
+237	O	19	O	VBZ	have	O	O	O
+237	O	20	O	NN	access	O	O	O
+237	O	21	O	TO	to	O	O	O
+237	O	22	O	NNS	office	O	O	O
+237	O	23	O	,	,	O	O	O
+237	O	24	O	NNS	customer	O	O	O
+237	O	25	O	,	,	O	O	O
+237	O	26	O	NN	staff	O	O	O
+237	O	27	O	CC	and	O	O	O
+237	O	28	O	NN	information	O	O	O
+237	O	29	O	IN	in	O	O	O
+237	O	30	O	NNS	nation	O	O	O
+237	O	31	O	VBG	include	O	O	O
+237	Loc	32	O	NNP	Kenya	O	O	O
+237	O	33	O	,	,	O	O	O
+237	Loc	34	O	NNP	Ghana	O	O	O
+237	O	35	O	,	,	O	O	O
+237	Loc	36	O	NNP	Mozambique	O	O	O
+237	O	37	O	CC	and	O	O	O
+237	Loc	38	O	NNP	Botswana	O	O	O
+237	O	39	O	.	.	O	O	O
+
+2	7	Acquire
+
+238	Org	0	O	NNP/NNP/CC/NNP/NNP	Freeport-McMoRan/Copper/&/Gold/Inc	O	O	O
+238	O	1	O	,	,	O	O	O
+238	O	2	O	DT	the	O	O	O
+238	O	3	O	JJS	largest	O	O	O
+238	O	4	O	RB	publicly	O	O	O
+238	O	5	O	VBN	trade	O	O	O
+238	O	6	O	NN	copper	O	O	O
+238	O	7	O	NN	producer	O	O	O
+238	O	8	O	,	,	O	O	O
+238	O	9	O	VBD	raise	O	O	O
+238	OTHER	10	O	$/CD/CD	$/7/billion	O	O	O
+238	O	11	O	IN	of	O	O	O
+238	O	12	O	NNS	loan	O	O	O
+238	O	13	O	IN	in	O	O	O
+238	OTHER	14	O	NNP	February	O	O	O
+238	O	15	O	TO	to	O	O	O
+238	O	16	O	VB	back	O	O	O
+238	O	17	O	PRP$	its	O	O	O
+238	O	18	O	NN	purchase	O	O	O
+238	O	19	O	IN	of	O	O	O
+238	Org	20	O	NNP/NNP/CC/NNP/NNP	Plains/Exploration/&/Production/Co	O	O	O
+238	O	21	O	.	.	O	O	O
+
+0	20	Acquire
+
+239	O	0	O	DT	the	O	O	O
+239	O	1	O	NN	increase	O	O	O
+239	O	2	O	IN	in	O	O	O
+239	Loc	3	O	NNP	California	O	O	O
+239	O	4	O	NN	land	O	O	O
+239	O	5	O	NNS	value	O	O	O
+239	O	6	O	VBZ	have	O	O	O
+239	O	7	O	VBN	spark	O	O	O
+239	O	8	O	NNS	deal	O	O	O
+239	O	9	O	VBG	include	O	O	O
+239	Org	10	O	NN/NNPS/NNP	Toll/Brothers/Inc	O	O	O
+239	O	11	O	POS	's	O	O	O
+239	O	12	O	NN	agreement	O	O	O
+239	O	13	O	IN	in	O	O	O
+239	OTHER	14	O	NNP	November	O	O	O
+239	O	15	O	TO	to	O	O	O
+239	O	16	O	VB	purchase	O	O	O
+239	Org	17	O	NNP/NNPS/NNP	Shapell/Industries/Inc	O	O	O
+239	O	18	O	POS	's	O	O	O
+239	O	19	O	NN	homebuilding	O	O	O
+239	O	20	O	NN	business	O	O	O
+239	O	21	O	IN	for	O	O	O
+239	O	22	O	IN	about	O	O	O
+239	OTHER	23	O	$/CD/CD	$/16/billion	O	O	O
+239	O	24	O	.	.	O	O	O
+
+10	17	Acquire
+
+240	Org	0	O	NNP/NNP	Pacific/Bell	O	O	O
+240	O	1	O	VBD	purchase	O	O	O
+240	O	2	O	DT	the	O	O	O
+240	Org	3	O	NNP	land	O	O	O
+240	O	4	O	IN	from	O	O	O
+240	Loc	5	O	NNP	Sunset	O	O	O
+240	OTHER	6	O	IN/CD	in/1983	O	O	O
+240	O	7	O	CC	and	O	O	O
+240	O	8	O	VBD	develop	O	O	O
+240	O	9	O	DT	the	O	O	O
+240	O	10	O	NN	office	O	O	O
+240	O	11	O	NN	complex	O	O	O
+240	O	12	O	.	.	O	O	O
+
+0	3	Acquire
+
+241	Org	0	O	NNP	Caesars	O	O	O
+241	O	1	O	VBZ	be	O	O	O
+241	O	2	O	VBG	build	O	O	O
+241	O	3	O	DT	a	O	O	O
+241	O	4	O	NN	convention	O	O	O
+241	O	5	O	NN	center	O	O	O
+241	O	6	O	IN	in	O	O	O
+241	Loc	7	O	NNP/NNP	Atlantic/City	O	O	O
+241	O	8	O	CC	and	O	O	O
+241	O	9	O	IN	in	O	O	O
+241	OTHER	10	O	NNP	December	O	O	O
+241	O	11	O	VBD	purchase	O	O	O
+241	O	12	O	DT	the	O	O	O
+241	O	13	O	NN	property	O	O	O
+241	O	14	O	CC	and	O	O	O
+241	O	15	O	NNS	fixture	O	O	O
+241	O	16	O	IN	of	O	O	O
+241	O	17	O	DT	the	O	O	O
+241	Org	18	O	NNP/NNP	Atlantic/Club	O	O	O
+241	O	19	O	,	,	O	O	O
+241	O	20	O	WDT	which	O	O	O
+241	O	21	O	VBD	cease	O	O	O
+241	O	22	O	NNS	operation	O	O	O
+241	OTHER	23	O	DT/NN	this/month	O	O	O
+241	O	24	O	.	.	O	O	O
+
+0	18	Acquire
+
+242	Org	0	O	NNP	Shuanghui	O	O	O
+242	O	1	O	VBD	close	O	O	O
+242	O	2	O	IN	in	O	O	O
+242	OTHER	3	O	NNP	September	O	O	O
+242	O	4	O	IN	on	O	O	O
+242	O	5	O	DT	a	O	O	O
+242	OTHER	6	O	$/CD/CD	$/47/billion	O	O	O
+242	O	7	O	NN	purchase	O	O	O
+242	O	8	O	IN	of	O	O	O
+242	Org	9	O	NNP/NNPS/NNP	Smithfield/Foods/Inc	O	O	O
+242	O	10	O	,	,	O	O	O
+242	O	11	O	DT	the	O	O	O
+242	O	12	O	NN	world	O	O	O
+242	O	13	O	POS	's	O	O	O
+242	O	14	O	JJS	largest	O	O	O
+242	O	15	O	NN	pork	O	O	O
+242	O	16	O	NN	processor	O	O	O
+242	O	17	O	.	.	O	O	O
+
+0	9	Acquire
+
+243	Org	0	O	NNP	Symantec	O	O	O
+243	O	1	O	VBD	acquire	O	O	O
+243	O	2	O	PRP$	its	O	O	O
+243	O	3	O	NN	way	O	O	O
+243	O	4	O	IN	into	O	O	O
+243	O	5	O	DT	that	O	O	O
+243	O	6	O	NN	business	O	O	O
+243	O	7	O	IN	with	O	O	O
+243	O	8	O	DT	the	O	O	O
+243	OTHER	9	O	$/CD/CD	$/102/billion	O	O	O
+243	O	10	O	NN	purchase	O	O	O
+243	O	11	O	IN	of	O	O	O
+243	Org	12	O	NNP/NNP/NNP	Veritas/Software/Corp	O	O	O
+243	O	13	O	.	.	O	O	O
+
+0	12	Acquire
+
+244	O	0	O	DT	the	O	O	O
+244	O	1	O	NN	purchase	O	O	O
+244	O	2	O	VBZ	be	O	O	O
+244	Org	3	O	NNP/CC/NNP	Genesee/&/Wyoming	O	O	O
+244	O	4	O	POS	's	O	O	O
+244	OTHER	5	O	JJ	first	O	O	O
+244	O	6	O	IN	since	O	O	O
+244	OTHER	7	O	NNP/CD	August/2012	O	O	O
+244	O	8	O	,	,	O	O	O
+244	O	9	O	WRB	when	O	O	O
+244	O	10	O	PRP	it	O	O	O
+244	O	11	O	VBD	acquire	O	O	O
+244	Org	12	O	NNP/NNP	RailAmerica/Inc	O	O	O
+244	O	13	O	.	.	O	O	O
+
+3	12	Acquire
+
+245	Org	0	O	NNP	Hanlong	O	O	O
+245	O	1	O	,	,	O	O	O
+245	O	2	O	VBN	base	O	O	O
+245	O	3	O	IN	in	O	O	O
+245	Loc	4	O	NNP	Chengdu	O	O	O
+245	O	5	O	,	,	O	O	O
+245	O	6	O	VBZ	own	O	O	O
+245	OTHER	7	O	CD/NN	14/percent	O	O	O
+245	O	8	O	IN	of	O	O	O
+245	Org	9	O	NNP	Sundance	O	O	O
+245	O	10	O	,	,	O	O	O
+245	O	11	O	VBG	accord	O	O	O
+245	O	12	O	TO	to	O	O	O
+245	O	13	O	NNS	datum	O	O	O
+245	O	14	O	VBN	compile	O	O	O
+245	O	15	O	IN	by	O	O	O
+245	Org	16	O	NNP	Bloomberg	O	O	O
+245	O	17	O	,	,	O	O	O
+245	O	18	O	CC	and	O	O	O
+245	O	19	O	DT	a	O	O	O
+245	O	20	O	NN	purchase	O	O	O
+245	O	21	O	IN	of	O	O	O
+245	O	22	O	DT	the	O	O	O
+245	O	23	O	NN	rest	O	O	O
+245	O	24	O	IN	of	O	O	O
+245	O	25	O	NNP	Sundance	O	O	O
+245	O	26	O	MD	would	O	O	O
+245	O	27	O	VB	have	O	O	O
+245	O	28	O	VBN	give	O	O	O
+245	O	29	O	PRP	it	O	O	O
+245	O	30	O	NN	control	O	O	O
+245	O	31	O	IN	of	O	O	O
+245	O	32	O	DT	the	O	O	O
+245	Loc	33	O	NNP	Mbalam	O	O	O
+245	O	34	O	NN	iron	O	O	O
+245	O	35	O	NN	ore	O	O	O
+245	O	36	O	NN	project	O	O	O
+245	O	37	O	VBG	straddle	O	O	O
+245	O	38	O	DT	the	O	O	O
+245	Loc	39	O	NN/IN/NNP	Republic/of/Congo	O	O	O
+245	O	40	O	CC	and	O	O	O
+245	Loc	41	O	NNP	Cameroon	O	O	O
+245	O	42	O	.	.	O	O	O
+
+0	9	Own
+
+246	O	0	O	JJ	legal	O	O	O
+246	O	1	O	NN	impact	O	O	O
+246	Org	2	O	NNP	greenlight	O	O	O
+246	O	3	O	VBD	purchase	O	O	O
+246	Org	4	O	NNP	Anadarko	O	O	O
+246	O	5	O	NNS	share	O	O	O
+246	O	6	O	IN	at	O	O	O
+246	O	7	O	DT	a	O	O	O
+246	O	8	O	NN	average	O	O	O
+246	O	9	O	IN	of	O	O	O
+246	OTHER	10	O	$/CD	$/7855	O	O	O
+246	O	11	O	IN	in	O	O	O
+246	O	12	O	NN	mid-december	O	O	O
+246	O	13	O	IN	after	O	O	O
+246	O	14	O	NNS	investor	O	O	O
+246	O	15	O	``	``	O	O	O
+246	O	16	O	VBD	dump	O	O	O
+246	O	17	O	''	''	O	O	O
+246	O	18	O	DT	the	O	O	O
+246	O	19	O	NN	stock	O	O	O
+246	O	20	O	WRB	when	O	O	O
+246	O	21	O	DT	a	O	O	O
+246	O	22	O	JJ	federal	O	O	O
+246	O	23	O	NN	judge	O	O	O
+246	O	24	O	VBD	rule	O	O	O
+246	O	25	O	IN	that	O	O	O
+246	O	26	O	DT	the	O	O	O
+246	O	27	O	NN	company	O	O	O
+246	O	28	O	MD	may	O	O	O
+246	O	29	O	VB	have	O	O	O
+246	O	30	O	TO	to	O	O	O
+246	O	31	O	VB	pay	O	O	O
+246	OTHER	32	O	$/CD/CD	$/5/billion	O	O	O
+246	O	33	O	TO	to	O	O	O
+246	OTHER	34	O	$/CD/CD	$/14/billion	O	O	O
+246	O	35	O	IN	in	O	O	O
+246	O	36	O	DT	a	O	O	O
+246	O	37	O	NN	lawsuit	O	O	O
+246	O	38	O	,	,	O	O	O
+246	O	39	O	VBG	accord	O	O	O
+246	O	40	O	TO	to	O	O	O
+246	O	41	O	DT	the	O	O	O
+246	O	42	O	NN	letter	O	O	O
+246	O	43	O	.	.	O	O	O
+
+2	4	Acquire
+
+247	OTHER	0	O	RB	Now	O	O	O
+247	O	1	O	DT	the	O	O	O
+247	O	2	O	JJR	wider	O	O	O
+247	O	3	O	NN	push	O	O	O
+247	O	4	O	VBZ	have	O	O	O
+247	O	5	O	VBN	put	O	O	O
+247	Loc	6	O	NNP	Pasadena	O	O	O
+247	O	7	O	,	,	O	O	O
+247	Loc	8	O	NNP	California	O	O	O
+247	O	9	O	,	,	O	O	O
+247	O	10	O	WRB	where	O	O	O
+247	Loc	11	O	NNP/NNP/NNP	East/West/Bank	O	O	O
+247	O	12	O	CC	and	O	O	O
+247	Org	13	O	NN/NNP	Downtown/Properties	O	O	O
+247	O	14	O	VBD	buy	O	O	O
+247	Org	15	O	NNP/NNP/NNP	Plaza/Las/Fuentes	O	O	O
+247	O	16	O	IN	at	O	O	O
+247	O	17	O	DT	a	O	O	O
+247	OTHER	18	O	CD/NN	57/percent	O	O	O
+247	O	19	O	NN	cap	O	O	O
+247	O	20	O	NN	rate	O	O	O
+247	O	21	O	IN	in	O	O	O
+247	OTHER	22	O	NNP	July	O	O	O
+247	O	23	O	,	,	O	O	O
+247	O	24	O	CC	and	O	O	O
+247	Loc	25	O	NNP	Scottsdale	O	O	O
+247	O	26	O	,	,	O	O	O
+247	Loc	27	O	NNP	Arizona	O	O	O
+247	O	28	O	,	,	O	O	O
+247	O	29	O	WRB	where	O	O	O
+247	Org	30	O	NNP/NNP/NNP/NN	Oaktree/Capital/Management/LP	O	O	O
+247	O	31	O	VBD	purchase	O	O	O
+247	O	32	O	DT	the	O	O	O
+247	Org	33	O	NNP/NNPS/NNP	Republic/Services/Corp	O	O	O
+247	O	34	O	.	.	O	O	O
+
+13	15	Acquire
+
+248	O	0	O	``	``	O	O	O
+248	O	1	O	PRP	you	O	O	O
+248	O	2	O	MD	will	O	O	O
+248	O	3	O	VB	see	O	O	O
+248	O	4	O	DT	some	O	O	O
+248	O	5	O	IN	in	O	O	O
+248	Org	6	O	NNP	Power	O	O	O
+248	O	7	O	CC	&	O	O	O
+248	O	8	O	NNP	Water	O	O	O
+248	O	9	O	VBG	go	O	O	O
+248	O	10	O	RB	forward	O	O	O
+248	O	11	O	''	''	O	O	O
+248	O	12	O	IN	in	O	O	O
+248	OTHER	13	O	NNP	April	O	O	O
+248	O	14	O	,	,	O	O	O
+248	O	15	O	DT	the	O	O	O
+248	O	16	O	NN	world	O	O	O
+248	O	17	O	POS	's	O	O	O
+248	O	18	O	JJS	largest	O	O	O
+248	O	19	O	NN	maker	O	O	O
+248	O	20	O	IN	of	O	O	O
+248	O	21	O	NN	jet	O	O	O
+248	O	22	O	NNS	engine	O	O	O
+248	O	23	O	CC	and	O	O	O
+248	O	24	O	JJ	medical	O	O	O
+248	O	25	O	NNS	scanner	O	O	O
+248	O	26	O	VBD	agree	O	O	O
+248	O	27	O	TO	to	O	O	O
+248	O	28	O	VB	purchase	O	O	O
+248	Org	29	O	NNP/NNPS/NNP	Lufkin/Industries/Inc	O	O	O
+248	O	30	O	,	,	O	O	O
+248	O	31	O	DT	a	O	O	O
+248	O	32	O	NN	maker	O	O	O
+248	O	33	O	IN	of	O	O	O
+248	O	34	O	NN	oilfield	O	O	O
+248	O	35	O	NN	machinery	O	O	O
+248	O	36	O	,	,	O	O	O
+248	O	37	O	IN	for	O	O	O
+248	OTHER	38	O	$/CD/CD	$/33/billion	O	O	O
+248	O	39	O	TO	to	O	O	O
+248	O	40	O	VB	bolster	O	O	O
+248	O	41	O	PRP$	its	O	O	O
+248	O	42	O	RB	rapidly	O	O	O
+248	O	43	O	VBG	grow	O	O	O
+248	O	44	O	NN	oil	O	O	O
+248	O	45	O	CC	and	O	O	O
+248	O	46	O	NN	gas	O	O	O
+248	O	47	O	NN	division	O	O	O
+248	O	48	O	.	.	O	O	O
+
+6	29	Acquire
+
