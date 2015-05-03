@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Amazon</word>
+            <lemma>Amazon</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="2">
+            <word>acquired</word>
+            <lemma>acquire</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Apple</word>
+            <lemma>Apple</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="4">
+            <word>last</word>
+            <lemma>last</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>THIS P1Y OFFSET P-1Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="5">
+            <word>year</word>
+            <lemma>year</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>THIS P1Y OFFSET P-1Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="6">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT
+          (S
+          (NP (NNP Amazon))
+          (VP (VBD acquired)
+          (NP (NNP Apple))
+          (NP-TMP (JJ last) (NN year)))
+          (. .)))
+          
+          </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">acquired</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">acquired</governor>
+            <dependent idx="1">Amazon</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">acquired</governor>
+            <dependent idx="3">Apple</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">year</governor>
+            <dependent idx="4">last</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="2">acquired</governor>
+            <dependent idx="5">year</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">acquired</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">acquired</governor>
+            <dependent idx="1">Amazon</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">acquired</governor>
+            <dependent idx="3">Apple</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">year</governor>
+            <dependent idx="4">last</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="2">acquired</governor>
+            <dependent idx="5">year</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">acquired</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">acquired</governor>
+            <dependent idx="1">Amazon</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">acquired</governor>
+            <dependent idx="3">Apple</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">year</governor>
+            <dependent idx="4">last</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="2">acquired</governor>
+            <dependent idx="5">year</dependent>
+          </dep>
+        </dependencies>
+        <MachineReading>
+          <entities>
+            <entity id="EntityMention-1">ORGANIZATION
+              <span start="0" end="1"/>
+              <probabilities/>
+            </entity>
+            <entity id="EntityMention-2">ORGANIZATION
+              <span start="2" end="3"/>
+              <probabilities/>
+            </entity>
+            <entity id="EntityMention-3">O
+              <span start="4" end="5"/>
+              <probabilities/>
+            </entity>
+          </entities>
+          <relations>
+            <relation id="RelationMention-1">Acquire
+              <arguments>
+                <entity id="EntityMention-1">ORGANIZATION
+                  <span start="0" end="1"/>
+                  <probabilities/>
+                </entity>
+                <entity id="EntityMention-2">ORGANIZATION
+                  <span start="2" end="3"/>
+                  <probabilities/>
+                </entity>
+              </arguments>
+              <probabilities>
+                <probability>
+                  <label>Acquire</label>
+                  <value>0.619125722236185</value>
+                </probability>
+                <probability>
+                  <label>_NR</label>
+                  <value>0.380874277763815</value>
+                </probability>
+              </probabilities>
+            </relation>
+          </relations>
+        </MachineReading>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>Google</word>
+            <lemma>Google</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="2">
+            <word>was</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>acquired</word>
+            <lemma>acquire</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>by</word>
+            <lemma>by</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>Citi</word>
+            <lemma>Citi</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>61</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="6">
+            <word>today</word>
+            <lemma>today</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>67</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>THIS P1D</NormalizedNER>
+            <Timex tid="t3" type="DATE"/>
+          </token>
+          <token id="7">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT
+          (S
+          (NP (NNP Google))
+          (VP (VBD was)
+          (VP (VBN acquired)
+          (PP (IN by)
+          (NP (NNP Citi)))
+          (NP-TMP (NN today))))
+          (. .)))
+          
+          </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">acquired</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="3">acquired</governor>
+            <dependent idx="1">Google</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="3">acquired</governor>
+            <dependent idx="2">was</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">Citi</governor>
+            <dependent idx="4">by</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="3">acquired</governor>
+            <dependent idx="5">Citi</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="3">acquired</governor>
+            <dependent idx="6">today</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">acquired</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="3">acquired</governor>
+            <dependent idx="1">Google</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="3">acquired</governor>
+            <dependent idx="2">was</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">Citi</governor>
+            <dependent idx="4">by</dependent>
+          </dep>
+          <dep type="nmod:agent">
+            <governor idx="3">acquired</governor>
+            <dependent idx="5">Citi</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="3">acquired</governor>
+            <dependent idx="6">today</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">acquired</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="3">acquired</governor>
+            <dependent idx="1">Google</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="3">acquired</governor>
+            <dependent idx="2">was</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">Citi</governor>
+            <dependent idx="4">by</dependent>
+          </dep>
+          <dep type="nmod:agent">
+            <governor idx="3">acquired</governor>
+            <dependent idx="5">Citi</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="3">acquired</governor>
+            <dependent idx="6">today</dependent>
+          </dep>
+        </dependencies>
+        <MachineReading>
+          <entities>
+            <entity id="EntityMention-4">ORGANIZATION
+              <span start="0" end="1"/>
+              <probabilities/>
+            </entity>
+            <entity id="EntityMention-5">ORGANIZATION
+              <span start="4" end="5"/>
+              <probabilities/>
+            </entity>
+            <entity id="EntityMention-6">O
+              <span start="5" end="6"/>
+              <probabilities/>
+            </entity>
+          </entities>
+          <relations/>
+        </MachineReading>
+      </sentence>
+    </sentences>
+  </document>
+</root>
