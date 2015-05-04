@@ -12,7 +12,11 @@ coreNLP_root : stanford-corenlp-full-2015-04-20 (The Stanford coreNLP we downloa
 
 (4) open command prompt, cd to coreNLP_root, input command line:
 
-java -Xmx1024m -cp stanford-corenlp-3.5.2.jar;stanford-corenlp-3.5.2-models.jar;xom.jar;joda-time.jar;jollyday.jar;javax.json.jar edu.stanford.nlp.ie.machinereading.MachineReading --arguments roth.properties
+java -Xmx1024m -cp stanford-corenlp-3.5.2.jar:stanford-corenlp-3.5.2-models.jar:xom.jar:joda-time.jar:jollyday.jar:javax.json.jar edu.stanford.nlp.ie.machinereading.MachineReading --arguments roth.properties
+
+or 
+java -Xmx1024m -cp *:. edu.stanford.nlp.ie.machinereading.MachineReading --arguments roth.properties
+
 
 (for mac, ; should be replaced with :)
 
@@ -32,10 +36,7 @@ coreNLP_root : stanford-corenlp-full-2015-04-20 (the same with train model)
 
 (3) open command prompt, cd to coreNLP_root, input command line:
 
-java -mx1g -cp stanford-corenlp-3.5.2.jar;stanford-corenlp-3.5.2-models.jar;xom.jar;joda-time.jar;jollyday.jar;javax.json.jar edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,regexner,parse,relation sup.relation.model=[tmp/roth_relation_model_pipeline.ser] -file test.txt -regexner.mapping jg-regexner.txt 
-
-
-java -mx1g -cp stanford-corenlp-3.5.2.jar:stanford-corenlp-3.5.2-models.jar:xom.jar:joda-time.jar:jollyday.jar:javax.json.jar edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,regexner,parse,relation -sup.relation.model tmp/roth_relation_model_pipeline.ser -file test.txt -regexner.mapping jg-regexner.txt
+java -mx1g -cp *:. edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,cleanxml,ssplit,pos,lemma,ner,regexner,parse,relation sup.relation.model=[tmp/roth_relation_model_pipeline.ser] -file invested_test.txt -regexner.mapping jg-regexner.txt 
 
 (4) It will start to run test. 
 
