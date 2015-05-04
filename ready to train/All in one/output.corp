@@ -11280,4 +11280,22 @@
 
 0	6	Own
 
+403	Org	0	O	NNP	Amazon	O	O	O
+403	O	1	O	VBZ	be	O	O	O
+403	O	2	O	VBN	own	O	O	O
+403	O	3	O	IN	by	O	O	O
+403	Org	4	O	NNP	Apple	O	O	O
+403	O	5	O	.	.	O	O	O
+
+4	0	Own
+
+404	Org	0	O	NNP	Yahoo	O	O	O
+404	O	1	O	VBD	be	O	O	O
+404	O	2	O	VBN	own	O	O	O
+404	O	3	O	IN	by	O	O	O
+404	Org	4	O	NNP	Google	O	O	O
+404	O	5	O	.	.	O	O	O
+
+4	0	Own
+
 
