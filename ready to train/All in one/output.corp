@@ -10793,4 +10793,491 @@
 
 12	6	Acquire
 
+382	Org	0	O	NNP/NNP	Kabel/Deutschland	O	O	O
+382	O	1	O	,	,	O	O	O
+382	O	2	O	NN	majority	O	O	O
+382	O	3	O	VBN	own	O	O	O
+382	O	4	O	IN	by	O	O	O
+382	Org	5	O	NNP/NNP/NNP	Vodafone/Group/Plc	O	O	O
+382	O	6	O	,	,	O	O	O
+382	O	7	O	VBD	have	O	O	O
+382	O	8	O	VBN	buy	O	O	O
+382	Org	9	O	NNP/NNP	Deutsche/Telekom	O	O	O
+382	O	10	O	POS	's	O	O	O
+382	O	11	O	NN	cable	O	O	O
+382	O	12	O	NN	network	O	O	O
+382	O	13	O	WDT	that	O	O	O
+382	OTHER	14	O	NN	year	O	O	O
+382	O	15	O	CC	and	O	O	O
+382	O	16	O	NN	part	O	O	O
+382	O	17	O	IN	of	O	O	O
+382	O	18	O	DT	the	O	O	O
+382	O	19	O	NN	deal	O	O	O
+382	O	20	O	VBD	be	O	O	O
+382	O	21	O	DT	the	O	O	O
+382	O	22	O	NN	fee	O	O	O
+382	O	23	O	NN	agreement	O	O	O
+382	O	24	O	IN	for	O	O	O
+382	O	25	O	DT	the	O	O	O
+382	O	26	O	NN	duct	O	O	O
+382	O	27	O	NN	use	O	O	O
+382	O	28	O	.	.	O	O	O
+
+5	0	Own
+
+383	Org	0	O	NN	Swisscanto	O	O	O
+383	O	1	O	VBD	be	O	O	O
+383	O	2	O	RB	jointly	O	O	O
+383	O	3	O	VBN	own	O	O	O
+383	O	4	O	IN	by	O	O	O
+383	Org	5	O	NNP	Switzerland	O	O	O
+383	O	6	O	POS	's	O	O	O
+383	OTHER	7	O	CD	24	O	O	O
+383	O	8	O	JJ	cantonal	O	O	O
+383	O	9	O	NNS	bank	O	O	O
+383	O	10	O	IN	until	O	O	O
+383	OTHER	11	O	RB	now	O	O	O
+383	O	12	O	.	.	O	O	O
+
+5	0	Own
+
+384	Org	0	O	NNP	BT	O	O	O
+384	O	1	O	VBD	say	O	O	O
+384	OTHER	2	O	NN	yesterday	O	O	O
+384	O	3	O	PRP	it	O	O	O
+384	O	4	O	VBZ	be	O	O	O
+384	O	5	O	IN	in	O	O	O
+384	O	6	O	JJ	exclusive	O	O	O
+384	O	7	O	NNS	talk	O	O	O
+384	O	8	O	TO	to	O	O	O
+384	O	9	O	VB	buy	O	O	O
+384	Org	10	O	NNP	EE	O	O	O
+384	O	11	O	,	,	O	O	O
+384	O	12	O	WDT	which	O	O	O
+384	O	13	O	VBZ	be	O	O	O
+384	O	14	O	RB	jointly	O	O	O
+384	O	15	O	VBN	own	O	O	O
+384	O	16	O	IN	by	O	O	O
+384	Org	17	O	NNP/NNP/NNP	Deutsche/Telekom/AG	O	O	O
+384	O	18	O	CC	and	O	O	O
+384	Org	19	O	NNP/NNP	Orange/SA	O	O	O
+384	O	20	O	.	.	O	O	O
+
+17	10	Own
+
+385	O	0	O	PRP	it	O	O	O
+385	O	1	O	VBZ	be	O	O	O
+385	O	2	O	RB	also	O	O	O
+385	O	3	O	VBG	consider	O	O	O
+385	O	4	O	VBG	buy	O	O	O
+385	Org	5	O	NNP	Blinkbox	O	O	O
+385	O	6	O	,	,	O	O	O
+385	O	7	O	DT	a	O	O	O
+385	O	8	O	JJ	video-on-demand	O	O	O
+385	O	9	O	NN	service	O	O	O
+385	O	10	O	VBN	own	O	O	O
+385	O	11	O	IN	by	O	O	O
+385	Org	12	O	NNP/NNP	Tesco/Plc	O	O	O
+385	O	13	O	,	,	O	O	O
+385	O	14	O	VBG	accord	O	O	O
+385	O	15	O	TO	to	O	O	O
+385	O	16	O	DT	a	O	O	O
+385	O	17	O	NN	person	O	O	O
+385	O	18	O	JJ	familiar	O	O	O
+385	O	19	O	IN	with	O	O	O
+385	O	20	O	DT	the	O	O	O
+385	O	21	O	NN	situation	O	O	O
+385	O	22	O	.	.	O	O	O
+
+12	5	Own
+
+386	Org	0	O	NNP/NNP	Phibro/LLC	O	O	O
+386	O	1	O	,	,	O	O	O
+386	O	2	O	VBN	own	O	O	O
+386	O	3	O	IN	by	O	O	O
+386	Org	4	O	NNP/NNP/NNP	Occidental/Petroleum/Corp	O	O	O
+386	O	5	O	.	.	O	O	O
+
+4	0	Own
+
+387	Org	0	O	NNP	Instagram	O	O	O
+387	O	1	O	,	,	O	O	O
+387	O	2	O	VBN	own	O	O	O
+387	O	3	O	IN	by	O	O	O
+387	Loc	4	O	NNP/NNP	Menlo/Park	O	O	O
+387	O	5	O	,	,	O	O	O
+387	OTHER	6	O	JJ	California-based	O	O	O
+387	Org	7	O	NNP/NNP	Facebook/Inc	O	O	O
+387	O	8	O	,	,	O	O	O
+387	O	9	O	VBD	say	O	O	O
+387	OTHER	10	O	NN	today	O	O	O
+387	O	11	O	IN	that	O	O	O
+387	O	12	O	PRP$	its	O	O	O
+387	OTHER	13	O	JJ	monthly	O	O	O
+387	O	14	O	JJ	active	O	O	O
+387	O	15	O	NNS	user	O	O	O
+387	O	16	O	VBD	rise	O	O	O
+387	O	17	O	TO	to	O	O	O
+387	OTHER	18	O	CD/CD	300/million	O	O	O
+387	OTHER	19	O	DT/NN	this/month	O	O	O
+387	O	20	O	IN	from	O	O	O
+387	OTHER	21	O	CD/CD	200/million	O	O	O
+387	O	22	O	IN	in	O	O	O
+387	OTHER	23	O	NNP	March	O	O	O
+387	O	24	O	,	,	O	O	O
+387	O	25	O	RB	not	O	O	O
+387	O	26	O	VBG	count	O	O	O
+387	O	27	O	NNS	spammer	O	O	O
+387	O	28	O	.	.	O	O	O
+
+7	0	Own
+
+388	Org	0	O	NNP	Ferd	O	O	O
+388	O	1	O	NNP	AS	O	O	O
+388	O	2	O	,	,	O	O	O
+388	O	3	O	VBN	own	O	O	O
+388	O	4	O	IN	by	O	O	O
+388	Peop	5	O	NNP	Andresen	O	O	O
+388	O	6	O	CC	and	O	O	O
+388	O	7	O	PRP$	he	O	O	O
+388	O	8	O	NN	family	O	O	O
+388	O	9	O	,	,	O	O	O
+388	O	10	O	VBD	buy	O	O	O
+388	OTHER	11	O	CD/CD	113/million	O	O	O
+388	O	12	O	NNS	share	O	O	O
+388	O	13	O	IN	in	O	O	O
+388	O	14	O	NNP	PGS	O	O	O
+388	OTHER	15	O	NN	today	O	O	O
+388	O	16	O	.	.	O	O	O
+
+5	0	Own
+
+389	Org	0	O	NNP	CBA	O	O	O
+389	O	1	O	,	,	O	O	O
+389	O	2	O	DT	the	O	O	O
+389	O	3	O	JJS	largest	O	O	O
+389	O	4	O	JJ	domestic	O	O	O
+389	O	5	O	JJ	retail	O	O	O
+389	O	6	O	NN	brand	O	O	O
+389	O	7	O	,	,	O	O	O
+389	O	8	O	VBN	own	O	O	O
+389	O	9	O	IN	by	O	O	O
+389	Peop	10	O	NNP	Orban	O	O	O
+389	O	11	O	NNS	supporter	O	O	O
+389	O	12	O	CC	and	O	O	O
+389	O	13	O	NN	chariot	O	O	O
+389	O	14	O	NNS	racer	O	O	O
+389	Peop	15	O	NNP	Vilmos	O	O	O
+389	O	16	O	CC	and	O	O	O
+389	Peop	17	O	NNP/NNP	Zoltan/Lazar	O	O	O
+389	O	18	O	,	,	O	O	O
+389	O	19	O	VBZ	operate	O	O	O
+389	O	20	O	IN	as	O	O	O
+389	O	21	O	DT	a	O	O	O
+389	O	22	O	NN	chain	O	O	O
+389	O	23	O	IN	of	O	O	O
+389	O	24	O	NNS	franchise	O	O	O
+389	O	25	O	WDT	which	O	O	O
+389	O	26	O	MD	would	O	O	O
+389	O	27	O	VB	be	O	O	O
+389	O	28	O	VBN	affect	O	O	O
+389	O	29	O	RBR	less	O	O	O
+389	O	30	O	,	,	O	O	O
+389	O	31	O	NNP	Chairman	O	O	O
+389	Peop	32	O	NNP/NNP	Laszlo/Baldauf	O	O	O
+389	O	33	O	VBD	say	O	O	O
+389	O	34	O	IN	in	O	O	O
+389	O	35	O	DT	a	O	O	O
+389	OTHER	36	O	NNP	Nov	O	O	O
+389	O	37	O	.	.	O	O	O
+
+10	0	Own
+
+390	Org	0	O	NNP/NNP	Vattenfall/AB	O	O	O
+390	O	1	O	,	,	O	O	O
+390	O	2	O	VBN	own	O	O	O
+390	O	3	O	IN	by	O	O	O
+390	O	4	O	DT	the	O	O	O
+390	OTHER	5	O	JJ	Swedish	O	O	O
+390	O	6	O	NN	state	O	O	O
+390	O	7	O	,	,	O	O	O
+390	O	8	O	VBZ	want	O	O	O
+390	O	9	O	TO	to	O	O	O
+390	O	10	O	VB	get	O	O	O
+390	O	11	O	JJ	rid	O	O	O
+390	O	12	O	IN	of	O	O	O
+390	O	13	O	PRP$	its	O	O	O
+390	OTHER	14	O	JJ	German	O	O	O
+390	O	15	O	NN	coal	O	O	O
+390	O	16	O	NNS	operation	O	O	O
+390	O	17	O	TO	to	O	O	O
+390	O	18	O	VB	focus	O	O	O
+390	O	19	O	IN	on	O	O	O
+390	O	20	O	NNS	renewable	O	O	O
+390	O	21	O	,	,	O	O	O
+390	O	22	O	IN	while	O	O	O
+390	Org	23	O	NNP/NNP/NNP/NNP	ENBW/Energie/Baden-Wuerttemberg/AG	O	O	O
+390	OTHER	24	O	JJ/NN	last/year	O	O	O
+390	O	25	O	VBD	double	O	O	O
+390	O	26	O	PRP$	its	O	O	O
+390	O	27	O	NN	asset	O	O	O
+390	O	28	O	NNS	sale	O	O	O
+390	O	29	O	NN	goal	O	O	O
+390	O	30	O	TO	to	O	O	O
+390	OTHER	31	O	CD/CD/NNS	3/billion/euros	O	O	O
+390	O	32	O	TO	to	O	O	O
+390	O	33	O	VB	free	O	O	O
+390	O	34	O	RP	up	O	O	O
+390	O	35	O	NN	cash	O	O	O
+390	O	36	O	TO	to	O	O	O
+390	O	37	O	VB	invest	O	O	O
+390	O	38	O	IN	in	O	O	O
+390	O	39	O	JJ	clean	O	O	O
+390	O	40	O	NN	energy	O	O	O
+390	O	41	O	.	.	O	O	O
+
+
+391	O	0	O	NNS	clearinghouse	O	O	O
+391	O	1	O	JJ	such	O	O	O
+391	O	2	O	IN	as	O	O	O
+391	Org	3	O	NNP/NNP/NNP/NNP	LCH/Clearnet/Group/Ltd	O	O	O
+391	O	4	O	,	,	O	O	O
+391	O	5	O	NN	majority	O	O	O
+391	O	6	O	VBN	own	O	O	O
+391	O	7	O	IN	by	O	O	O
+391	O	8	O	DT	the	O	O	O
+391	Org	9	O	NNP/NNP/NNP/NNP/NNP	London/Stock/Exchange/Group/Plc	O	O	O
+391	O	10	O	,	,	O	O	O
+391	O	11	O	CC	and	O	O	O
+391	Org	12	O	NNP/NNP/NNP	Deutsche/Boerse/AG	O	O	O
+391	O	13	O	POS	's	O	O	O
+391	Org	14	O	NNP	Eurex	O	O	O
+391	O	15	O	NNP	Clearing	O	O	O
+391	O	16	O	VBP	operate	O	O	O
+391	O	17	O	IN	as	O	O	O
+391	O	18	O	JJ	central	O	O	O
+391	O	19	O	NNS	counterparty	O	O	O
+391	O	20	O	IN	for	O	O	O
+391	O	21	O	DT	every	O	O	O
+391	O	22	O	NN	buy	O	O	O
+391	O	23	O	CC	and	O	O	O
+391	O	24	O	VB	sell	O	O	O
+391	O	25	O	NN	order	O	O	O
+391	O	26	O	VBN	associate	O	O	O
+391	O	27	O	IN	with	O	O	O
+391	O	28	O	DT	the	O	O	O
+391	O	29	O	NNS	platform	O	O	O
+391	O	30	O	.	.	O	O	O
+
+9	3	Own
+
+392	OTHER	0	O	NN	Oldford	O	O	O
+392	O	1	O	VBZ	be	O	O	O
+392	O	2	O	DT	the	O	O	O
+392	O	3	O	NN	parent	O	O	O
+392	O	4	O	IN	of	O	O	O
+392	Org	5	O	NNP/NNP/NNP	Rational/Group/Ltd	O	O	O
+392	O	6	O	,	,	O	O	O
+392	O	7	O	WDT	which	O	O	O
+392	O	8	O	VBD	own	O	O	O
+392	O	9	O	CC	and	O	O	O
+392	O	10	O	VBD	operate	O	O	O
+392	Org	11	O	NNP	PokerStars	O	O	O
+392	O	12	O	.	.	O	O	O
+
+5	11	Own
+
+393	Org	0	O	NNP	Eurazeo	O	O	O
+393	O	1	O	VBZ	have	O	O	O
+393	O	2	O	VBN	own	O	O	O
+393	Org	3	O	NNP	Europcar	O	O	O
+393	O	4	O	IN	since	O	O	O
+393	OTHER	5	O	CD	2006	O	O	O
+393	O	6	O	,	,	O	O	O
+393	O	7	O	WRB	when	O	O	O
+393	O	8	O	PRP	it	O	O	O
+393	O	9	O	VBD	pay	O	O	O
+393	OTHER	10	O	CD/CD/NNS	308/billion/euros	O	O	O
+393	O	11	O	IN	for	O	O	O
+393	O	12	O	DT	the	O	O	O
+393	O	13	O	NN	company	O	O	O
+393	O	14	O	,	,	O	O	O
+393	OTHER	15	O	CD	165	O	O	O
+393	O	16	O	NNS	time	O	O	O
+393	O	17	O	PRP$	its	O	O	O
+393	O	18	O	NNS	earnings	O	O	O
+393	O	19	O	IN	before	O	O	O
+393	O	20	O	NN	interest	O	O	O
+393	O	21	O	CC	and	O	O	O
+393	O	22	O	NN	tax	O	O	O
+393	O	23	O	IN	at	O	O	O
+393	O	24	O	DT	the	O	O	O
+393	O	25	O	NN	time	O	O	O
+393	O	26	O	.	.	O	O	O
+
+0	3	Own
+
+394	Org	0	O	NNP/NNP	Olive/Garden	O	O	O
+394	O	1	O	,	,	O	O	O
+394	O	2	O	VBN	own	O	O	O
+394	O	3	O	IN	by	O	O	O
+394	Loc	4	O	NNP	Orlando	O	O	O
+394	O	5	O	,	,	O	O	O
+394	O	6	O	JJ	florida-based	O	O	O
+394	Org	7	O	NNP	Darden	O	O	O
+394	O	8	O	,	,	O	O	O
+394	O	9	O	VBZ	have	O	O	O
+394	O	10	O	VBN	be	O	O	O
+394	O	11	O	VBG	try	O	O	O
+394	O	12	O	TO	to	O	O	O
+394	O	13	O	VB	stick	O	O	O
+394	O	14	O	JJR	closer	O	O	O
+394	O	15	O	TO	to	O	O	O
+394	O	16	O	WP	what	O	O	O
+394	O	17	O	PRP	it	O	O	O
+394	O	18	O	VBZ	be	O	O	O
+394	O	19	O	VBN	know	O	O	O
+394	O	20	O	IN	for	O	O	O
+394	O	21	O	:	:	O	O	O
+394	O	22	O	JJ	gigantic	O	O	O
+394	O	23	O	NNS	portion	O	O	O
+394	O	24	O	IN	of	O	O	O
+394	OTHER	25	O	JJ	Italian	O	O	O
+394	O	26	O	NN	food	O	O	O
+394	O	27	O	.	.	O	O	O
+
+7	0	Own
+
+395	O	0	O	NNP	Chili	O	O	O
+395	O	1	O	POS	's	O	O	O
+395	Org	2	O	NNP/NNP	Pizzas/Chili	O	O	O
+395	O	3	O	POS	's	O	O	O
+395	O	4	O	,	,	O	O	O
+395	O	5	O	DT	the	O	O	O
+395	O	6	O	NNP	Tex-Mex	O	O	O
+395	O	7	O	NN	chain	O	O	O
+395	O	8	O	VBN	own	O	O	O
+395	O	9	O	IN	by	O	O	O
+395	OTHER	10	O	JJ	Dallas-based	O	O	O
+395	Org	11	O	NNP/NNP/NNP	Brinker/International/Inc	O	O	O
+395	O	12	O	,	,	O	O	O
+395	OTHER	13	O	DT/NN	this/year	O	O	O
+395	O	14	O	VBD	nix	O	O	O
+395	O	15	O	PRP$	its	O	O	O
+395	Loc	16	O	NNP	Philadelphia	O	O	O
+395	O	17	O	NN	cheesesteak	O	O	O
+395	O	18	O	NN	sandwich	O	O	O
+395	O	19	O	CC	and	O	O	O
+395	O	20	O	VBD	cut	O	O	O
+395	OTHER	21	O	CD	four	O	O	O
+395	O	22	O	NNS	pizza	O	O	O
+395	O	23	O	,	,	O	O	O
+395	O	24	O	VBG	include	O	O	O
+395	O	25	O	DT	a	O	O	O
+395	O	26	O	NN	pepperoni	O	O	O
+395	O	27	O	CC	and	O	O	O
+395	O	28	O	JJ	five-cheese	O	O	O
+395	O	29	O	NN	variety	O	O	O
+395	O	30	O	.	.	O	O	O
+
+11	2	Own
+
+396	Org	0	O	NNP/NNP	Eastern/Water	O	O	O
+396	O	1	O	,	,	O	O	O
+396	OTHER	2	O	CD/NN	40/percent	O	O	O
+396	O	3	O	VBN	own	O	O	O
+396	O	4	O	IN	by	O	O	O
+396	O	5	O	DT	the	O	O	O
+396	O	6	O	JJ	state-run	O	O	O
+396	Org	7	O	NNP/NNP/NNP	Provincial/Waterworks/Authority	O	O	O
+396	O	8	O	,	,	O	O	O
+396	O	9	O	VBD	report	O	O	O
+396	O	10	O	DT	a	O	O	O
+396	OTHER	11	O	CD/NN	87/percent	O	O	O
+396	O	12	O	NN	decline	O	O	O
+396	O	13	O	IN	in	O	O	O
+396	OTHER	14	O	JJ	third-quarter	O	O	O
+396	O	15	O	NNS	earnings	O	O	O
+396	OTHER	16	O	JJ/NN	last/month	O	O	O
+396	O	17	O	IN	on	O	O	O
+396	O	18	O	JJ	net	O	O	O
+396	O	19	O	NN	income	O	O	O
+396	O	20	O	IN	of	O	O	O
+396	OTHER	21	O	CD/CD	315/million	O	O	O
+396	O	22	O	NN	baht	O	O	O
+396	O	23	O	.	.	O	O	O
+
+7	0	Own
+
+397	Org	0	O	NNP/NNP	DynCorp/International	O	O	O
+397	O	1	O	VBZ	be	O	O	O
+397	O	2	O	VBN	own	O	O	O
+397	O	3	O	IN	by	O	O	O
+397	O	4	O	NNS	affiliate	O	O	O
+397	O	5	O	IN	of	O	O	O
+397	OTHER	6	O	NNP/JJ	New/York-based	O	O	O
+397	Org	7	O	NNP/NNP/NNP/NN	Cerberus/Capital/Management/LP	O	O	O
+397	O	8	O	.	.	O	O	O
+
+7	0	Own
+
+398	Org	0	O	NNP/NNP	Yu/Channel	O	O	O
+398	O	1	O	VBZ	be	O	O	O
+398	O	2	O	VBN	own	O	O	O
+398	O	3	O	IN	by	O	O	O
+398	O	4	O	JJ	privately-held	O	O	O
+398	Org	5	O	NNP/NNP/NNP	OOO/YutTV/Media	O	O	O
+398	O	6	O	.	.	O	O	O
+
+5	0	Own
+
+399	Org	0	O	NNP/NNP	De/Beers	O	O	O
+399	O	1	O	VBZ	be	O	O	O
+399	O	2	O	VBN	own	O	O	O
+399	O	3	O	IN	by	O	O	O
+399	Org	4	O	NNP/NNP/NNP	Anglo/American/Plc	O	O	O
+399	O	5	O	.	.	O	O	O
+
+4	0	Own
+
+400	O	0	O	DT	the	O	O	O
+400	Org	1	O	NNPS	Rangers	O	O	O
+400	O	2	O	VBP	be	O	O	O
+400	O	3	O	VBN	own	O	O	O
+400	O	4	O	IN	by	O	O	O
+400	Org	5	O	NNP/NNP/NNP/NNP	Madison/Square/Garden/Co	O	O	O
+400	O	6	O	,	,	O	O	O
+400	O	7	O	WDT	which	O	O	O
+400	O	8	O	RB	also	O	O	O
+400	O	9	O	VBZ	own	O	O	O
+400	O	10	O	DT	the	O	O	O
+400	Org	11	O	NNP/NNP/NNPS	New/York/Knicks	O	O	O
+400	O	12	O	.	.	O	O	O
+
+5	1	Own
+
+401	Peop	0	O	NNP	Meister	O	O	O
+401	O	1	O	VBZ	own	O	O	O
+401	OTHER	2	O	CD/NN	159/percent	O	O	O
+401	O	3	O	IN	of	O	O	O
+401	Org	4	O	NNP	Halla	O	O	O
+401	O	5	O	,	,	O	O	O
+401	O	6	O	DT	the	O	O	O
+401	O	7	O	NNS	datum	O	O	O
+401	O	8	O	VBP	show	O	O	O
+401	O	9	O	.	.	O	O	O
+
+0	4	Own
+
+402	Org	0	O	NNP/NNP	Atlantic/Industries	O	O	O
+402	OTHER	1	O	RB	now	O	O	O
+402	O	2	O	VBZ	own	O	O	O
+402	OTHER	3	O	CD/CD	195/million	O	O	O
+402	O	4	O	NNS	share	O	O	O
+402	O	5	O	IN	in	O	O	O
+402	Org	6	O	NNP	Keurig	O	O	O
+402	O	7	O	.	.	O	O	O
+
+0	6	Own
+
 
