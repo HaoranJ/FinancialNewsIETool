@@ -10,13 +10,13 @@ coreNLP_root : stanford-corenlp-full-2015-04-20 (The Stanford coreNLP we downloa
 
 (3) create a "tmp" folder under coreNLP_root
 
-(4) open commend prompt, cd to coreNLP_root, input commend line:
+(4) open command prompt, cd to coreNLP_root, input command line:
 
 java -Xmx1024m -cp stanford-corenlp-3.5.2.jar;stanford-corenlp-3.5.2-models.jar;xom.jar;joda-time.jar;jollyday.jar;javax.json.jar edu.stanford.nlp.ie.machinereading.MachineReading --arguments roth.properties
 
 (for mac, ; should be replaced with :)
 
-(5) It will start to run and show the training log on the commend prompt.
+(5) It will start to run and show the training log on the command prompt.
 
 (6) When it finished, the model will be created under the "tmp" folder
 
@@ -30,7 +30,7 @@ coreNLP_root : stanford-corenlp-full-2015-04-20 (the same with train model)
 
 (2) put NER custom tag file "jg-regexner.txt" under coreNLP_root
 
-(3) open commend prompt, cd to coreNLP_root, input commend line:
+(3) open command prompt, cd to coreNLP_root, input command line:
 
 java -mx1g -cp stanford-corenlp-3.5.2.jar;stanford-corenlp-3.5.2-models.jar;xom.jar;joda-time.jar;jollyday.jar;javax.json.jar edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,regexner,parse,relation sup.relation.model=[tmp/roth_relation_model_pipeline.ser] -file test.txt -regexner.mapping jg-regexner.txt 
 
