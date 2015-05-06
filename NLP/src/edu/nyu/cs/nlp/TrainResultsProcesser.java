@@ -1,5 +1,4 @@
 package edu.nyu.cs.nlp;
-
 import java.io.PrintWriter;
 import java.nio.file.Paths;
 import java.util.ArrayList;
