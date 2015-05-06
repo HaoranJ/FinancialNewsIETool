@@ -41,7 +41,7 @@ java -mx1g -cp stanford-corenlp-3.5.2.jar:stanford-corenlp-3.5.2-models.jar:xom.
 or
 java -mx1g -cp *:. edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,regexner,parse,relation —outputFormat text -sup.relation.model Training_Model/roth_relation_model_pipeline.ser -file test.txt -regexner.mapping jg-regexner.txt
 
-*******output text*******
+*******output text*******(Use this!!!!!!!!!!!!!!)
 java -mx1g -cp *:. edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,regexner,parse,relation -outputFormat text -sup.relation.model Training_Model/roth_relation_model_pipeline.ser -file test.txt -regexner.mapping jg-regexner.txt
 
 for Windows
