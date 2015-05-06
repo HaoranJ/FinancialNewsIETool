@@ -1,3 +1,4 @@
+package edu.nyu.cs.nlp;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -34,7 +35,7 @@ import edu.stanford.nlp.trees.GrammaticalRelation;
 import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.util.PropertiesUtils.Property;
 
-public class Test{
+public class TrainCorpusOutputter{
 
 	static String inputFiles = "input.txt";
 	static String outputFile = "output.corp";
