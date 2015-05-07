@@ -1,16 +1,17 @@
 package edu.nyu.cs.nlp;
 import java.io.PrintWriter;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
 
-public class TrainResultsProcesser {
+public class TrainResultsProcessor {
 	private Scanner sc;
 	private PrintWriter pw;
 	private ArrayList<ArrayList<String>> table;
+	private HashMap<Entry, Integer> map;
 
-	public TrainResultsProcesser(){
+	public TrainResultsProcessor(){
 		table = new ArrayList<>();
+		map = new HashMap<>();
 	}
 
 	public void processResults(String pathRead, String pathWrite, String delimiter) throws Exception {
@@ -23,19 +24,17 @@ public class TrainResultsProcesser {
 			line = sc.nextLine();
 			if (line.trim().length() == 0) {
 				int len = table.size();
-				//System.out.println(len);
 				if(len <= 1) {
 					table.clear();
 					continue;
 				}
+				//process the sentence, split out the comma from the string
 				ArrayList<String> sentence = new ArrayList<>();
 				for(int i = 0; i < table.get(0).size(); i++){
 					String s = table.get(0).get(i);
 					int le = s.length();
 					if(s.substring(le-1, le).equals(",")){
-						//System.out.println("split " + s);
 						sentence.add(s.substring(0,le-1));
-						//System.out.println("add " + s.substring(0,le-1));
 						sentence.add(",");
 					}else{
 						sentence.add(s);
@@ -44,6 +43,7 @@ public class TrainResultsProcesser {
 				
 				for(int i = 1; i < len; i += 3){
 					String relation = table.get(i).get(0);
+					String a = ""; String b = "";
 					pw.print(relation + ",");
 					int start_A = 0, end_A = 0, start_B = 0, end_B = 0;
 					for(String s : table.get(i+1)){
@@ -59,6 +59,7 @@ public class TrainResultsProcesser {
 						sb.append(sentence.get(j) + " ");
 					}
 					pw.print(sb.toString() + ",");
+					a = sb.toString();
 					sb.delete(0, sb.length());
 					
 					for(String s : table.get(i+2)){
@@ -69,12 +70,15 @@ public class TrainResultsProcesser {
 							end_B = Integer.parseInt(s.substring(5,s.length()-1));
 						}
 					}
-					System.out.println(start_B + "=" + sentence.get(start_B));
+					//System.out.println(start_B + "=" + sentence.get(start_B));
 					for(int j = start_B; j < end_B; j++){
 						sb.append(sentence.get(j) + " ");
 					}
 					pw.print(sb.toString() + "\n");
+					b = sb.toString();
 					sb.delete(0, sb.length());
+					Entry e = new Entry(a, b, relation);
+					putInMap(e);
 				}
 				
 				table.clear();
@@ -87,10 +91,18 @@ public class TrainResultsProcesser {
 					list.add(s);
 				}
 				table.add(list);
-			}
+			} 
 		}
 		sc.close();
 		pw.close();
 		System.out.println("Training data processed, the output file is " + pathWrite);
+	}
+	
+	private void putInMap(Entry e){
+		if(map.containsKey(e)){
+			map.put(e, map.get(e) + 1);
+		}else{
+			map.put(e, 1);
+		}
 	}
 }
