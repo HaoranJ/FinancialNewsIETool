@@ -18,6 +18,7 @@ public class TrainResultsProcessor {
 	public void processResults(String pathRead, String pathWrite) throws Exception {
 		pw = new PrintWriter(pathWrite);
 		sc = new Scanner(Paths.get(pathRead));
+		pw.println("Subjective_Company,Objective_Company,Relation");;
 		String line = "";
 
 		while (sc.hasNextLine()) {
