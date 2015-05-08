@@ -13,6 +13,13 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		String company = sc.nextLine();
 		tr_processer.searchOneCompany(company);
+		
+		System.out.println("Please enter a pair of companies delimited by comma.");
+		String pair = sc.nextLine();
+		String delimiter = "\\s*" + "," + "\\s*";
+		String[] tokens = pair.split(delimiter);
+		tr_processer.searchByPair(tokens[0], tokens[1]);
+		
 		sc.close();
 	}
 }

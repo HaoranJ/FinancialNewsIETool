@@ -17,5 +17,6 @@
 	<classpathentry kind="lib" path="/Users/Haoran/Projects/ModifiedStanfordNLP/lib/stanford-corenlp-3.5.2-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/Haoran/Projects/ModifiedStanfordNLP/lib/xom-1.2.10-src.jar"/>
 	<classpathentry kind="lib" path="/Users/Haoran/Projects/ModifiedStanfordNLP/lib/xom.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
