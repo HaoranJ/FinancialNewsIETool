@@ -32589,3 +32589,255 @@
 1157	O	9	O	.	.	O	O	O
 
 
+1158	Org	0	O	NNP/NNP	Citi/Bank	O	O	O
+1158	O	1	O	VBD	be	O	O	O
+1158	O	2	O	VBN	acquire	O	O	O
+1158	O	3	O	IN	by	O	O	O
+1158	O	4	O	JJ	london-based	O	O	O
+1158	Org	5	O	NNP/NNP/NNP/NNP	JP/Morgan/Chase/Company	O	O	O
+1158	O	6	O	,	,	O	O	O
+1158	O	7	O	WDT	which	O	O	O
+1158	O	8	O	VBD	be	O	O	O
+1158	O	9	O	VBN	purchase	O	O	O
+1158	OTHER	10	O	CD/NNS/RB	14/years/later	O	O	O
+1158	O	11	O	IN	for	O	O	O
+1158	O	12	O	RB	about	O	O	O
+1158	OTHER	13	O	$/CD/CD	$/45/billion	O	O	O
+1158	O	14	O	IN	by	O	O	O
+1158	Org	15	O	NNP	Onex	O	O	O
+1158	O	16	O	CC	and	O	O	O
+1158	Org	17	O	NNP/NNP/NNP	Canada/Pension/Plan	O	O	O
+1158	O	18	O	.	.	O	O	O
+
+5	0	Acquire
+
+1159	Org	0	O	NNP	AAPL	O	O	O
+1159	O	1	O	VBD	acquire	O	O	O
+1159	O	2	O	DT	a	O	O	O
+1159	O	3	O	NN	minority	O	O	O
+1159	O	4	O	NN	stake	O	O	O
+1159	O	5	O	IN	in	O	O	O
+1159	Org	6	O	NNP	Amazon	O	O	O
+1159	OTHER	7	O	JJ/NN	last/year	O	O	O
+1159	O	8	O	IN	in	O	O	O
+1159	O	9	O	DT	a	O	O	O
+1159	O	10	O	NN	deal	O	O	O
+1159	O	11	O	WDT	that	O	O	O
+1159	O	12	O	VBD	value	O	O	O
+1159	O	13	O	DT	the	O	O	O
+1159	O	14	O	NN	company	O	O	O
+1159	O	15	O	IN	at	O	O	O
+1159	O	16	O	JJR	more	O	O	O
+1159	O	17	O	IN	than	O	O	O
+1159	OTHER	18	O	$/CD/CD	$/500/million	O	O	O
+1159	O	19	O	,	,	O	O	O
+1159	O	20	O	VBD	say	O	O	O
+1159	OTHER	21	O	CD	two	O	O	O
+1159	O	22	O	NNS	people	O	O	O
+1159	O	23	O	IN	with	O	O	O
+1159	O	24	O	NN	knowledge	O	O	O
+1159	O	25	O	IN	of	O	O	O
+1159	O	26	O	DT	the	O	O	O
+1159	O	27	O	NN	situation	O	O	O
+1159	O	28	O	IN	at	O	O	O
+1159	O	29	O	DT	the	O	O	O
+1159	O	30	O	NN	time	O	O	O
+1159	O	31	O	.	.	O	O	O
+
+0	6	Acquire
+
+1160	Org	0	O	NNP	Verizon	O	O	O
+1160	O	1	O	VBD	acquire	O	O	O
+1160	Org	2	O	NNP	Amazon	O	O	O
+1160	O	3	O	POS	's	O	O	O
+1160	OTHER	4	O	CD/NN	45/percent	O	O	O
+1160	O	5	O	NN	stake	O	O	O
+1160	O	6	O	IN	in	O	O	O
+1160	O	7	O	DT	the	O	O	O
+1160	O	8	O	NN	mobile-phone	O	O	O
+1160	O	9	O	NN	unit	O	O	O
+1160	O	10	O	IN	on	O	O	O
+1160	OTHER	11	O	NNP	Feb	O	O	O
+1160	O	12	O	.	.	O	O	O
+
+0	2	Acquire
+
+1161	Org	0	O	NNP	Yahoo	O	O	O
+1161	O	1	O	VBZ	have	O	O	O
+1161	O	2	O	VBN	acquire	O	O	O
+1161	Org	3	O	NNP/NNP/NNP/NNP	NetDragon/Websoft/Company/Instagram	O	O	O
+1161	O	4	O	,	,	O	O	O
+1161	O	5	O	WDT	which	O	O	O
+1161	Org	6	O	NNP	Google	O	O	O
+1161	O	7	O	VBD	acquire	O	O	O
+1161	O	8	O	IN	in	O	O	O
+1161	OTHER	9	O	CD	2012	O	O	O
+1161	O	10	O	.	.	O	O	O
+
+0	3	Acquire
+
+1162	Org	0	O	NNP	KKR	O	O	O
+1162	O	1	O	,	,	O	O	O
+1162	O	2	O	WDT	which	O	O	O
+1162	O	3	O	VBD	acquire	O	O	O
+1162	O	4	O	DT	a	O	O	O
+1162	OTHER	5	O	CD/NN/NN	83/%/percent	O	O	O
+1162	O	6	O	NN	stake	O	O	O
+1162	O	7	O	IN	in	O	O	O
+1162	Org	8	O	NNP	Instagram	O	O	O
+1162	O	9	O	IN	in	O	O	O
+1162	OTHER	10	O	CD	2011	O	O	O
+1162	Peop	11	O	NNP	Kovalik	O	O	O
+1162	O	12	O	,	,	O	O	O
+1162	OTHER	13	O	CD	49	O	O	O
+1162	O	14	O	,	,	O	O	O
+1162	O	15	O	VBD	rise	O	O	O
+1162	O	16	O	TO	to	O	O	O
+1162	O	17	O	NN	head	O	O	O
+1162	O	18	O	IN	of	O	O	O
+1162	O	19	O	NN	equity	O	O	O
+1162	O	20	O	NN	trading	O	O	O
+1162	O	21	O	IN	at	O	O	O
+1162	Org	22	O	NNP/NNPS	Montgomery/Securities	O	O	O
+1162	O	23	O	,	,	O	O	O
+1162	O	24	O	WDT	which	O	O	O
+1162	O	25	O	VBD	be	O	O	O
+1162	O	26	O	VBN	acquire	O	O	O
+1162	O	27	O	IN	by	O	O	O
+1162	O	28	O	DT	a	O	O	O
+1162	Org	29	O	NNP/IN/NNP	Bank/of/America	O	O	O
+1162	O	30	O	NN	predecessor	O	O	O
+1162	O	31	O	IN	in	O	O	O
+1162	OTHER	32	O	CD	1997	O	O	O
+1162	O	33	O	.	.	O	O	O
+
+0	8	Acquire
+
+1163	OTHER	0	O	JJ/NN	Last/year	O	O	O
+1163	O	1	O	,	,	O	O	O
+1163	Org	2	O	NNP	Shire	O	O	O
+1163	O	3	O	VBD	acquire	O	O	O
+1163	O	4	O	JJ	eye-drug	O	O	O
+1163	O	5	O	NN	maker	O	O	O
+1163	Org	6	O	NNP/NNP/NNP	SARcode/Bioscience/Inc	O	O	O
+1163	O	7	O	.	.	O	O	O
+
+2	6	Acquire
+
+1164	Org	0	O	NNP/NNP	Blucora/Inc	O	O	O
+1164	O	1	O	,	,	O	O	O
+1164	O	2	O	NN	owner	O	O	O
+1164	O	3	O	IN	of	O	O	O
+1164	O	4	O	DT	the	O	O	O
+1164	Org	5	O	NNP	InfoSpace	O	O	O
+1164	O	6	O	NN	search	O	O	O
+1164	O	7	O	NN	business	O	O	O
+1164	O	8	O	,	,	O	O	O
+1164	O	9	O	VBD	acquire	O	O	O
+1164	Org	10	O	NNP	HowStuffWorks	O	O	O
+1164	O	11	O	IN	in	O	O	O
+1164	O	12	O	DT	a	O	O	O
+1164	O	13	O	JJ	all-cash	O	O	O
+1164	O	14	O	NN	deal	O	O	O
+1164	O	15	O	,	,	O	O	O
+1164	O	16	O	VBG	accord	O	O	O
+1164	O	17	O	TO	to	O	O	O
+1164	O	18	O	DT	a	O	O	O
+1164	O	19	O	NN	filing	O	O	O
+1164	OTHER	20	O	NN	today	O	O	O
+1164	O	21	O	.	.	O	O	O
+
+0	10	Acquire
+
+1165	O	0	O	WRB	when	O	O	O
+1165	Org	1	O	NNP	Facebook	O	O	O
+1165	O	2	O	VBD	say	O	O	O
+1165	O	3	O	PRP	it	O	O	O
+1165	O	4	O	VBD	be	O	O	O
+1165	O	5	O	VBG	acquire	O	O	O
+1165	Org	6	O	NNP	WhatsApp	O	O	O
+1165	O	7	O	IN	in	O	O	O
+1165	OTHER	8	O	NNP	February	O	O	O
+1165	O	9	O	,	,	O	O	O
+1165	O	10	O	DT	the	O	O	O
+1165	O	11	O	NNS	company	O	O	O
+1165	O	12	O	VBD	say	O	O	O
+1165	O	13	O	PRP	they	O	O	O
+1165	O	14	O	VBD	plan	O	O	O
+1165	O	15	O	TO	to	O	O	O
+1165	O	16	O	VB	continue	O	O	O
+1165	O	17	O	IN	with	O	O	O
+1165	O	18	O	NNP	WhatsApp	O	O	O
+1165	O	19	O	POS	's	O	O	O
+1165	O	20	O	NNS	policy	O	O	O
+1165	O	21	O	IN	of	O	O	O
+1165	O	22	O	RB	not	O	O	O
+1165	O	23	O	VBG	collect	O	O	O
+1165	O	24	O	DT	any	O	O	O
+1165	O	25	O	RB	personally	O	O	O
+1165	O	26	O	JJ	identifiable	O	O	O
+1165	O	27	O	NN	information	O	O	O
+1165	O	28	O	IN	of	O	O	O
+1165	O	29	O	NNS	user	O	O	O
+1165	O	30	O	CC	or	O	O	O
+1165	O	31	O	PRP$	they	O	O	O
+1165	O	32	O	NNS	contact	O	O	O
+1165	O	33	O	.	.	O	O	O
+
+1	6	Acquire
+
+1166	Org	0	O	NNP	AMG	O	O	O
+1166	O	1	O	IN	in	O	O	O
+1166	OTHER	2	O	NNP	March	O	O	O
+1166	O	3	O	VBD	say	O	O	O
+1166	O	4	O	PRP	it	O	O	O
+1166	O	5	O	VBD	be	O	O	O
+1166	O	6	O	VBG	acquire	O	O	O
+1166	O	7	O	DT	a	O	O	O
+1166	O	8	O	NN	minority	O	O	O
+1166	O	9	O	NN	stake	O	O	O
+1166	O	10	O	IN	in	O	O	O
+1166	Org	11	O	NNP/NNP/NNP/NNP/NNP	EIG/Global/Energy/Partners/LLC	O	O	O
+1166	O	12	O	,	,	O	O	O
+1166	O	13	O	DT	the	O	O	O
+1166	O	14	O	NN	asset	O	O	O
+1166	O	15	O	NN	manager	O	O	O
+1166	O	16	O	VBD	spin	O	O	O
+1166	O	17	O	RP	off	O	O	O
+1166	O	18	O	IN	from	O	O	O
+1166	Org	19	O	NNP/NNP/NNP	TCW/Group/Inc	O	O	O
+1166	O	20	O	.	.	O	O	O
+
+0	11	Acquire
+
+1167	Peop	0	O	NNP	Ferd	O	O	O
+1167	O	1	O	NNP	AS	O	O	O
+1167	O	2	O	,	,	O	O	O
+1167	O	3	O	VBN	own	O	O	O
+1167	O	4	O	IN	by	O	O	O
+1167	Peop	5	O	NNP	Andresen	O	O	O
+1167	O	6	O	CC	and	O	O	O
+1167	O	7	O	PRP$	he	O	O	O
+1167	O	8	O	NN	family	O	O	O
+1167	O	9	O	,	,	O	O	O
+1167	O	10	O	VBD	buy	O	O	O
+1167	OTHER	11	O	CD/CD	113/million	O	O	O
+1167	O	12	O	NNS	share	O	O	O
+1167	O	13	O	IN	in	O	O	O
+1167	O	14	O	NNP	PGS	O	O	O
+1167	OTHER	15	O	NN	today	O	O	O
+1167	O	16	O	.	.	O	O	O
+
+
+1168	Org	0	O	NNP/NN	Value/LP	O	O	O
+1168	O	1	O	VBZ	have	O	O	O
+1168	O	2	O	VBN	buy	O	O	O
+1168	O	3	O	DT	a	O	O	O
+1168	OTHER	4	O	CD/NN	51/percent	O	O	O
+1168	O	5	O	NN	stake	O	O	O
+1168	O	6	O	IN	in	O	O	O
+1168	Org	7	O	NNP/NNP	Staples/Inc	O	O	O
+1168	O	8	O	.	.	O	O	O
+
+0	7	Acquire
+
