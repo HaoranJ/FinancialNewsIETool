@@ -1,124 +1,4 @@
 Acquire
-Allianz Real Estate
-Koe Galerie
-
-Acquire
-Google
-Facebook
-
-Invest_in
-Google
-Facebook
-
-Own
-Google
-Facebook
-
-Acquire
-Google
-Facebook
-
-Acquire
-Google
-Facebook
-
-Own
-Google
-Facebook
-
-Acquire
-Google
-Amazon
-
-Acquire
-Google
-Amazon
-
-Acquire
-Google
-Facebook
-
-Acquire
-Google
-Facebook
-
-Acquire
-Suntory Holdings Ltd
-Beam Inc.
-
-Acquire
-Carlyle Group LP
-Ortho Clinical
-
-Acquire
-Kinder Morgan
-Holdco LLC
-
-Acquire
-Sysco Corp
-US Foods
-
-Acquire
-Yue Xiu Group
-Chong Hing Bank Ltd.
-
-Acquire
-Verso
-NewPage
-
-Acquire
-Richardson GMP
-Macquarie Private Wealth Canada
-
-Acquire
-Bancorp
-Citizens Financial Group Inc
-
-Acquire
-KKR & Co
-Sedgwick Claims Management Services Inc.
-
-Acquire
-KKR
-Mitchell International Inc.
-
-Merge
-Lampert
-Kmart Holding Corp Austrian Merger Biolitec
-
-Merge
-Dixon & Bell
-Troutman Sanders
-
-Invest_In
-Hitachi
-Hiroaki Nakanishi
-
-Merge
-Google
-Chrysler
-
-Merge
-Fiat SpA
-Chrysler Group LLC
-
-Merge
-Fiat
-Chrysler
-
-Merge
-McVitie & Price
-MacFarlane Lang
-
-Merge
-Fiat
-Chrysler
-
-Merge
-Alfa Romeo
-Chrysler
-
-Acquire
 Pentair
 Tyco International Ltd
 
@@ -129,6 +9,14 @@ Whyte & Mackay
 Acquire
 Court Square Capital Partners LP
 Wyle
+
+Acquire
+NAB
+Clydesdale
+
+Acquire
+Apollo
+Altamira
 
 Acquire
 Leucadia
@@ -151,12 +39,12 @@ Freeport
 Plains Exploration & Production Co.
 
 Acquire
-Sprint
-Clearwire
+Aptalis
+Eurand NV
 
 Acquire
-James Richardson & Sons Ltd
-Macquarie Group Ltd.
+Sprint
+Clearwire
 
 Acquire
 Fiat SpA
@@ -167,8 +55,16 @@ Argonaut
 Bermuda
 
 Acquire
+ICBC
+Standard Bank
+
+Acquire
 La Caisse
 Dong Energy A/S
+
+Acquire
+Dong Energy A/S
+La Caisse
 
 Acquire
 Icahn Stake EBay
@@ -203,8 +99,20 @@ Alibaba
 Sina
 
 Acquire
+Fonterra Cooperative Group Ltd
+Bega
+
+Acquire
+Bega
+Fonterra Cooperative Group Ltd
+
+Acquire
 BlackRock
 Scientific Active Equities
+
+Acquire
+Ion Torrent
+California-based Life Technologies Corp
 
 Acquire
 Carlsbad
@@ -222,13 +130,13 @@ Acquire
 Saks
 Hudson 's Bay Co
 
+Own
+Tumblr Inc
+David Karp
+
 Acquire
 Yahoo
 Tumblr Inc
-
-Acquire
-SBC
-AT&T Corp.
 
 Acquire
 CMCSA
@@ -252,6 +160,10 @@ Enersis Compania Americana de Multiservicios
 
 Acquire
 Icahn
+30 million
+
+Acquire
+Icahn
 Park Ridge
 
 Acquire
@@ -261,4 +173,652 @@ Sunoco Inc
 Acquire
 Bank of America
 Countrywide
+
+Acquire
+Oi SA
+Portugal Telecom SGPS SA
+
+Acquire
+Pearson Plc
+Grupo Multi
+
+Acquire
+Sysco
+Rosemont
+
+Acquire
+Microsoft Corp
+Nokia Oyj
+
+Acquire
+Microsoft
+Nokia
+
+Acquire
+Merck
+Serono
+
+Acquire
+Liberty Global Plc
+Ziggo NV
+
+Acquire
+Gannett
+Belo
+
+Acquire
+Verizon Communications Inc
+Vodafone Group Plc
+
+Acquire
+Hewlett-Packard
+Bitfone Corp
+
+Acquire
+Actavis Plc
+Warner Chilcott
+
+Acquire
+GE
+Thermo Fisher
+
+Acquire
+Martin Marietta Materials Inc
+Texas Industries Inc.
+
+Acquire
+Schneider
+Invensys
+
+Acquire
+Continental
+Veyance
+
+Acquire
+Google Inc
+Nest Labs
+
+Acquire
+L&G
+Mark Zinkula
+
+Acquire
+Rosneft
+TNK-BP
+
+Acquire
+VMware
+Desktone Inc
+
+Acquire
+Bazaarvoice
+PowerReviews
+
+Acquire
+Lenovo
+Motorola
+
+Acquire
+\
+LSI
+
+Acquire
+LSI
+Suji De Silva
+
+Acquire
+Suji De Silva
+LSI
+
+Acquire
+Microsoft
+Nokia
+
+Acquire
+Sprint
+T-Mobile
+
+Acquire
+Dan Hesse
+T-Mobile
+
+Acquire
+Jha
+Motorola Mobility Inc
+
+Own
+Motorola Mobility Inc
+Jha
+
+Acquire
+Clydesdale
+UK
+
+Acquire
+Clydesdale
+Virgin Media Inc.
+
+Acquire
+Banesco Group
+NCG Banco
+
+Acquire
+Suntory
+PepsiCo Inc.
+
+Acquire
+Saji
+Orangina
+
+Acquire
+ADP
+TAV
+
+Acquire
+Murdoch Competition Liberty Global
+Virgin Media Inc
+
+Acquire
+Tata Steel
+Corus Group
+
+Acquire
+Allianz Real Estate
+Koe Galerie
+
+Acquire
+Blackstone Group LP
+Koe Galerie
+
+Acquire
+Suntory Holdings Ltd
+Beam Inc.
+
+Acquire
+Carlyle Group LP
+Ortho Clinical
+
+Acquire
+Kinder Morgan
+Holdco LLC
+
+Acquire
+Sysco Corp
+US Foods
+
+Acquire
+Verso
+NewPage
+
+Acquire
+Forest Laboratories Inc
+Aptalis Pharma
+
+Acquire
+Richardson GMP
+Macquarie Private Wealth Canada
+
+Acquire
+Bancorp
+Citizens Financial Group Inc
+
+Acquire
+KKR & Co
+Sedgwick Claims Management Services Inc.
+
+Acquire
+KKR
+Mitchell International Inc.
+
+Acquire
+Sports Direct International Plc
+Debenhams Plc
+
+Acquire
+Jha
+Motorola Mobility Inc
+
+Own
+Motorola Mobility Inc
+Jha
+
+Acquire
+Clydesdale
+UK
+
+Acquire
+Clydesdale
+Virgin Media Inc.
+
+Acquire
+Banesco Group
+NCG Banco
+
+Acquire
+Suntory
+PepsiCo Inc.
+
+Acquire
+Saji
+Orangina
+
+Acquire
+ADP
+TAV
+
+Acquire
+Murdoch Competition Liberty Global
+Virgin Media Inc
+
+Acquire
+Tata Steel
+Corus Group
+
+Invest_In
+Google Ventures
+Nest
+
+Invest_In
+Jana
+Boeing Co.
+
+Invest_In
+Yu’E Bao
+Tian Hong Asset Management Co
+
+Invest_In
+Yu’E Bao
+Hangzhou-based
+
+Invest_In
+Tian Hong Asset Management Co
+Yu’E Bao
+
+Invest_In
+Mubadala
+Batista 's EBX Group Co.
+
+Invest_In
+Shanduka
+300 million rand
+
+Invest_In
+Shanduka
+Lonmin
+
+Invest_In
+300 million rand
+Shanduka
+
+Invest_In
+Lonmin
+Shanduka
+
+Invest_In
+TPG Capital
+TXU Corp
+
+Merge
+Lampert
+Kmart Holding Corp Austrian Merger Biolitec
+
+Merge
+Dixon & Bell
+Troutman Sanders
+
+Invest_In
+Hitachi
+Hiroaki Nakanishi
+
+Merge
+Fiat
+Chrysler
+
+Merge
+Fiat SpA
+Chrysler Group LLC
+
+Merge
+Fiat
+Chrysler
+
+Merge
+Zachodni
+Kredyt Bank SA
+
+Merge
+McVitie & Price
+MacFarlane Lang
+
+Merge
+Fiat
+Chrysler
+
+Merge
+Alfa Romeo
+Chrysler
+
+Own
+Cerrejon
+BHP
+
+Own
+BHP
+Cerrejon
+
+Own
+Dun & Bradstreet Corp.
+Hoover 's Inc
+
+Own
+EMC Corp
+VMware
+
+Own
+Citigroup Inc
+Akbank TAS
+
+Own
+Goldman Sachs Group Inc
+Education Management Co
+
+Own
+McGraw-Hill Cos.
+CMA
+
+Own
+Ricardo Salinas
+Grupo Iusacell SA
+
+Own
+Grupo Televisa SAB
+Grupo Iusacell SA
+
+Own
+Bridgepoint
+Diaverum AB
+
+Acquire
+Diageo
+United Spirits
+
+Acquire
+South African
+Barclays
+
+Acquire
+Shuanghui
+September
+
+Acquire
+Downtown Properties
+Plaza Las Fuentes
+
+Acquire
+Oaktree Capital Management LP
+Republic Services Corp.
+
+Acquire
+Forest Laboratories Inc
+Aptalis Pharma
+
+Invest_In
+Yunfeng
+Alibaba
+
+Acquire
+Saudi Aramco
+Hanjin Energy Co
+
+Acquire
+Aramco
+Hanjin
+
+Acquire
+Namenda
+Aptalis Pharma
+
+Invest_In
+Yunfeng
+Alibaba
+
+Acquire
+Mega
+TRS Investments Ltd.
+
+Acquire
+Tan
+PT Borneo Lumbung Energi & Metal
+
+Acquire
+Novartis
+Glaxo
+
+Acquire
+Roche
+IQuum Inc
+
+Acquire
+Tsinlien Group Co
+Famous Ever Group Ltd.
+
+Acquire
+Valley National Bancorp
+1st United Bancorp
+
+Acquire
+Flipkart
+Myntracom
+
+Acquire
+Myntracom
+Amazoncom Inc.
+
+Acquire
+Abbott
+Kalo Pharma Internacional SL
+
+Acquire
+Siemens
+Rolls-Royce
+
+Acquire
+Flipkart
+Myntra
+
+Acquire
+Qatar Petroleum International
+Canadian Natural Gas
+
+Acquire
+Dubai Islamic
+PT Bank Panin Syariah Tbk
+
+Acquire
+Qatar Petroleum International
+Canadian Natural Gas
+
+Acquire
+National Social Security Fund
+China Life Insurance Co.
+
+Acquire
+Centurion Investments
+Apax
+
+Acquire
+Mercer Africa Ltd
+Alex Forbes
+
+Acquire
+Carlos Slim
+AT&T Inc
+
+Acquire
+GE
+Alstom
+
+Acquire
+Merlin
+Tree Inversiones Inmobiliarias SA
+
+Acquire
+Hyundai Group
+Hyundai Elevator Co.
+
+Acquire
+RBI Solar Inc
+Centrosolar Group AG
+
+Acquire
+Carrefour
+DIA
+
+Acquire
+Imperial Tobacco Group Plc
+Reynolds
+
+Own
+Agbar
+La Caixa
+
+Acquire
+SMA Solar Technology
+Phoenix Solar AG
+
+Acquire
+Aegon
+Banco Santander Totta SA
+
+Acquire
+InBev NV
+Anheuser-Busch Cos.
+
+Acquire
+KKR & Co.
+Oriental Brewery
+
+Acquire
+Bank Islam Malaysia Bhd
+BIMB Holding Bhd
+
+Acquire
+InBev NV
+Anheuser-Busch Cos.
+
+Acquire
+Eli Lilly & Co.
+ImClone Systems Inc
+
+Acquire
+Sanofi
+Genzyme Corp
+
+Own
+B&N Bank JSC
+Asokerco Trading Limited LLC
+
+Acquire
+Kraft
+Cadbury
+
+Acquire
+InBev NV
+Anheuser-Busch Cos.
+
+Acquire
+Community Health Systems Inc
+XYZ
+
+Acquire
+Statoil
+Tullow
+
+Acquire
+Valeant
+Obagi Medical Products Inc
+
+Acquire
+M&T
+Hudson City
+
+Acquire
+Fiat SpA
+Chrysler
+
+Acquire
+Macquarie
+OCBC
+
+Acquire
+Canada Pension Plan Investment Board
+Neiman Marcus Inc
+
+Acquire
+Elliott
+Riverbed Technology Inc.
+
+Acquire
+John Malone
+Charter Communications Inc
+
+Acquire
+AB InBev
+Oriental Brewery
+
+Acquire
+KKR & Co.
+Oriental Brewery
+
+Acquire
+Logista
+Imperial
+
+Acquire
+Allianz Real Estate
+Koe Galerie
+
+Acquire
+Blackstone Group LP
+Koe Galerie
+
+Acquire
+Suntory Holdings Ltd
+Beam Inc.
+
+Acquire
+Carlyle Group LP
+Ortho Clinical
+
+Acquire
+Kinder Morgan
+Holdco LLC
+
+Acquire
+Sysco Corp
+US Foods
+
+Acquire
+Verso
+NewPage
+
+Acquire
+Forest Laboratories Inc
+Aptalis Pharma
+
+Acquire
+Richardson GMP
+Macquarie Private Wealth Canada
+
+Acquire
+Bancorp
+Citizens Financial Group Inc
+
+Acquire
+KKR & Co
+Sedgwick Claims Management Services Inc.
+
+Acquire
+KKR
+Mitchell International Inc.
 

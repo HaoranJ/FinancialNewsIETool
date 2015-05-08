@@ -69,6 +69,11 @@ public class TrainResultsProcessor {
 	//@return the relation entries containing the company name.
 	public void searchOneCompany(String c) throws FileNotFoundException{
 		String outFileName = "Summary for " + c;
+		if(c.trim().length() == 0){
+			System.out.println("Sorry, the input is valid.");
+			return;
+		}
+		System.out.println("The results for search the company " + c + " as following. ");
 		pw = new PrintWriter(outFileName);
 		HashMap<String, Integer> unsorted_map = new HashMap<>();
 		for(Map.Entry<String, Integer> it : map.entrySet()){
@@ -82,14 +87,21 @@ public class TrainResultsProcessor {
 		for(Map.Entry<String, Integer> it : sorted_map.entrySet()){
 			int times = it.getValue();
 			pw.println(it.getKey() + " = " + times + " times.");
+			System.out.println(it.getKey() + " = " + times + " times.");
 		}
 		pw.close();
-		System.out.println("The summary for " + c + " has been outputted as the 'Summary for "
-				+ c + "' text file. ");
+		/*System.out.println("The summary for " + c + " has been outputted as the 'Summary for "
+				+ c + "' text file. "); */
 	}
 	
 	public void searchByPair(String a, String b) throws FileNotFoundException{
 		String outFileName = "Summary for the pair of " + a + " and " + b ;
+		System.out.println("The results for searching the pair of "
+				+ a + " and " + b + " as following. ");
+		if(a.trim().length() == 0 || b.trim().length() == 0){
+			System.out.println("Sorry, the inputs are invalid.");
+			return;
+		}
 		pw = new PrintWriter(outFileName);
 		HashMap<String, Integer> unsorted_map = new HashMap<>();
 		for(Map.Entry<String, Integer> it : map.entrySet()){
@@ -103,10 +115,11 @@ public class TrainResultsProcessor {
 		for(Map.Entry<String, Integer> it : sorted_map.entrySet()){
 			int times = it.getValue();
 			pw.println(it.getKey() + " = " + times + " times.");
+			System.out.println(it.getKey() + " = " + times + " times.");
 		}
 		pw.close();
-		System.out.println(outFileName + " has been outputted as the 'Summary for the pair of "
-				+ a + " and " + b + "' text file. ");
+		/*System.out.println(outFileName + " has been outputted as the 'Summary for the pair of "
+				+ a + " and " + b + "' text file. "); */
 	}
 	//check whether a relation entry e contains a company c
 	private boolean containsCompany(String e, String c){

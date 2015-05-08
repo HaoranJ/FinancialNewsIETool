@@ -14,6 +14,7 @@ public class Main {
 		String company = sc.nextLine();
 		tr_processer.searchOneCompany(company);
 		
+		System.out.println();
 		System.out.println("Please enter a pair of companies delimited by comma.");
 		String pair = sc.nextLine();
 		String delimiter = "\\s*" + "," + "\\s*";
