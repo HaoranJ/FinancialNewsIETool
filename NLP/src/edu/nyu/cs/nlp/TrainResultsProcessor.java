@@ -1,4 +1,5 @@
 package edu.nyu.cs.nlp;
+import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.nio.file.Paths;
 import java.util.*;
@@ -6,7 +7,7 @@ import java.util.*;
 public class TrainResultsProcessor {
 	private Scanner sc;
 	private PrintWriter pw;
-	private ArrayList<ArrayList<String>> table;
+	private ArrayList<String> table;
 	private HashMap<Entry, Integer> map;
 
 	public TrainResultsProcessor(){
@@ -14,88 +15,38 @@ public class TrainResultsProcessor {
 		map = new HashMap<>();
 	}
 
-	public void processResults(String pathRead, String pathWrite, String delimiter) throws Exception {
+	public void processResults(String pathRead, String pathWrite) throws Exception {
 		pw = new PrintWriter(pathWrite);
 		sc = new Scanner(Paths.get(pathRead));
 		String line = "";
-		String delimiterRevised = "\\s*" + delimiter + "\\s*";
 
 		while (sc.hasNextLine()) {
 			line = sc.nextLine();
 			if (line.trim().length() == 0) {
 				int len = table.size();
-				if(len <= 1) {
+				if(len%3 != 0) {
 					table.clear();
 					continue;
 				}
-				//process the sentence, split out the comma from the string
-				ArrayList<String> sentence = new ArrayList<>();
-				for(int i = 0; i < table.get(0).size(); i++){
-					String s = table.get(0).get(i);
-					int le = s.length();
-					if(s.substring(le-1, le).equals(",")){
-						sentence.add(s.substring(0,le-1));
-						sentence.add(",");
-					}else{
-						sentence.add(s);
-					}
-				}
 				
-				for(int i = 1; i < len; i += 3){
-					String relation = table.get(i).get(0);
-					String a = ""; String b = "";
-					pw.print(relation + ",");
-					int start_A = 0, end_A = 0, start_B = 0, end_B = 0;
-					for(String s : table.get(i+1)){
-						if(s.substring(0,4).equals("esta")){
-							start_A = Integer.parseInt(s.substring(7, s.length()-1));
-						}
-						if(s.substring(0,4).equals("eend")){
-							end_A = Integer.parseInt(s.substring(5, s.length()-1));
-						}
-					}
-					StringBuilder sb = new StringBuilder();
-					for(int j = start_A; j < end_A; j++){
-						sb.append(sentence.get(j) + " ");
-					}
-					pw.print(sb.toString() + ",");
-					a = sb.toString();
-					sb.delete(0, sb.length());
+				for(int i = 0; i < len; i += 3){
+					String relation = table.get(i);
+					String a = table.get(i+1);
+					String b = table.get(i+2);
 					
-					for(String s : table.get(i+2)){
-						if(s.substring(0,4).equals("esta")){
-							start_B = Integer.parseInt(s.substring(7, s.length()-1));
-						}
-						if(s.substring(0,4).equals("eend")){
-							end_B = Integer.parseInt(s.substring(5,s.length()-1));
-						}
-					}
-					//System.out.println(start_B + "=" + sentence.get(start_B));
-					for(int j = start_B; j < end_B; j++){
-						sb.append(sentence.get(j) + " ");
-					}
-					pw.print(sb.toString() + "\n");
-					b = sb.toString();
-					sb.delete(0, sb.length());
 					Entry e = new Entry(a, b, relation);
 					putInMap(e);
+					pw.print(a + "," + b + "," + relation + "\n");
 				}
-				
 				table.clear();
-				sentence.clear();
 			} else {
-				String[] tokens = line.split(delimiterRevised);
-				ArrayList<String> list = new ArrayList<String>();
-				for (int i = 0; i < tokens.length; i++) {
-					String s = tokens[i];
-					list.add(s);
-				}
-				table.add(list);
+				table.add(line);
 			} 
 		}
 		sc.close();
 		pw.close();
 		System.out.println("Training data processed, the output file is " + pathWrite);
+		System.out.println(map);
 	}
 	
 	private void putInMap(Entry e){
@@ -104,5 +55,48 @@ public class TrainResultsProcessor {
 		}else{
 			map.put(e, 1);
 		}
+	}
+	
+	//search a company, output the relation entries of it.
+	public void searchOneCompany(String c) throws FileNotFoundException{
+		String outFileName = "Summary for " + c;
+		pw = new PrintWriter(outFileName);
+		HashMap<Entry, Integer> unsorted_map = new HashMap<>();
+		ValueComparator vc = new ValueComparator(unsorted_map);
+		TreeMap<Entry, Integer> sorted_map = new TreeMap<>(vc);
+		for(Map.Entry<Entry, Integer> it : map.entrySet()){
+			if(it.getKey().containsCompany(c)){
+				unsorted_map.put(it.getKey(), it.getValue());
+			}
+		}
+		
+		//output the results for the company
+		for(Map.Entry<Entry, Integer> it : sorted_map.entrySet()){
+			int times = it.getValue();
+			pw.println(it.getKey() + " = " + times + "times.");
+		}
+		pw.close();
+		System.out.println(unsorted_map);
+		System.out.println(sorted_map);
+		System.out.println("The summary for" + c + "has been outputted as the 'Summary for "
+				+ c + "' text file. ");
+		
+	}
+}
+
+
+class ValueComparator implements Comparator<Entry>{
+	Map<Entry, Integer> base = new HashMap<>();
+	
+	public ValueComparator(Map<Entry, Integer> base){
+		this.base = base;
+	}
+	
+	public int compare(Entry a, Entry b){
+		if (base.get(a) >= base.get(b)) {
+            return 1;
+        } else {
+            return -1;
+        }
 	}
 }

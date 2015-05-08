@@ -25,12 +25,32 @@ public class Entry {
     }
     
     public boolean equals(Entry e){
-    	boolean fa, fb, fr;
+    	boolean f = this.getEntityA().equals(e.getEntityA()) && this.getEntityB().equals(e.getEntityB())
+    			&& this.getRelation().equals(e.getRelation());
+    	return f;
+    	/*boolean fa, fb, fr;
     	fa = Pattern.compile(Pattern.quote(this.getEntityA()), Pattern.CASE_INSENSITIVE).matcher(e.getEntityA()).find()
     			|| Pattern.compile(Pattern.quote(e.getEntityA()), Pattern.CASE_INSENSITIVE).matcher(this.getEntityA()).find();
     	fb = Pattern.compile(Pattern.quote(this.getEntityB()), Pattern.CASE_INSENSITIVE).matcher(e.getEntityB()).find()
     			|| Pattern.compile(Pattern.quote(e.getEntityB()), Pattern.CASE_INSENSITIVE).matcher(this.getEntityB()).find();
     	fr = this.getRelation().equals(e.getRelation());
-    	return fa && fb && fr;			
+    	return fa && fb && fr;		*/	
+    }
+    
+    public int hashCode(){
+    	return this.getEntityA().hashCode();
+    }
+    
+    public boolean containsCompany(String c){
+    	boolean fa, fb;
+    	fa = Pattern.compile(Pattern.quote(this.getEntityA()), Pattern.CASE_INSENSITIVE).matcher(c).find()
+    			|| Pattern.compile(Pattern.quote(c), Pattern.CASE_INSENSITIVE).matcher(this.getEntityA()).find();
+    	fb = Pattern.compile(Pattern.quote(this.getEntityB()), Pattern.CASE_INSENSITIVE).matcher(c).find()
+    			|| Pattern.compile(Pattern.quote(c), Pattern.CASE_INSENSITIVE).matcher(this.getEntityB()).find();
+    	return fa || fb;
+    }
+    
+    public String toString(){
+    	return entity_A + "," + entity_B + "," + relation;
     }
 }

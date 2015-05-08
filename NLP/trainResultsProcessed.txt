@@ -1,5 +1,0 @@
-Acquire,Pentair ,Tyco International Ltd’s 
-Acquire,United Spirits ,Whyte & Mackay 
-Acquire,Court Square Capital Partners LP ,Wyle 
-Merge,Austrian ,Biolitec merged with its Austrian unit 
-Merge,Dixon & Bell ,Troutman Sanders 

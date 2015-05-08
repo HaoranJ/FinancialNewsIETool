@@ -1,43 +1,244 @@
-
-“Through strong organic growth as well as selective strategic acquisitions and partnerships,” Perrette said in the statement, “Mark and the team have built Discovery Networks International’s unrivaled footprint with powerful brands that are valued by viewers, advertisers and distribution partners around the world” Discovery has also been looking to new technologies for growth and in 2012 acquired online-video startup Revision3 for an undisclosed amount as part of a strategy to own and distribute reality programming.
-
-medical-services company Apria Healthcare Group Inc was acquired in 2008 by Blackstone Group LP.
-
-Hale Global acquired a majority stake in Patch for an undisclosed amount.
-
-Pentair acquired Tyco International Ltd’s flow-control division in 2012.
 Acquire
-EntityMention [type=ORGANIZATION, objectId=EntityMention-8, hstart=0, hend=1, estart=0, eend=1, headPosition=0, value="Pentair", corefID=-1]
-EntityMention [type=ORGANIZATION, objectId=EntityMention-9, hstart=4, hend=5, estart=2, eend=5, headPosition=4, value="Ltd", corefID=-1]
+Allianz Real Estate
+Koe Galerie
 
-United Spirits in 2007 acquired Whyte & Mackay, gaining brands including W&M Scotch, Jura, Dalmore single highland malt and Vladivar vodka.
 Acquire
-EntityMention [type=ORGANIZATION, objectId=EntityMention-11, hstart=1, hend=2, estart=0, eend=2, headPosition=1, value="Spirits", corefID=-1]
-EntityMention [type=ORGANIZATION, objectId=EntityMention-13, hstart=5, hend=6, estart=5, eend=8, headPosition=5, value="Whyte", corefID=-1]
+Google
+Facebook
 
-It also acquired Pharmaceutical Product Development Inc.
-
-Court Square Capital Partners LP, a New York-based private equity firm, acquired Wyle in 2009.
 Acquire
-EntityMention [type=ORGANIZATION, objectId=EntityMention-17, hstart=4, hend=5, estart=0, eend=5, headPosition=4, value="LP", corefID=-1]
-EntityMention [type=PEOPLE, objectId=EntityMention-19, hstart=14, hend=15, estart=14, eend=15, headPosition=14, value="Wyle", corefID=-1]
+Google
+Amazon
 
-Output graphic:​The user­input company is drawn as the central entity which is surrounded by several or dozens of other companies, and the arc lines between them represent the type of relationships (competitors, merged company, business cooperator, etc) and the intensity level of the relationships (weak competitors or strong competitors).
+Acquire
+Google
+Amazon
 
-Different types of relationships are represented as various shape of arcs and the intensity level is represented as distance between entities (shorter arc means “closer” or “stronger” relationship).
+Acquire
+Google
+Facebook
 
-The closely held company completed a four-way merger nine days before the leak was discovered.
+Acquire
+Google
+Facebook
 
-UniCredit, which also returned its banking licenses in the Baltics and merged its Czech and Slovak units last year, isn’t looking at further retrenchment in the region as its recovery is beginning to gain speed now, Papa said.
+Acquire
+Suntory Holdings Ltd
+Beam Inc.
 
-Austrian Merger Biolitec merged with its Austrian unit on March 15, the company said in a statement last year.
+Acquire
+Carlyle Group LP
+Ortho Clinical
+
+Acquire
+Kinder Morgan
+Holdco LLC
+
+Acquire
+Sysco Corp
+US Foods
+
+Acquire
+Yue Xiu Group
+Chong Hing Bank Ltd.
+
+Acquire
+Verso
+NewPage
+
+Acquire
+Richardson GMP
+Macquarie Private Wealth Canada
+
+Acquire
+Bancorp
+Citizens Financial Group Inc
+
+Acquire
+KKR & Co
+Sedgwick Claims Management Services Inc.
+
+Acquire
+KKR
+Mitchell International Inc.
+
 Merge
-EntityMention [type=PEOPLE, objectId=EntityMention-29, hstart=0, hend=1, estart=0, eend=1, headPosition=0, value="Lampert", corefID=-1]
-EntityMention [type=ORGANIZATION, objectId=EntityMention-30, hstart=4, hend=5, estart=2, eend=8, headPosition=4, value="Corp", corefID=-1]
+Lampert
+Kmart Holding Corp Austrian Merger Biolitec
 
-He opened the office for what was then Ross, Dixon & Bell and continued to serve as managing partner after the firm merged with Troutman Sanders in 2009.
 Merge
-EntityMention [type=ORGANIZATION, objectId=EntityMention-35, hstart=10, hend=11, estart=10, eend=13, headPosition=10, value="Dixon", corefID=-1]
-EntityMention [type=PEOPLE, objectId=EntityMention-36, hstart=26, hend=27, estart=25, eend=27, headPosition=26, value="Sanders", corefID=-1]
+Dixon & Bell
+Troutman Sanders
 
-Bank Merger Hayashi, 56, became deputy president of the company’s corporate banking unit in April last year, three months before it merged with the retail lending arm to form Mizuho Bank.
+Invest_In
+Hitachi
+Hiroaki Nakanishi
+
+Merge
+Google
+Chrysler
+
+Merge
+Fiat SpA
+Chrysler Group LLC
+
+Merge
+Fiat
+Chrysler
+
+Merge
+McVitie & Price
+MacFarlane Lang
+
+Merge
+Fiat
+Chrysler
+
+Merge
+Alfa Romeo
+Chrysler
+
+Acquire
+Pentair
+Tyco International Ltd
+
+Acquire
+United Spirits
+Whyte & Mackay
+
+Acquire
+Court Square Capital Partners LP
+Wyle
+
+Acquire
+Leucadia
+Jefferies
+
+Merge
+Holloway
+Equitable Investment Corp
+
+Acquire
+Panasonic
+Epco
+
+Acquire
+Verizon
+Hughes Telematics Inc.
+
+Acquire
+Freeport
+Plains Exploration & Production Co.
+
+Acquire
+Sprint
+Clearwire
+
+Acquire
+James Richardson & Sons Ltd
+Macquarie Group Ltd.
+
+Acquire
+Fiat SpA
+Chrysler Group LLC
+
+Acquire
+Argonaut
+Bermuda
+
+Acquire
+La Caisse
+Dong Energy A/S
+
+Acquire
+Icahn Stake EBay
+PayPal
+
+Acquire
+Alnylam
+Merck & Co.
+
+Acquire
+Alnylam
+Merck
+
+Acquire
+SoftBank
+Overland Park
+
+Acquire
+SoftBank
+Sprint
+
+Acquire
+Court Square Capital Partners LP
+Wyle
+
+Acquire
+today
+Kurt Zouma
+
+Acquire
+Alibaba
+Sina
+
+Acquire
+BlackRock
+Scientific Active Equities
+
+Acquire
+Carlsbad
+Ion Torrent
+
+Acquire
+California-based Life Technologies Corp
+Ion Torrent
+
+Acquire
+BAE
+Detica Group Plc
+
+Acquire
+Saks
+Hudson 's Bay Co
+
+Acquire
+Yahoo
+Tumblr Inc
+
+Acquire
+SBC
+AT&T Corp.
+
+Acquire
+CMCSA
+AT&T Broadband
+
+Acquire
+SoftBank
+Sprint Corp
+
+Acquire
+BlackRock
+Barclays Global Investors
+
+Acquire
+Breca Group
+Melon SA
+
+Acquire
+Montero SA
+Enersis Compania Americana de Multiservicios
+
+Acquire
+Icahn
+Park Ridge
+
+Acquire
+Energy Transfer Partners LP
+Sunoco Inc
+
+Acquire
+Bank of America
+Countrywide
+
