@@ -32841,3 +32841,390 @@
 
 0	7	Acquire
 
+1169	Org	0	O	NNP/NNP/NNPS/NN	Magellan/Midstream/Partners/LP	O	O	O
+1169	O	1	O	,	,	O	O	O
+1169	O	2	O	WDT	which	O	O	O
+1169	O	3	O	VBZ	own	O	O	O
+1169	O	4	O	DT	the	O	O	O
+1169	O	5	O	JJ	other	O	O	O
+1169	O	6	O	NN	half	O	O	O
+1169	O	7	O	IN	of	O	O	O
+1169	O	8	O	DT	the	O	O	O
+1169	O	9	O	JJ	joint	O	O	O
+1169	O	10	O	NN	venture	O	O	O
+1169	O	11	O	,	,	O	O	O
+1169	O	12	O	MD	will	O	O	O
+1169	O	13	O	VB	buy	O	O	O
+1169	Org	14	O	NNP/NNP	Occidental/Company	O	O	O
+1169	O	15	O	NN	stake	O	O	O
+1169	O	16	O	IN	in	O	O	O
+1169	O	17	O	DT	a	O	O	O
+1169	O	18	O	JJ	40-mile	O	O	O
+1169	O	19	O	JJ	southern	O	O	O
+1169	O	20	O	NN	portion	O	O	O
+1169	O	21	O	IN	of	O	O	O
+1169	O	22	O	DT	the	O	O	O
+1169	O	23	O	NN	pipeline	O	O	O
+1169	O	24	O	IN	for	O	O	O
+1169	OTHER	25	O	$/CD/CD	$/75/million	O	O	O
+1169	O	26	O	IN	in	O	O	O
+1169	O	27	O	DT	a	O	O	O
+1169	O	28	O	JJ	related	O	O	O
+1169	O	29	O	NN	transaction	O	O	O
+1169	O	30	O	VBD	announce	O	O	O
+1169	OTHER	31	O	NN	today	O	O	O
+1169	O	32	O	.	.	O	O	O
+
+0	14	Own
+
+1170	OTHER	0	O	JJ/NN	Last/year	O	O	O
+1170	O	1	O	,	,	O	O	O
+1170	Org	2	O	NNP	Centerview	O	O	O
+1170	O	3	O	VBD	rank	O	O	O
+1170	OTHER	4	O	JJ	16th	O	O	O
+1170	O	5	O	,	,	O	O	O
+1170	O	6	O	IN	with	O	O	O
+1170	O	7	O	DT	a	O	O	O
+1170	O	8	O	NN	role	O	O	O
+1170	O	9	O	IN	on	O	O	O
+1170	O	10	O	DT	the	O	O	O
+1170	O	11	O	NNS	takeover	O	O	O
+1170	O	12	O	IN	of	O	O	O
+1170	Org	13	O	NNP/NNP/NNP	HJ/Heinz/Co	O	O	O
+1170	O	14	O	,	,	O	O	O
+1170	Org	15	O	NNP/NNP	Dell/Inc	O	O	O
+1170	O	16	O	.	.	O	O	O
+
+2	13	Acquire
+
+1171	Org	0	O	NNP	Nestle	O	O	O
+1171	OTHER	1	O	RB	recently	O	O	O
+1171	O	2	O	VBD	complete	O	O	O
+1171	O	3	O	DT	the	O	O	O
+1171	O	4	O	NN	purchase	O	O	O
+1171	O	5	O	IN	of	O	O	O
+1171	Org	6	O	NNP	Zuke	O	O	O
+1171	O	7	O	,	,	O	O	O
+1171	O	8	O	DT	a	O	O	O
+1171	Loc	9	O	NNP	Durango	O	O	O
+1171	O	10	O	,	,	O	O	O
+1171	OTHER	11	O	JJ	Colorado-based	O	O	O
+1171	O	12	O	NN	marketer	O	O	O
+1171	O	13	O	IN	of	O	O	O
+1171	O	14	O	JJ	natural	O	O	O
+1171	O	15	O	NN	pet	O	O	O
+1171	O	16	O	NNS	snack	O	O	O
+1171	O	17	O	,	,	O	O	O
+1171	O	18	O	DT	the	O	O	O
+1171	O	19	O	NN	company	O	O	O
+1171	O	20	O	VBD	say	O	O	O
+1171	OTHER	21	O	NN	today	O	O	O
+1171	O	22	O	IN	in	O	O	O
+1171	O	23	O	DT	a	O	O	O
+1171	O	24	O	JJ	e-mailed	O	O	O
+1171	O	25	O	NN	statement	O	O	O
+1171	O	26	O	.	.	O	O	O
+
+0	6	Acquire
+
+1172	O	0	O	DT	that	O	O	O
+1172	OTHER	1	O	NN	year	O	O	O
+1172	O	2	O	,	,	O	O	O
+1172	Org	3	O	NNP/NNPS/NNP	China/Merchants/Bank	O	O	O
+1172	O	4	O	VBD	complete	O	O	O
+1172	O	5	O	DT	a	O	O	O
+1172	OTHER	6	O	$/CD/CD	$/47/billion	O	O	O
+1172	O	7	O	NN	purchase	O	O	O
+1172	O	8	O	IN	of	O	O	O
+1172	Org	9	O	NN/NN/NNP/NNP	Wing/Lung/Bank/Ltd	O	O	O
+1172	O	10	O	.	.	O	O	O
+
+3	9	Acquire
+
+1173	Org	0	O	DT	A	O	O	O
+1173	O	1	O	NN	merger	O	O	O
+1173	O	2	O	IN	of	O	O	O
+1173	Org	3	O	NNP	DirecTV	O	O	O
+1173	O	4	O	CC	and	O	O	O
+1173	Org	5	O	NNP	Dish	O	O	O
+1173	O	6	O	VBD	be	O	O	O
+1173	O	7	O	VBN	block	O	O	O
+1173	OTHER	8	O	RBR/IN/DT/NN/RB	more/than/a/decade/ago	O	O	O
+1173	O	9	O	.	.	O	O	O
+
+3	5	Merge
+
+1174	O	0	O	PRP	he	O	O	O
+1174	O	1	O	RB	also	O	O	O
+1174	O	2	O	VBD	cite	O	O	O
+1174	O	3	O	NN	speculation	O	O	O
+1174	O	4	O	IN	that	O	O	O
+1174	Org	5	O	NNP/NNP	Ulster/Bank	O	O	O
+1174	O	6	O	MD	may	O	O	O
+1174	O	7	O	VB	merge	O	O	O
+1174	O	8	O	IN	with	O	O	O
+1174	Org	9	O	JJ/NNP/NNP/NNPS/NNP	Permanent/TSB/Group/Holdings/Plc	O	O	O
+1174	O	10	O	.	.	O	O	O
+
+5	9	Merge
+
+1175	O	0	O	JJ	big	O	O	O
+1175	O	1	O	NNP	Goal	O	O	O
+1175	Org	2	O	NNP	Valeant	O	O	O
+1175	O	3	O	VBD	build	O	O	O
+1175	O	4	O	PRP	itself	O	O	O
+1175	O	5	O	IN	into	O	O	O
+1175	O	6	O	DT	a	O	O	O
+1175	O	7	O	NN	dealmaker	O	O	O
+1175	O	8	O	IN	through	O	O	O
+1175	O	9	O	PRP$	its	O	O	O
+1175	OTHER	10	O	CD	2010	O	O	O
+1175	O	11	O	NN	merger	O	O	O
+1175	O	12	O	IN	with	O	O	O
+1175	Org	13	O	NNP/NNP	Biovail/Corp	O	O	O
+1175	O	14	O	.	.	O	O	O
+
+2	13	Merge
+
+1176	Org	0	O	NNP/NNPS	US/Airways	O	O	O
+1176	O	1	O	VBD	merge	O	O	O
+1176	O	2	O	IN	with	O	O	O
+1176	Org	3	O	JJ/NN	American/Airline	O	O	O
+1176	O	4	O	IN	in	O	O	O
+1176	OTHER	5	O	NNP	December	O	O	O
+1176	O	6	O	,	,	O	O	O
+1176	O	7	O	IN	although	O	O	O
+1176	O	8	O	PRP	it	O	O	O
+1176	O	9	O	VBZ	continue	O	O	O
+1176	O	10	O	TO	to	O	O	O
+1176	O	11	O	VB	fly	O	O	O
+1176	O	12	O	IN	under	O	O	O
+1176	O	13	O	DT	the	O	O	O
+1176	Org	14	O	NNP/NNPS	US/Airways	O	O	O
+1176	O	15	O	NN	name	O	O	O
+1176	O	16	O	.	.	O	O	O
+
+0	3	Merge
+
+1177	Org	0	O	NNP	Carlyle	O	O	O
+1177	O	1	O	VBD	raise	O	O	O
+1177	OTHER	2	O	$/CD/CD	$/11/billion	O	O	O
+1177	O	3	O	IN	in	O	O	O
+1177	OTHER	4	O	CD	2010	O	O	O
+1177	O	5	O	CC	and	O	O	O
+1177	O	6	O	VBN	invest	O	O	O
+1177	O	7	O	IN	in	O	O	O
+1177	O	8	O	NNS	company	O	O	O
+1177	O	9	O	VBG	include	O	O	O
+1177	Org	10	O	NNP/NNP/NNP	TCW/Group/Inc	O	O	O
+1177	O	11	O	,	,	O	O	O
+1177	Org	12	O	NNP/NNP	BankUnited/Inc	O	O	O
+1177	O	13	O	,	,	O	O	O
+1177	Org	14	O	NNP/CC/NNP/NNP	Duff/&/Phelps/Corp	O	O	O
+1177	O	15	O	.	.	O	O	O
+
+0	10	Invest_In
+
+1178	Org	0	O	NNP/NNP	SK/Group	O	O	O
+1178	O	1	O	VBD	invest	O	O	O
+1178	O	2	O	IN	in	O	O	O
+1178	Org	3	O	NNP/NNP	Emerald/Technology	O	O	O
+1178	O	4	O	.	.	O	O	O
+
+0	3	Invest_In
+
+1179	OTHER	0	O	JJ/NN	Last/year	O	O	O
+1179	O	1	O	,	,	O	O	O
+1179	O	2	O	DT	the	O	O	O
+1179	Loc	3	O	NNP	UK	O	O	O
+1179	O	4	O	POS	's	O	O	O
+1179	Org	5	O	NNP/NNP/NNP/NNP	Lancashire/County/Pension/Fund	O	O	O
+1179	O	6	O	VBD	invest	O	O	O
+1179	OTHER	7	O	CD/CD/NNS	12/million/pounds	O	O	O
+1179	O	8	O	IN	in	O	O	O
+1179	Org	9	O	NNP/NNP	Aviva/Plc	O	O	O
+1179	O	10	O	.	.	O	O	O
+
+5	9	Invest_In
+
+1180	O	0	O	DT	the	O	O	O
+1180	O	1	O	NN	court	O	O	O
+1180	O	2	O	NN	order	O	O	O
+1180	O	3	O	VBG	allow	O	O	O
+1180	O	4	O	NNP	L-Band	O	O	O
+1180	Org	5	O	NNP/NNP	Acquisition/LLC	O	O	O
+1180	O	6	O	,	,	O	O	O
+1180	O	7	O	DT	a	O	O	O
+1180	O	8	O	RB	wholly	O	O	O
+1180	O	9	O	VBN	own	O	O	O
+1180	O	10	O	NN	unit	O	O	O
+1180	O	11	O	IN	of	O	O	O
+1180	Org	12	O	NNP	Dish	O	O	O
+1180	O	13	O	,	,	O	O	O
+1180	O	14	O	TO	to	O	O	O
+1180	O	15	O	VB	make	O	O	O
+1180	O	16	O	DT	a	O	O	O
+1180	OTHER	17	O	$/CD/CD	$/222/billion	O	O	O
+1180	O	18	O	NN	bid	O	O	O
+1180	O	19	O	IN	for	O	O	O
+1180	O	20	O	NNP	LightSquared	O	O	O
+1180	O	21	O	VBD	be	O	O	O
+1180	O	22	O	``	``	O	O	O
+1180	O	23	O	RB	totally	O	O	O
+1180	O	24	O	JJ	clear	O	O	O
+1180	O	25	O	''	''	O	O	O
+1180	O	26	O	IN	that	O	O	O
+1180	O	27	O	DT	all	O	O	O
+1180	O	28	O	NNS	aspect	O	O	O
+1180	O	29	O	IN	of	O	O	O
+1180	O	30	O	PRP	it	O	O	O
+1180	O	31	O	VBD	be	O	O	O
+1180	O	32	O	JJ	irrevocable	O	O	O
+1180	O	33	O	,	,	O	O	O
+1180	Peop	34	O	NNP/NNP	Glenn/Kurtz	O	O	O
+1180	O	35	O	,	,	O	O	O
+1180	O	36	O	DT	a	O	O	O
+1180	O	37	O	NN	lawyer	O	O	O
+1180	O	38	O	IN	for	O	O	O
+1180	O	39	O	DT	the	O	O	O
+1180	O	40	O	NNS	lender	O	O	O
+1180	O	41	O	NN	group	O	O	O
+1180	O	42	O	,	,	O	O	O
+1180	O	43	O	VBD	say	O	O	O
+1180	O	44	O	IN	in	O	O	O
+1180	O	45	O	DT	a	O	O	O
+1180	O	46	O	NN	hearing	O	O	O
+1180	OTHER	47	O	NN	today	O	O	O
+1180	O	48	O	.	.	O	O	O
+
+12	5	Own
+
+1181	O	0	O	JJ	direct	O	O	O
+1181	O	1	O	NNP	Edge	O	O	O
+1181	O	2	O	,	,	O	O	O
+1181	O	3	O	VBN	base	O	O	O
+1181	O	4	O	IN	in	O	O	O
+1181	Loc	5	O	NNP/NNP	Jersey/City	O	O	O
+1181	O	6	O	,	,	O	O	O
+1181	Loc	7	O	NNP/NNP	New/Jersey	O	O	O
+1181	O	8	O	,	,	O	O	O
+1181	O	9	O	VBD	be	O	O	O
+1181	O	10	O	RB	wholly	O	O	O
+1181	O	11	O	VBN	own	O	O	O
+1181	O	12	O	IN	by	O	O	O
+1181	Org	13	O	NNP/NNP/NNP	Knight/Capital/Group	O	O	O
+1181	O	14	O	IN	before	O	O	O
+1181	O	15	O	PRP	it	O	O	O
+1181	O	16	O	VBD	be	O	O	O
+1181	O	17	O	VBN	spin	O	O	O
+1181	O	18	O	RP	off	O	O	O
+1181	O	19	O	IN	in	O	O	O
+1181	OTHER	20	O	CD	2007	O	O	O
+1181	O	21	O	.	.	O	O	O
+
+
+1182	Org	0	O	NNP/NNP	SMU/SA	O	O	O
+1182	O	1	O	,	,	O	O	O
+1182	O	2	O	WDT	which	O	O	O
+1182	O	3	O	VBZ	be	O	O	O
+1182	O	4	O	RB	also	O	O	O
+1182	O	5	O	VBN	own	O	O	O
+1182	O	6	O	IN	by	O	O	O
+1182	Org	7	O	NNP	Saieh	O	O	O
+1182	O	8	O	.	.	O	O	O
+
+7	0	Own
+
+1183	Org	0	O	NNP/NNP/NNP/NNP/NNP/NNP	Shanghai/Fosun/High/Technology/Group/Co	O	O	O
+1183	O	1	O	,	,	O	O	O
+1183	OTHER	2	O	CD/NN	100/percent	O	O	O
+1183	O	3	O	VBN	own	O	O	O
+1183	O	4	O	IN	by	O	O	O
+1183	Org	5	O	NNP/NNP	Fosun/International	O	O	O
+1183	O	6	O	,	,	O	O	O
+1183	O	7	O	VBZ	offer	O	O	O
+1183	O	8	O	DT	a	O	O	O
+1183	O	9	O	JJ	full	O	O	O
+1183	O	10	O	CC	and	O	O	O
+1183	O	11	O	JJ	irreversible	O	O	O
+1183	O	12	O	NN	guarantee	O	O	O
+1183	O	13	O	IN	for	O	O	O
+1183	Org	14	O	NNP/NNP	Nanjing/Steel	O	O	O
+1183	O	15	O	POS	's	O	O	O
+1183	O	16	O	NNS	bond	O	O	O
+1183	O	17	O	,	,	O	O	O
+1183	O	18	O	VBG	accord	O	O	O
+1183	O	19	O	TO	to	O	O	O
+1183	O	20	O	DT	the	O	O	O
+1183	O	21	O	NN	note	O	O	O
+1183	O	22	O	POS	's	O	O	O
+1183	O	23	O	NN	prospectus	O	O	O
+1183	O	24	O	.	.	O	O	O
+
+5	0	Own
+
+1184	Org	0	O	NNP	LCI	O	O	O
+1184	O	1	O	,	,	O	O	O
+1184	O	2	O	VBN	own	O	O	O
+1184	O	3	O	IN	by	O	O	O
+1184	O	4	O	NNP	New	O	O	O
+1184	O	5	O	JJ	york-based	O	O	O
+1184	Org	6	O	NNP/NNP	Libra/Group	O	O	O
+1184	O	7	O	,	,	O	O	O
+1184	O	8	O	VBD	enter	O	O	O
+1184	O	9	O	DT	the	O	O	O
+1184	O	10	O	NN	helicopter	O	O	O
+1184	O	11	O	NN	market	O	O	O
+1184	O	12	O	IN	in	O	O	O
+1184	OTHER	13	O	CD	2012	O	O	O
+1184	O	14	O	WRB	when	O	O	O
+1184	O	15	O	PRP	it	O	O	O
+1184	O	16	O	VBD	commit	O	O	O
+1184	O	17	O	TO	to	O	O	O
+1184	O	18	O	VB	spend	O	O	O
+1184	O	19	O	RB	as	O	O	O
+1184	O	20	O	JJ	much	O	O	O
+1184	O	21	O	IN	as	O	O	O
+1184	OTHER	22	O	$/CD/CD	$/400/million	O	O	O
+1184	O	23	O	TO	to	O	O	O
+1184	O	24	O	VB	buy	O	O	O
+1184	O	25	O	DT	a	O	O	O
+1184	O	26	O	NN	fleet	O	O	O
+1184	O	27	O	IN	of	O	O	O
+1184	Org	28	O	NNP/NNP/NNP	Finmeccanica/SpA/AgustaWestland	O	O	O
+1184	O	29	O	NNS	chopper	O	O	O
+1184	O	30	O	.	.	O	O	O
+
+6	0	Own
+
+1185	Org	0	O	NNP	Maynilad	O	O	O
+1185	O	1	O	,	,	O	O	O
+1185	O	2	O	VBN	own	O	O	O
+1185	O	3	O	IN	by	O	O	O
+1185	Org	4	O	NNP/NNP/NNP/NNP	Metro/Pacific/Investments/Corp	O	O	O
+1185	O	5	O	,	,	O	O	O
+1185	O	6	O	CC	and	O	O	O
+1185	O	7	O	VBN	list	O	O	O
+1185	Org	8	O	NNP/NNP/NNP	Manila/Water/Co	O	O	O
+1185	O	9	O	.	.	O	O	O
+
+4	0	Own
+8	0	Own
+
+1186	Org	0	O	NNP	Fidelity	O	O	O
+1186	O	1	O	VBD	own	O	O	O
+1186	OTHER	2	O	CD/NN	12/percent	O	O	O
+1186	O	3	O	IN	of	O	O	O
+1186	Org	4	O	NNP	Intercept	O	O	O
+1186	O	5	O	.	.	O	O	O
+
+0	4	Own
+
+1187	Org	0	O	NNP/NNP	Luoyang/Mining	O	O	O
+1187	O	1	O	,	,	O	O	O
+1187	O	2	O	VBN	own	O	O	O
+1187	O	3	O	IN	by	O	O	O
+1187	Org	4	O	NNP	Luoyang	O	O	O
+
+4	0	Own
+
