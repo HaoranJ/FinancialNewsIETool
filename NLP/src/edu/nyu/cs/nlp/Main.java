@@ -8,19 +8,22 @@ public class Main {
 		String pathWrite = "trainResultsProcessed.csv";
 		TrainResultsProcessor tr_processer = new TrainResultsProcessor();
 		tr_processer.processResults(pathRead, pathWrite);
-        
-		System.out.println("Please enter a company name you want to search. ");
 		Scanner sc = new Scanner(System.in);
-		String company = sc.nextLine();
-		tr_processer.searchOneCompany(company);
-		
-		System.out.println();
-		System.out.println("Please enter a pair of companies delimited by comma.");
-		String pair = sc.nextLine();
-		String delimiter = "\\s*" + "," + "\\s*";
-		String[] tokens = pair.split(delimiter);
-		tr_processer.searchByPair(tokens[0], tokens[1]);
-		
+		System.out.println("Search one company, enter 1; search a pair of companies, enter 2. ");
+		int opt = Integer.parseInt(sc.nextLine());
+		if(opt == 1){
+			System.out.println("Please enter a company name you want to search. ");
+			String company = sc.nextLine();
+			tr_processer.searchOneCompany(company);
+		}
+		if(opt == 2){
+			System.out.println();
+			System.out.println("Please enter a pair of companies delimited by comma.");
+			String pair = sc.nextLine();
+			String delimiter = "\\s*" + "," + "\\s*";
+			String[] tokens = pair.split(delimiter);
+			tr_processer.searchByPair(tokens[0], tokens[1]);
+		}
 		sc.close();
 	}
 }

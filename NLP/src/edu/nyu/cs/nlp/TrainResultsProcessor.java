@@ -22,7 +22,7 @@ public class TrainResultsProcessor {
 		sc = new Scanner(Paths.get(pathRead));
 		pw.println("Subjective_Company,Objective_Company,Relation");;
 		String line = "";
-
+		int counter = 0;
 		while (sc.hasNextLine()) {
 			line = sc.nextLine();
 			if (line.trim().length() == 0) {
@@ -39,11 +39,12 @@ public class TrainResultsProcessor {
 					
 					StringBuilder sb = new StringBuilder();
 					sb.append(a + ",");
-					sb.append(b + ",");
-					sb.append(relation);
+					sb.append(relation + ",");
+					sb.append(b);
 					String str = sb.toString();
 					putInMap(str);
-					pw.print(a + "," + b + "," + relation + "\n");
+					counter++;
+					pw.print(a + "," + relation + "," + b + "\n");
 					sb.delete(0, sb.length());
 					
 				}
@@ -54,7 +55,8 @@ public class TrainResultsProcessor {
 		}
 		sc.close();
 		pw.close();
-		System.out.println("Training data processed, the output file is " + pathWrite);
+		System.out.println("Training data processed, " + "totally " + counter + " relation entries stored, "
+				+ " the output file is " + pathWrite);
 	}
 	
 	public void putInMap(String s){
@@ -124,7 +126,7 @@ public class TrainResultsProcessor {
 	//check whether a relation entry e contains a company c
 	private boolean containsCompany(String e, String c){
 		String[] tokens = e.split(",");
-		String a = tokens[0], b = tokens[1];
+		String a = tokens[0], b = tokens[2];
 		boolean fa, fb;
     	fa = Pattern.compile(Pattern.quote(a), Pattern.CASE_INSENSITIVE).matcher(c).find()
     			|| Pattern.compile(Pattern.quote(c), Pattern.CASE_INSENSITIVE).matcher(a).find();
@@ -136,8 +138,8 @@ public class TrainResultsProcessor {
 	//check whether a relation entry happens between the pair of the companies a, b
 	private boolean containsPair(String e, String a, String b){
 		String[] tokens = e.split(",");
-		boolean fa = nameEquals(tokens[0], a) && nameEquals(tokens[1], b);
-		boolean fb = nameEquals(tokens[0], b) && nameEquals(tokens[1], a);
+		boolean fa = nameEquals(tokens[0], a) && nameEquals(tokens[2], b);
+		boolean fb = nameEquals(tokens[0], b) && nameEquals(tokens[2], a);
 		return fa || fb;
 	}
 	
