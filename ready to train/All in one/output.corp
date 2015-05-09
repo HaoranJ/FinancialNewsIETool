@@ -33228,3 +33228,795 @@
 
 4	0	Own
 
+1188	O	0	O	IN	in	O	O	O
+1188	OTHER	1	O	JJ/CD	early/2012	O	O	O
+1188	O	2	O	,	,	O	O	O
+1188	Org	3	O	NNP/NNP	Ion/Torrent	O	O	O
+1188	O	4	O	,	,	O	O	O
+1188	O	5	O	WDT	which	O	O	O
+1188	O	6	O	VBD	be	O	O	O
+1188	O	7	O	VBN	acquire	O	O	O
+1188	O	8	O	IN	by	O	O	O
+1188	Loc	9	O	NNP	Carlsbad	O	O	O
+1188	O	10	O	,	,	O	O	O
+1188	Org	11	O	JJ/NNP/NNPS/NNP	California-based/Life/Technologies/Corp	O	O	O
+1188	O	12	O	,	,	O	O	O
+1188	O	13	O	VBD	report	O	O	O
+1188	O	14	O	PRP	it	O	O	O
+1188	O	15	O	VBD	have	O	O	O
+1188	O	16	O	DT	a	O	O	O
+1188	O	17	O	NN	machine	O	O	O
+1188	O	18	O	JJ	capable	O	O	O
+1188	O	19	O	IN	of	O	O	O
+1188	O	20	O	DT	the	O	O	O
+1188	OTHER	21	O	$/CD	$/1,000	O	O	O
+1188	O	22	O	NN	genome	O	O	O
+1188	O	23	O	IN	in	O	O	O
+1188	O	24	O	NN	hand	O	O	O
+1188	O	25	O	.	.	O	O	O
+
+3	11	Acquire
+
+1189	Org	0	O	NNP	Migros	O	O	O
+1189	O	1	O	,	,	O	O	O
+1189	O	2	O	WDT	which	O	O	O
+1189	O	3	O	VBD	be	O	O	O
+1189	O	4	O	VBN	acquire	O	O	O
+1189	O	5	O	IN	by	O	O	O
+1189	O	6	O	DT	a	O	O	O
+1189	Org	7	O	NNP	BC	O	O	O
+1189	OTHER	8	O	JJ	Partners-led	O	O	O
+1189	O	9	O	NN	group	O	O	O
+1189	O	10	O	IN	for	O	O	O
+1189	OTHER	11	O	$/CD/CD	$/33/billion	O	O	O
+1189	O	12	O	IN	in	O	O	O
+1189	OTHER	13	O	CD	2008	O	O	O
+1189	O	14	O	,	,	O	O	O
+1189	O	15	O	VBZ	have	O	O	O
+1189	OTHER	16	O	CD	1,129	O	O	O
+1189	O	17	O	NNS	store	O	O	O
+1189	O	18	O	IN	in	O	O	O
+1189	Loc	19	O	NNP	Turkey	O	O	O
+1189	O	20	O	,	,	O	O	O
+1189	Loc	21	O	NNP	Kazakhstan	O	O	O
+1189	O	22	O	CC	and	O	O	O
+1189	Loc	23	O	NNP	Macedonia	O	O	O
+1189	O	24	O	,	,	O	O	O
+1189	O	25	O	CC	and	O	O	O
+1189	O	26	O	VBZ	be	O	O	O
+1189	O	27	O	VBG	target	O	O	O
+1189	O	28	O	JJR	more	O	O	O
+1189	O	29	O	IN	than	O	O	O
+1189	OTHER	30	O	CD/CD/NNS	8/billion/liras	O	O	O
+1189	O	31	O	IN	of	O	O	O
+1189	O	32	O	NNS	sale	O	O	O
+1189	OTHER	33	O	DT/NN	this/year	O	O	O
+1189	O	34	O	,	,	O	O	O
+1189	O	35	O	VBG	accord	O	O	O
+1189	O	36	O	TO	to	O	O	O
+1189	O	37	O	DT	a	O	O	O
+1189	O	38	O	NN	company	O	O	O
+1189	O	39	O	NN	statement	O	O	O
+1189	OTHER	40	O	JJ/NN	last/week	O	O	O
+1189	O	41	O	.	.	O	O	O
+
+7	0	Acquire
+
+1190	Loc	0	O	NNP	Germany	O	O	O
+1190	O	1	O	POS	's	O	O	O
+1190	O	2	O	NNP	Q-Cells	O	O	O
+1190	Org	3	O	NN	SE	O	O	O
+1190	O	4	O	VBD	be	O	O	O
+1190	O	5	O	VBN	acquire	O	O	O
+1190	O	6	O	IN	by	O	O	O
+1190	Loc	7	O	NNP/NNP	South/Korea	O	O	O
+1190	O	8	O	POS	's	O	O	O
+1190	Org	9	O	NNP/NNP	Hanwha/Group	O	O	O
+1190	O	10	O	IN	in	O	O	O
+1190	OTHER	11	O	CD	2012	O	O	O
+1190	O	12	O	.	.	O	O	O
+
+9	3	Acquire
+
+1191	O	0	O	``	``	O	O	O
+1191	O	1	O	DT	this	O	O	O
+1191	O	2	O	NN	level	O	O	O
+1191	O	3	O	IN	of	O	O	O
+1191	O	4	O	NN	growth	O	O	O
+1191	O	5	O	VBZ	require	O	O	O
+1191	O	6	O	JJ	significant	O	O	O
+1191	O	7	O	NN	investment	O	O	O
+1191	O	8	O	IN	in	O	O	O
+1191	O	9	O	DT	the	O	O	O
+1191	O	10	O	NN	business	O	O	O
+1191	O	11	O	''	''	O	O	O
+1191	Org	12	O	NNP/NNP	Vivint/Inc	O	O	O
+1191	O	13	O	,	,	O	O	O
+1191	O	14	O	DT	a	O	O	O
+1191	O	15	O	NN	home	O	O	O
+1191	O	16	O	NN	security	O	O	O
+1191	O	17	O	NN	provider	O	O	O
+1191	O	18	O	WDT	that	O	O	O
+1191	O	19	O	VBD	form	O	O	O
+1191	O	20	O	DT	the	O	O	O
+1191	O	21	O	JJ	solar	O	O	O
+1191	O	22	O	NN	unit	O	O	O
+1191	O	23	O	,	,	O	O	O
+1191	O	24	O	VBD	be	O	O	O
+1191	O	25	O	VBN	acquire	O	O	O
+1191	O	26	O	IN	by	O	O	O
+1191	Org	27	O	NNP/NNP	Blackstone/Group	O	O	O
+1191	O	28	O	IN	in	O	O	O
+1191	OTHER	29	O	CD	2012	O	O	O
+1191	O	30	O	IN	for	O	O	O
+1191	O	31	O	RB	about	O	O	O
+1191	OTHER	32	O	$/CD/CD	$/2/billion	O	O	O
+1191	O	33	O	.	.	O	O	O
+
+27	12	Acquire
+
+1192	Org	0	O	NNP/NNP	IPO/Plans	O	O	O
+1192	O	1	O	NNP	The	O	O	O
+1192	O	2	O	NN	retailer	O	O	O
+1192	O	3	O	VBD	be	O	O	O
+1192	O	4	O	VBN	acquire	O	O	O
+1192	O	5	O	IN	by	O	O	O
+1192	O	6	O	NN	company	O	O	O
+1192	O	7	O	NN	founder	O	O	O
+1192	Org	8	O	NNP/NNP	Tom/Singh	O	O	O
+1192	O	9	O	,	,	O	O	O
+1192	Org	10	O	NNP	Permira	O	O	O
+1192	O	11	O	CC	and	O	O	O
+1192	Org	12	O	NNP/NNPS	Apax/Partners	O	O	O
+1192	O	13	O	IN	in	O	O	O
+1192	OTHER	14	O	CD	2004	O	O	O
+1192	O	15	O	IN	for	O	O	O
+1192	OTHER	16	O	CD/CD/NNS	669/million/pounds	O	O	O
+1192	O	17	O	.	.	O	O	O
+
+0	8	Acquire
+
+1193	Org	0	O	NNP	WhatsApp	O	O	O
+1193	O	1	O	,	,	O	O	O
+1193	O	2	O	WDT	which	O	O	O
+1193	O	3	O	VBD	be	O	O	O
+1193	O	4	O	VBN	acquire	O	O	O
+1193	O	5	O	IN	by	O	O	O
+1193	Org	6	O	NNP	Facebook	O	O	O
+1193	O	7	O	IN	for	O	O	O
+1193	OTHER	8	O	$/CD/CD	$/22/billion	O	O	O
+1193	OTHER	9	O	DT/NN	this/year	O	O	O
+1193	O	10	O	,	,	O	O	O
+1193	O	11	O	VBZ	be	O	O	O
+1193	O	12	O	VBG	work	O	O	O
+1193	O	13	O	IN	with	O	O	O
+1193	O	14	O	NN	startup	O	O	O
+1193	OTHER	15	O	VB/NNP/NNPS	Open/Whisper/Systems	O	O	O
+1193	O	16	O	TO	to	O	O	O
+1193	O	17	O	VB	enact	O	O	O
+1193	O	18	O	DT	the	O	O	O
+1193	O	19	O	NN	change	O	O	O
+1193	O	20	O	,	,	O	O	O
+1193	O	21	O	DT	the	O	O	O
+1193	O	22	O	NNS	company	O	O	O
+1193	O	23	O	VBD	say	O	O	O
+1193	OTHER	24	O	NN	yesterday	O	O	O
+1193	O	25	O	.	.	O	O	O
+
+6	0	Acquire
+
+1194	Org	0	O	NNP/NNP/NNP/NNP	Red/Lobster/Seafood/Co	O	O	O
+1194	O	1	O	,	,	O	O	O
+1194	O	2	O	WDT	which	O	O	O
+1194	O	3	O	VBD	be	O	O	O
+1194	O	4	O	VBN	acquire	O	O	O
+1194	O	5	O	IN	by	O	O	O
+1194	Org	6	O	NNP/NNP/NNP/NNP	Golden/Gate/Capital/Corp	O	O	O
+1194	O	7	O	.	.	O	O	O
+
+6	0	Acquire
+
+1195	O	0	O	DT	the	O	O	O
+1195	O	1	O	NN	government	O	O	O
+1195	O	2	O	VBZ	have	O	O	O
+1195	O	3	O	VBN	recover	O	O	O
+1195	OTHER	4	O	$/CD/CD	C$/38/billion	O	O	O
+1195	O	5	O	IN	from	O	O	O
+1195	Org	6	O	NNP	GM	O	O	O
+1195	O	7	O	CC	and	O	O	O
+1195	OTHER	8	O	$/CD/CD	C$/17/billion	O	O	O
+1195	O	9	O	IN	from	O	O	O
+1195	Org	10	O	NNP	Chrysler	O	O	O
+1195	O	11	O	,	,	O	O	O
+1195	O	12	O	WDT	which	O	O	O
+1195	O	13	O	VBD	be	O	O	O
+1195	O	14	O	VBN	acquire	O	O	O
+1195	O	15	O	IN	by	O	O	O
+1195	Org	16	O	NNP/NNP	Fiat/SpA	O	O	O
+1195	O	17	O	IN	in	O	O	O
+1195	OTHER	18	O	CD	2011	O	O	O
+1195	O	19	O	.	.	O	O	O
+
+16	10	Acquire
+
+1196	Org	0	O	NNP	GlobeRanger	O	O	O
+1196	O	1	O	,	,	O	O	O
+1196	O	2	O	WDT	which	O	O	O
+1196	O	3	O	VBD	be	O	O	O
+1196	O	4	O	VBN	acquire	O	O	O
+1196	O	5	O	IN	by	O	O	O
+1196	Org	6	O	NNP/NNP	Fujitsu/Ltd	O	O	O
+1196	O	7	O	.	.	O	O	O
+
+6	0	Acquire
+
+1197	Org	0	O	NN/CD	formation/8	O	O	O
+1197	O	1	O	RB	also	O	O	O
+1197	O	2	O	VBN	invest	O	O	O
+1197	O	3	O	IN	in	O	O	O
+1197	O	4	O	JJ	big	O	O	O
+1197	O	5	O	NNS	datum	O	O	O
+1197	O	6	O	NN	startup	O	O	O
+1197	O	7	O	NN	relateiq	O	O	O
+1197	O	8	O	,	,	O	O	O
+1197	O	9	O	WDT	which	O	O	O
+1197	Org	10	O	NNP	Salesforcecom	O	O	O
+1197	O	11	O	VBD	acquire	O	O	O
+1197	O	12	O	IN	in	O	O	O
+1197	OTHER	13	O	NNP	July	O	O	O
+1197	O	14	O	IN	for	O	O	O
+1197	OTHER	15	O	$/CD/CD	$/390/million	O	O	O
+1197	O	16	O	.	.	O	O	O
+
+10	0	Acquire
+
+1198	Peop	0	O	NNP	Malo	O	O	O
+1198	O	1	O	VBD	be	O	O	O
+1198	O	2	O	VBN	discover	O	O	O
+1198	OTHER	3	O	CD/NNS/RB	11/years/ago	O	O	O
+1198	O	4	O	IN	in	O	O	O
+1198	O	5	O	DT	a	O	O	O
+1198	O	6	O	NN	area	O	O	O
+1198	OTHER	7	O	CD	280	O	O	O
+1198	O	8	O	NNS	mile	O	O	O
+1198	O	9	O	-LRB-	-lrb-	O	O	O
+1198	OTHER	10	O	CD	450	O	O	O
+1198	O	11	O	NNS	kilometer	O	O	O
+1198	O	12	O	-RRB-	-rrb-	O	O	O
+1198	O	13	O	RB	south	O	O	O
+1198	O	14	O	IN	of	O	O	O
+1198	Loc	15	O	NNP/NNP	New/Orleans	O	O	O
+1198	O	16	O	IN	by	O	O	O
+1198	Org	17	O	NNP/NNP	Unocal/Corp	O	O	O
+1198	O	18	O	,	,	O	O	O
+1198	O	19	O	WDT	which	O	O	O
+1198	Org	20	O	NNP	Chevron	O	O	O
+1198	O	21	O	VBD	acquire	O	O	O
+1198	O	22	O	IN	in	O	O	O
+1198	OTHER	23	O	CD	2005	O	O	O
+1198	O	24	O	.	.	O	O	O
+
+20	17	Acquire
+
+1199	O	0	O	IN	in	O	O	O
+1199	OTHER	1	O	CD	1987	O	O	O
+1199	O	2	O	,	,	O	O	O
+1199	Peop	3	O	NNP	Holloway	O	O	O
+1199	O	4	O	VBD	be	O	O	O
+1199	O	5	O	VBN	promote	O	O	O
+1199	O	6	O	TO	to	O	O	O
+1199	O	7	O	NN	president	O	O	O
+1199	O	8	O	CC	and	O	O	O
+1199	O	9	O	JJ	chief	O	O	O
+1199	O	10	O	JJ	executive	O	O	O
+1199	O	11	O	NN	officer	O	O	O
+1199	O	12	O	IN	of	O	O	O
+1199	Org	13	O	NNP/NNP/NNP	Equitable/Investment/Corp	O	O	O
+1199	O	14	O	,	,	O	O	O
+1199	O	15	O	VBG	oversee	O	O	O
+1199	O	16	O	DT	the	O	O	O
+1199	O	17	O	NN	real-estate	O	O	O
+1199	O	18	O	NN	group	O	O	O
+1199	O	19	O	CC	and	O	O	O
+1199	O	20	O	DT	the	O	O	O
+1199	O	21	O	NN	brokerage	O	O	O
+1199	O	22	O	NN	unit	O	O	O
+1199	Org	23	O	NNP/,/NNP/CC/NNP/NNP	Donaldson/,/Lufkin/&/Jenrette/Inc	O	O	O
+1199	O	24	O	,	,	O	O	O
+1199	O	25	O	WDT	which	O	O	O
+1199	Org	26	O	NNP	Equitable	O	O	O
+1199	O	27	O	VBD	have	O	O	O
+1199	O	28	O	VBN	acquire	O	O	O
+1199	O	29	O	IN	in	O	O	O
+1199	OTHER	30	O	CD	1984	O	O	O
+1199	O	31	O	.	.	O	O	O
+
+26	23	Acquire
+
+1200	O	0	O	``	`	O	O	O
+1200	O	1	O	NN	snl	O	O	O
+1200	O	2	O	''	'	O	O	O
+1200	Peop	3	O	NNP/NNP	Skit/Mayer	O	O	O
+1200	O	4	O	,	,	O	O	O
+1200	O	5	O	WP$	whose	O	O	O
+1200	O	6	O	NN	presentation	O	O	O
+1200	O	7	O	VBD	include	O	O	O
+1200	O	8	O	DT	a	O	O	O
+1200	O	9	O	JJ	short	O	O	O
+1200	O	10	O	NN	news	O	O	O
+1200	O	11	O	NN	skit	O	O	O
+1200	O	12	O	IN	with	O	O	O
+1200	O	13	O	NN	cast	O	O	O
+1200	O	14	O	NNS	member	O	O	O
+1200	O	15	O	IN	from	O	O	O
+1200	O	16	O	``	``	O	O	O
+1200	OTHER	17	O	NNP	Saturday	O	O	O
+1200	OTHER	18	O	NNP	Night	O	O	O
+1200	O	19	O	NNP	Live	O	O	O
+1200	O	20	O	,	,	O	O	O
+1200	O	21	O	''	''	O	O	O
+1200	O	22	O	RB	also	O	O	O
+1200	O	23	O	VBD	share	O	O	O
+1200	O	24	O	DT	the	O	O	O
+1200	O	25	O	NN	stage	O	O	O
+1200	O	26	O	IN	with	O	O	O
+1200	Peop	27	O	NNP/NNP	David/Karp	O	O	O
+1200	O	28	O	,	,	O	O	O
+1200	O	29	O	NN	founder	O	O	O
+1200	O	30	O	IN	of	O	O	O
+1200	O	31	O	VBG	blogg	O	O	O
+1200	O	32	O	NN	service	O	O	O
+1200	Org	33	O	NNP/NNP	Tumblr/Inc	O	O	O
+1200	O	34	O	,	,	O	O	O
+1200	O	35	O	WDT	which	O	O	O
+1200	Org	36	O	NNP	Yahoo	O	O	O
+1200	O	37	O	VBD	acquire	O	O	O
+1200	O	38	O	IN	for	O	O	O
+1200	O	39	O	JJR	more	O	O	O
+1200	O	40	O	IN	than	O	O	O
+1200	OTHER	41	O	$/CD/CD	$/1/billion	O	O	O
+1200	OTHER	42	O	JJ/NN	last/year	O	O	O
+1200	O	43	O	.	.	O	O	O
+
+36	33	Acquire
+
+1201	O	0	O	PRP	it	O	O	O
+1201	O	1	O	VBD	be	O	O	O
+1201	O	2	O	VBN	develop	O	O	O
+1201	O	3	O	IN	by	O	O	O
+1201	Org	4	O	NNP/JJ/NNS	Scientific/Active/Equities	O	O	O
+1201	O	5	O	,	,	O	O	O
+1201	O	6	O	DT	a	O	O	O
+1201	O	7	O	NN	investment	O	O	O
+1201	O	8	O	NN	group	O	O	O
+1201	O	9	O	IN	within	O	O	O
+1201	Org	10	O	NNP/NNP/NNPS	Barclays/Global/Investors	O	O	O
+1201	O	11	O	,	,	O	O	O
+1201	O	12	O	WDT	which	O	O	O
+1201	Org	13	O	NNP	BlackRock	O	O	O
+1201	O	14	O	VBD	acquire	O	O	O
+1201	O	15	O	IN	in	O	O	O
+1201	OTHER	16	O	CD	2009	O	O	O
+1201	O	17	O	.	.	O	O	O
+
+13	10	Acquire
+
+1202	O	0	O	PRP	it	O	O	O
+1202	O	1	O	VBD	be	O	O	O
+1202	O	2	O	VBN	develop	O	O	O
+1202	O	3	O	IN	by	O	O	O
+1202	O	4	O	NNP	Scientific	O	O	O
+1202	O	5	O	JJ	active	O	O	O
+1202	O	6	O	NNS	equity	O	O	O
+1202	O	7	O	,	,	O	O	O
+1202	O	8	O	CC	or	O	O	O
+1202	O	9	O	NNP	SAE	O	O	O
+1202	O	10	O	,	,	O	O	O
+1202	O	11	O	DT	a	O	O	O
+1202	O	12	O	NN	investment	O	O	O
+1202	O	13	O	NN	group	O	O	O
+1202	O	14	O	IN	within	O	O	O
+1202	Org	15	O	NNP/NNP/NNPS	Barclays/Global/Investors	O	O	O
+1202	O	16	O	,	,	O	O	O
+1202	O	17	O	WDT	which	O	O	O
+1202	Org	18	O	NNP	BlackRock	O	O	O
+1202	O	19	O	VBD	acquire	O	O	O
+1202	O	20	O	IN	in	O	O	O
+1202	OTHER	21	O	CD	2009	O	O	O
+1202	O	22	O	,	,	O	O	O
+1202	O	23	O	VBG	accord	O	O	O
+1202	O	24	O	TO	to	O	O	O
+1202	O	25	O	DT	the	O	O	O
+1202	O	26	O	NN	agreement	O	O	O
+1202	O	27	O	VBD	reach	O	O	O
+1202	OTHER	28	O	NN	yesterday	O	O	O
+1202	O	29	O	IN	with	O	O	O
+1202	Peop	30	O	NNP	Schneiderman	O	O	O
+1202	O	31	O	.	.	O	O	O
+
+18	15	Acquire
+
+1203	Peop	0	O	NNP	Bresnan	O	O	O
+1203	O	1	O	VBD	be	O	O	O
+1203	O	2	O	RB	eventually	O	O	O
+1203	O	3	O	VBN	rename	O	O	O
+1203	Org	4	O	NNP/NNP	Optimum/West	O	O	O
+1203	O	5	O	,	,	O	O	O
+1203	O	6	O	WDT	which	O	O	O
+1203	Org	7	O	NNP	Rutledge	O	O	O
+1203	O	8	O	RB	then	O	O	O
+1203	O	9	O	VBD	acquire	O	O	O
+1203	O	10	O	RB	again	O	O	O
+1203	O	11	O	IN	in	O	O	O
+1203	OTHER	12	O	JJ/NN	last/year	O	O	O
+1203	O	13	O	POS	's	O	O	O
+1203	O	14	O	NN	transaction	O	O	O
+1203	O	15	O	:	--	O	O	O
+1203	O	16	O	DT	this	O	O	O
+1203	O	17	O	NN	time	O	O	O
+1203	O	18	O	IN	for	O	O	O
+1203	O	19	O	NNP	Charter	O	O	O
+1203	O	20	O	.	.	O	O	O
+
+7	4	Acquire
+
+1204	Org	0	O	NNP	Televisa	O	O	O
+1204	O	1	O	,	,	O	O	O
+1204	O	2	O	DT	the	O	O	O
+1204	O	3	O	NN	world	O	O	O
+1204	O	4	O	POS	's	O	O	O
+1204	O	5	O	JJS	largest	O	O	O
+1204	OTHER	6	O	JJ	Spanish-language	O	O	O
+1204	O	7	O	NN	broadcaster	O	O	O
+1204	O	8	O	,	,	O	O	O
+1204	O	9	O	VBD	acquire	O	O	O
+1204	O	10	O	PRP$	its	O	O	O
+1204	O	11	O	NN	half	O	O	O
+1204	O	12	O	IN	of	O	O	O
+1204	Org	13	O	NNP	Iusacell	O	O	O
+1204	O	14	O	IN	from	O	O	O
+1204	Loc	15	O	NNP	Salinas	O	O	O
+1204	O	16	O	IN	in	O	O	O
+1204	OTHER	17	O	CD	2012	O	O	O
+1204	O	18	O	IN	after	O	O	O
+1204	O	19	O	VBG	scrap	O	O	O
+1204	O	20	O	DT	a	O	O	O
+1204	O	21	O	JJR	earlier	O	O	O
+1204	O	22	O	NN	plan	O	O	O
+1204	O	23	O	TO	to	O	O	O
+1204	O	24	O	VB	take	O	O	O
+1204	O	25	O	DT	a	O	O	O
+1204	O	26	O	NN	stake	O	O	O
+1204	O	27	O	IN	in	O	O	O
+1204	Org	28	O	NNP	NII	O	O	O
+1204	O	29	O	POS	's	O	O	O
+1204	OTHER	30	O	JJ	Mexican	O	O	O
+1204	O	31	O	NN	unit	O	O	O
+1204	O	32	O	.	.	O	O	O
+
+0	28	Acquire
+
+1205	OTHER	0	O	CD	19	O	O	O
+1205	O	1	O	-LRB-	-lrb-	O	O	O
+1205	Org	2	O	NN	Bloomberg	O	O	O
+1205	O	3	O	-RRB-	-rrb-	O	O	O
+1205	O	4	O	:	--	O	O	O
+1205	Org	5	O	NNP/NNP	Suez/Environnement	O	O	O
+1205	O	6	O	,	,	O	O	O
+1205	Loc	7	O	NNP	Europe	O	O	O
+1205	O	8	O	POS	's	O	O	O
+1205	O	9	O	JJ	second-biggest	O	O	O
+1205	O	10	O	NN	water	O	O	O
+1205	O	11	O	NN	company	O	O	O
+1205	O	12	O	,	,	O	O	O
+1205	O	13	O	VBD	acquire	O	O	O
+1205	O	14	O	DT	a	O	O	O
+1205	OTHER	15	O	CD/NN	395/percent	O	O	O
+1205	O	16	O	NN	stake	O	O	O
+1205	O	17	O	IN	in	O	O	O
+1205	O	18	O	DT	the	O	O	O
+1205	Loc	19	O	NNP	Rome	O	O	O
+1205	O	20	O	NN	utility	O	O	O
+1205	Org	21	O	NNP/NNP	Acea/SpA	O	O	O
+1205	O	22	O	IN	from	O	O	O
+1205	Org	23	O	NNP/NNP/NNP	GDF/Suez/SA	O	O	O
+1205	O	24	O	TO	to	O	O	O
+1205	O	25	O	VB	raise	O	O	O
+1205	O	26	O	PRP$	its	O	O	O
+1205	O	27	O	NN	shareholding	O	O	O
+1205	O	28	O	TO	to	O	O	O
+1205	OTHER	29	O	CD/NN	125/percent	O	O	O
+1205	O	30	O	.	.	O	O	O
+
+5	21	Acquire
+
+1206	Org	0	O	NNP	Bain	O	O	O
+1206	O	1	O	,	,	O	O	O
+1206	O	2	O	WDT	which	O	O	O
+1206	O	3	O	VBZ	have	O	O	O
+1206	O	4	O	RB	about	O	O	O
+1206	OTHER	5	O	$/CD/CD	$/70/billion	O	O	O
+1206	O	6	O	IN	in	O	O	O
+1206	O	7	O	NNS	asset	O	O	O
+1206	O	8	O	IN	under	O	O	O
+1206	O	9	O	NN	management	O	O	O
+1206	O	10	O	,	,	O	O	O
+1206	O	11	O	VBD	acquire	O	O	O
+1206	Org	12	O	NNP	Atento	O	O	O
+1206	O	13	O	IN	from	O	O	O
+1206	O	14	O	JJ	madrid-based	O	O	O
+1206	Org	15	O	NNP/NNP	Telefonica/SA	O	O	O
+1206	O	16	O	IN	in	O	O	O
+1206	OTHER	17	O	NNP/CD	December/2012	O	O	O
+1206	O	18	O	IN	for	O	O	O
+1206	O	19	O	RB	about	O	O	O
+1206	OTHER	20	O	CD/CD/NNS	1/billion/euros	O	O	O
+1206	O	21	O	-LRB-	-lrb-	O	O	O
+1206	OTHER	22	O	$/CD/CD	$/14/billion	O	O	O
+1206	O	23	O	-RRB-	-rrb-	O	O	O
+1206	O	24	O	,	,	O	O	O
+1206	O	25	O	VBG	accord	O	O	O
+1206	O	26	O	TO	to	O	O	O
+1206	O	27	O	DT	a	O	O	O
+1206	O	28	O	NN	statement	O	O	O
+1206	O	29	O	IN	at	O	O	O
+1206	O	30	O	DT	the	O	O	O
+1206	O	31	O	NN	time	O	O	O
+1206	O	32	O	.	.	O	O	O
+
+0	12	Acquire
+
+1207	OTHER	0	O	CD	One	O	O	O
+1207	Org	1	O	NNP/NNPS	Equity/Partners	O	O	O
+1207	O	2	O	,	,	O	O	O
+1207	O	3	O	WDT	which	O	O	O
+1207	O	4	O	VBZ	manage	O	O	O
+1207	O	5	O	IN	about	O	O	O
+1207	OTHER	6	O	$/CD/CD	$/14/billion	O	O	O
+1207	O	7	O	IN	of	O	O	O
+1207	O	8	O	JJ	private	O	O	O
+1207	O	9	O	NNS	investment	O	O	O
+1207	O	10	O	IN	for	O	O	O
+1207	Org	11	O	NN	JPMorgan	O	O	O
+1207	O	12	O	,	,	O	O	O
+1207	O	13	O	VBD	acquire	O	O	O
+1207	Org	14	O	NNP	MModal	O	O	O
+1207	O	15	O	IN	in	O	O	O
+1207	OTHER	16	O	NNP/CD	August/2012	O	O	O
+1207	O	17	O	IN	in	O	O	O
+1207	O	18	O	DT	a	O	O	O
+1207	O	19	O	NN	deal	O	O	O
+1207	O	20	O	VBN	value	O	O	O
+1207	O	21	O	IN	at	O	O	O
+1207	OTHER	22	O	$/CD/CD	$/11/billion	O	O	O
+1207	O	23	O	.	.	O	O	O
+
+1	14	Acquire
+
+1208	Org	0	O	NNP	Leucadia	O	O	O
+1208	O	1	O	,	,	O	O	O
+1208	O	2	O	VBN	base	O	O	O
+1208	O	3	O	IN	in	O	O	O
+1208	Loc	4	O	NNP/NNP	New/York	O	O	O
+1208	O	5	O	,	,	O	O	O
+1208	O	6	O	VBD	acquire	O	O	O
+1208	Org	7	O	NNP	Jefferies	O	O	O
+1208	O	8	O	IN	in	O	O	O
+1208	OTHER	9	O	NNP/CD	March/2013	O	O	O
+1208	O	10	O	.	.	O	O	O
+
+0	7	Acquire
+
+1209	O	0	O	NN	pillar	O	O	O
+1209	O	1	O	NN	purchase	O	O	O
+1209	Org	2	O	NNP	Oracle	O	O	O
+1209	O	3	O	VBD	buy	O	O	O
+1209	Loc	4	O	NNP/NNP	San/Jose	O	O	O
+1209	O	5	O	,	,	O	O	O
+1209	OTHER	6	O	JJ	California-based	O	O	O
+1209	O	7	O	NN	pillar	O	O	O
+1209	O	8	O	IN	in	O	O	O
+1209	OTHER	9	O	NNP/CD	June/2011	O	O	O
+1209	O	10	O	IN	in	O	O	O
+1209	O	11	O	DT	a	O	O	O
+1209	O	12	O	NN	deal	O	O	O
+1209	O	13	O	WDT	that	O	O	O
+1209	O	14	O	NNS	investor	O	O	O
+1209	O	15	O	VBD	say	O	O	O
+1209	O	16	O	VBD	be	O	O	O
+1209	O	17	O	VBN	engineer	O	O	O
+1209	O	18	O	RB	solely	O	O	O
+1209	O	19	O	TO	to	O	O	O
+1209	O	20	O	VB	benefit	O	O	O
+1209	Peop	21	O	NNP	Ellison	O	O	O
+1209	O	22	O	.	.	O	O	O
+
+
+1210	OTHER	0	O	CD	17	O	O	O
+1210	O	1	O	-LRB-	-lrb-	O	O	O
+1210	Org	2	O	NN	Bloomberg	O	O	O
+1210	O	3	O	-RRB-	-rrb-	O	O	O
+1210	O	4	O	:	--	O	O	O
+1210	Org	5	O	NNP/NNPS/NNP	Lansdowne/Partners/LLP	O	O	O
+1210	O	6	O	,	,	O	O	O
+1210	O	7	O	DT	the	O	O	O
+1210	O	8	O	JJS	biggest	O	O	O
+1210	OTHER	9	O	JJ	European	O	O	O
+1210	O	10	O	NN	hedge-fund	O	O	O
+1210	O	11	O	NN	firm	O	O	O
+1210	O	12	O	WDT	that	O	O	O
+1210	O	13	O	VBZ	focus	O	O	O
+1210	O	14	O	IN	on	O	O	O
+1210	O	15	O	NN	stock	O	O	O
+1210	O	16	O	NN	picking	O	O	O
+1210	O	17	O	,	,	O	O	O
+1210	O	18	O	VBD	buy	O	O	O
+1210	Org	19	O	NNP/NNP	Twitter/Inc	O	O	O
+1210	O	20	O	.	.	O	O	O
+
+5	19	Acquire
+
+1211	Org	0	O	NNP	Suntory	O	O	O
+1211	O	1	O	VBD	buy	O	O	O
+1211	O	2	O	DT	a	O	O	O
+1211	Org	3	O	NNP/NNP	PepsiCo/Inc	O	O	O
+1211	O	4	O	.	.	O	O	O
+
+0	3	Acquire
+
+1212	O	0	O	IN	in	O	O	O
+1212	OTHER	1	O	CD	2009	O	O	O
+1212	O	2	O	,	,	O	O	O
+1212	Org	3	O	NNP	Saji	O	O	O
+1212	O	4	O	VBD	buy	O	O	O
+1212	OTHER	5	O	JJ	French	O	O	O
+1212	O	6	O	NN	soda	O	O	O
+1212	O	7	O	NN	maker	O	O	O
+1212	Org	8	O	NNP	Orangina	O	O	O
+1212	O	9	O	CC	and	O	O	O
+1212	Loc	10	O	NNP/NNP	New/Zealand	O	O	O
+1212	O	11	O	POS	's	O	O	O
+1212	O	12	O	NNP	Frucor	O	O	O
+1212	O	13	O	.	.	O	O	O
+
+3	8	Acquire
+
+1213	Org	0	O	NNP/NNP/NNP/NNP	Murdoch/Competition/Liberty/Global	O	O	O
+1213	OTHER	1	O	JJ/NN	last/year	O	O	O
+1213	O	2	O	VBD	buy	O	O	O
+1213	Org	3	O	JJ/NNP/NNP	Virgin/Media/Inc	O	O	O
+1213	O	4	O	,	,	O	O	O
+1213	O	5	O	DT	a	O	O	O
+1213	Loc	6	O	NNP	UK	O	O	O
+1213	O	7	O	.	.	O	O	O
+
+0	3	Acquire
+
+1214	Org	0	O	NNP/NNP	Tata/Steel	O	O	O
+1214	O	1	O	,	,	O	O	O
+1214	O	2	O	WDT	which	O	O	O
+1214	O	3	O	VBD	buy	O	O	O
+1214	O	4	O	JJ	uk-based	O	O	O
+1214	Org	5	O	NNP/NNP	Corus/Group	O	O	O
+1214	O	6	O	IN	for	O	O	O
+1214	OTHER	7	O	$/CD/CD	$/129/billion	O	O	O
+1214	O	8	O	IN	in	O	O	O
+1214	OTHER	9	O	CD	2007	O	O	O
+1214	O	10	O	,	,	O	O	O
+1214	O	11	O	VBD	have	O	O	O
+1214	O	12	O	JJ	total	O	O	O
+1214	O	13	O	NNS	debt	O	O	O
+1214	O	14	O	IN	of	O	O	O
+1214	OTHER	15	O	CD/CD/NNS	65174/billion/rupees	O	O	O
+1214	O	16	O	-LRB-	-lrb-	O	O	O
+1214	OTHER	17	O	$/CD/CD	$/105/billion	O	O	O
+1214	O	18	O	-RRB-	-rrb-	O	O	O
+1214	O	19	O	IN	as	O	O	O
+1214	O	20	O	IN	of	O	O	O
+1214	OTHER	21	O	NNP	Sept	O	O	O
+1214	O	22	O	.	.	O	O	O
+
+0	5	Acquire
+
+1215	Org	0	O	NNP	Starbucks	O	O	O
+1215	O	1	O	VBD	buy	O	O	O
+1215	Org	2	O	NNP/POS/JJS	Seattle/s/best	O	O	O
+1215	O	3	O	IN	in	O	O	O
+1215	OTHER	4	O	CD	2003	O	O	O
+1215	O	5	O	.	.	O	O	O
+
+0	2	Acquire
+
+1216	Org	0	O	NNP	Blackstone	O	O	O
+1216	O	1	O	VBD	buy	O	O	O
+1216	O	2	O	DT	the	O	O	O
+1216	O	3	O	JJ	501-bedroom	O	O	O
+1216	Org	4	O	NNP/NNP	Burlington/Hotel	O	O	O
+1216	O	5	O	IN	in	O	O	O
+1216	O	6	O	JJ	south	O	O	O
+1216	Loc	7	O	NNP	Dublin	O	O	O
+1216	O	8	O	IN	in	O	O	O
+1216	OTHER	9	O	CD	2012	O	O	O
+1216	O	10	O	.	.	O	O	O
+
+0	4	Acquire
+
+1217	Org	0	O	NNP	PNC	O	O	O
+1217	O	1	O	VBD	buy	O	O	O
+1217	Org	2	O	NNP/NNP/NNP	National/City/Corp	O	O	O
+1217	O	3	O	,	,	O	O	O
+1217	OTHER	4	O	CD	one	O	O	O
+1217	O	5	O	IN	of	O	O	O
+1217	O	6	O	DT	the	O	O	O
+1217	O	7	O	NN	nation	O	O	O
+1217	O	8	O	POS	's	O	O	O
+1217	O	9	O	JJS	biggest	O	O	O
+1217	O	10	O	JJ	subprime	O	O	O
+1217	O	11	O	NN	home	O	O	O
+1217	O	12	O	NNS	lender	O	O	O
+1217	O	13	O	,	,	O	O	O
+1217	O	14	O	IN	as	O	O	O
+1217	O	15	O	DT	the	O	O	O
+1217	O	16	O	NN	mortgage	O	O	O
+1217	O	17	O	NN	crisis	O	O	O
+1217	O	18	O	VBD	unfold	O	O	O
+1217	O	19	O	.	.	O	O	O
+
+0	2	Acquire
+
+1218	Peop	0	O	NNP	Apotheker	O	O	O
+1218	O	1	O	POS	's	O	O	O
+1218	O	2	O	NNP	Deal	O	O	O
+1218	Org	3	O	NNP	Hewlett-Packard	O	O	O
+1218	O	4	O	VBD	buy	O	O	O
+1218	O	5	O	NN	autonomy	O	O	O
+1218	O	6	O	IN	in	O	O	O
+1218	O	7	O	DT	a	O	O	O
+1218	O	8	O	NN	deal	O	O	O
+1218	O	9	O	VBN	engineer	O	O	O
+1218	O	10	O	IN	by	O	O	O
+1218	Peop	11	O	NNP	Whitman	O	O	O
+1218	O	12	O	POS	's	O	O	O
+1218	O	13	O	NN	predecessor	O	O	O
+1218	O	14	O	,	,	O	O	O
+1218	Org	15	O	NNP/NNP	Leo/Apotheker	O	O	O
+1218	O	16	O	.	.	O	O	O
+
+3	15	Acquire
+
+1219	Org	0	O	NN	KCG	O	O	O
+1219	O	1	O	VBD	be	O	O	O
+1219	O	2	O	VBN	form	O	O	O
+1219	O	3	O	WRB	when	O	O	O
+1219	OTHER	4	O	JJ	Chicago-based	O	O	O
+1219	Org	5	O	NNP/NNP	Getco/LLC	O	O	O
+1219	O	6	O	VBD	buy	O	O	O
+1219	Org	7	O	NNP/NNP/NNP/NNP	Knight/Capital/Group/Inc	O	O	O
+1219	O	8	O	.	.	O	O	O
+
+5	7	Acquire
+
+1220	Org	0	O	NNP	Google	O	O	O
+1220	O	1	O	VBD	buy	O	O	O
+1220	O	2	O	JJ	mobile-phone	O	O	O
+1220	O	3	O	NN	pioneer	O	O	O
+1220	Org	4	O	NNP/NN/NNP	Motorola/Mobility/Inc	O	O	O
+1220	O	5	O	.	.	O	O	O
+
+0	4	Acquire
+
+1221	Org	0	O	NNP/IN/NNP	Bank/of/Montreal	O	O	O
+1221	O	1	O	VBD	buy	O	O	O
+1221	O	2	O	JJ	london-based	O	O	O
+1221	Org	3	O	NNP/NNP/NNP	Pyrford/International/Plc	O	O	O
+1221	O	4	O	IN	in	O	O	O
+1221	OTHER	5	O	CD	2007	O	O	O
+1221	O	6	O	IN	for	O	O	O
+1221	OTHER	7	O	$/CD/CD	C$/41/million	O	O	O
+1221	O	8	O	-LRB-	-lrb-	O	O	O
+1221	OTHER	9	O	$/CD/CD	$/371/million	O	O	O
+1221	O	10	O	-RRB-	-rrb-	O	O	O
+1221	O	11	O	.	.	O	O	O
+
+0	3	Acquire
+
