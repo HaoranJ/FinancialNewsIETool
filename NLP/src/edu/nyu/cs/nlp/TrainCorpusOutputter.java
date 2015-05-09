@@ -12,28 +12,21 @@ import java.util.Map;
 import java.util.Properties;
 
 import com.google.common.io.Files;
-
-import edu.stanford.nlp.ie.machinereading.structure.MachineReadingAnnotations;
-import edu.stanford.nlp.ie.machinereading.structure.RelationMention;
-import edu.stanford.nlp.io.FileSequentialCollection;
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreAnnotations.NamedEntityTagAnnotation;
-import edu.stanford.nlp.ling.CoreAnnotations.NormalizedNamedEntityTagAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.ling.IndexedWord;
 import edu.stanford.nlp.pipeline.Annotation;
-import edu.stanford.nlp.pipeline.RegexNERAnnotator;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
-import edu.stanford.nlp.pipeline.TokensRegexAnnotator;
 import edu.stanford.nlp.semgraph.SemanticGraph;
 import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations.CollapsedDependenciesAnnotation;
 import edu.stanford.nlp.semgraph.SemanticGraphEdge;
 import edu.stanford.nlp.trees.GrammaticalRelation;
 import edu.stanford.nlp.util.CoreMap;
-import edu.stanford.nlp.util.PropertiesUtils.Property;
+
 
 public class TrainCorpusOutputter{
 

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0.0
+Built-Date: 2015-04-20
+Created-By: NYU Haoran Jia
+Main-class: edu.nyu.cs.nlp.Main
+

@@ -20,7 +20,7 @@ public class TrainResultsProcessor {
 	public void processResults(String pathRead, String pathWrite) throws Exception {
 		pw = new PrintWriter(pathWrite);
 		sc = new Scanner(Paths.get(pathRead));
-		pw.println("Subjective_Company,Objective_Company,Relation");;
+		pw.println("Subjective_Company,Objective_Company,Relation,Times");;
 		String line = "";
 		int counter = 0;
 		while (sc.hasNextLine()) {
@@ -44,9 +44,7 @@ public class TrainResultsProcessor {
 					String str = sb.toString();
 					putInMap(str);
 					counter++;
-					pw.print(a + "," + relation + "," + b + "\n");
-					sb.delete(0, sb.length());
-					
+					sb.delete(0, sb.length());	
 				}
 				table.clear();
 			} else {
@@ -54,6 +52,9 @@ public class TrainResultsProcessor {
 			} 
 		}
 		sc.close();
+		for(Map.Entry<String, Integer> e : map.entrySet()){
+			pw.println(e.getKey() + "," + e.getValue());
+		}
 		pw.close();
 		System.out.println("Training data processed, " + "totally " + counter + " relation entries stored, "
 				+ " the output file is " + pathWrite);
@@ -70,13 +71,12 @@ public class TrainResultsProcessor {
 	//@param search a company name
 	//@return the relation entries containing the company name.
 	public void searchOneCompany(String c) throws FileNotFoundException{
-		String outFileName = "Summary for " + c;
+		int ct = 0;
 		if(c.trim().length() == 0){
 			System.out.println("Sorry, the input is valid.");
 			return;
 		}
 		System.out.println("The results for search the company " + c + " as following. ");
-		pw = new PrintWriter(outFileName);
 		HashMap<String, Integer> unsorted_map = new HashMap<>();
 		for(Map.Entry<String, Integer> it : map.entrySet()){
 			if(containsCompany(it.getKey(), c)){
@@ -87,24 +87,24 @@ public class TrainResultsProcessor {
 		
 		//output the results for the company
 		for(Map.Entry<String, Integer> it : sorted_map.entrySet()){
+			ct++;
 			int times = it.getValue();
-			pw.println(it.getKey() + " = " + times + " times.");
 			System.out.println(it.getKey() + " = " + times + " times.");
 		}
-		pw.close();
-		/*System.out.println("The summary for " + c + " has been outputted as the 'Summary for "
-				+ c + "' text file. "); */
+		if(ct == 0){
+			System.out.println("Sorry, there is no record for your search.");
+		}
+		
 	}
 	
 	public void searchByPair(String a, String b) throws FileNotFoundException{
-		String outFileName = "Summary for the pair of " + a + " and " + b ;
+		int ct = 0;
 		System.out.println("The results for searching the pair of "
 				+ a + " and " + b + " as following. ");
 		if(a.trim().length() == 0 || b.trim().length() == 0){
 			System.out.println("Sorry, the inputs are invalid.");
 			return;
 		}
-		pw = new PrintWriter(outFileName);
 		HashMap<String, Integer> unsorted_map = new HashMap<>();
 		for(Map.Entry<String, Integer> it : map.entrySet()){
 			if(containsPair(it.getKey(), a, b)){
@@ -115,13 +115,14 @@ public class TrainResultsProcessor {
 		
 		//output the results for the company
 		for(Map.Entry<String, Integer> it : sorted_map.entrySet()){
+			ct++;
 			int times = it.getValue();
 			pw.println(it.getKey() + " = " + times + " times.");
 			System.out.println(it.getKey() + " = " + times + " times.");
 		}
-		pw.close();
-		/*System.out.println(outFileName + " has been outputted as the 'Summary for the pair of "
-				+ a + " and " + b + "' text file. "); */
+		if(ct == 0){
+			System.out.println("Sorry, there is no record for your search.");
+		}
 	}
 	//check whether a relation entry e contains a company c
 	private boolean containsCompany(String e, String c){

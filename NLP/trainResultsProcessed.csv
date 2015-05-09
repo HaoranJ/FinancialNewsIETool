@@ -1,212 +1,49 @@
-Subjective_Company,Objective_Company,Relation
-Pentair,Acquire,Tyco International Ltd
-United Spirits,Acquire,Whyte & Mackay
-Court Square Capital Partners LP,Acquire,Wyle
-NAB,Acquire,Clydesdale
-Apollo,Acquire,Altamira
-Leucadia,Acquire,Jefferies
-Holloway,Merge,Equitable Investment Corp
-Panasonic,Acquire,Epco
-Verizon,Acquire,Hughes Telematics Inc.
-Freeport,Acquire,Plains Exploration & Production Co.
-Aptalis,Acquire,Eurand NV
-Sprint,Acquire,Clearwire
-Fiat SpA,Acquire,Chrysler Group LLC
-Argonaut,Acquire,Bermuda
-ICBC,Acquire,Standard Bank
-La Caisse,Acquire,Dong Energy A/S
-Dong Energy A/S,Acquire,La Caisse
-Icahn Stake EBay,Acquire,PayPal
-Alnylam,Acquire,Merck & Co.
-Alnylam,Acquire,Merck
-SoftBank,Acquire,Overland Park
-SoftBank,Acquire,Sprint
-Court Square Capital Partners LP,Acquire,Wyle
-today,Acquire,Kurt Zouma
-Alibaba,Acquire,Sina
-Fonterra Cooperative Group Ltd,Acquire,Bega
-Bega,Acquire,Fonterra Cooperative Group Ltd
-BlackRock,Acquire,Scientific Active Equities
-BlackRock,Acquire,Scientific Active Equities
-BlackRock,Acquire,Scientific Active Equities
-BlackRock,Acquire,Scientific Active Equities
-Ion Torrent,Acquire,California-based Life Technologies Corp
-Carlsbad,Acquire,Ion Torrent
-California-based Life Technologies Corp,Acquire,Ion Torrent
-BAE,Acquire,Detica Group Plc
-Saks,Acquire,Hudson 's Bay Co
-Tumblr Inc,Own,David Karp
-Yahoo,Acquire,Tumblr Inc
-CMCSA,Acquire,AT&T Broadband
-SoftBank,Acquire,Sprint Corp
-BlackRock,Acquire,Barclays Global Investors
-Breca Group,Acquire,Melon SA
-Montero SA,Acquire,Enersis Compania Americana de Multiservicios
-Icahn,Acquire,30 million
-Icahn,Acquire,Park Ridge
-Energy Transfer Partners LP,Acquire,Sunoco Inc
-Bank of America,Acquire,Countrywide
-Oi SA,Acquire,Portugal Telecom SGPS SA
-Pearson Plc,Acquire,Grupo Multi
-Sysco,Acquire,Rosemont
-Microsoft Corp,Acquire,Nokia Oyj
-Microsoft,Acquire,Nokia
-Merck,Acquire,Serono
-Liberty Global Plc,Acquire,Ziggo NV
-Gannett,Acquire,Belo
-Verizon Communications Inc,Acquire,Vodafone Group Plc
-Hewlett-Packard,Acquire,Bitfone Corp
-Actavis Plc,Acquire,Warner Chilcott
-GE,Acquire,Thermo Fisher
-Martin Marietta Materials Inc,Acquire,Texas Industries Inc.
-Schneider,Acquire,Invensys
-Continental,Acquire,Veyance
-Google Inc,Acquire,Nest Labs
-L&G,Acquire,Mark Zinkula
-Rosneft,Acquire,TNK-BP
-VMware,Acquire,Desktone Inc
-Bazaarvoice,Acquire,PowerReviews
-Lenovo,Acquire,Motorola
-\,Acquire,LSI
-LSI,Acquire,Suji De Silva
-Suji De Silva,Acquire,LSI
-Microsoft,Acquire,Nokia
-Sprint,Acquire,T-Mobile
-Dan Hesse,Acquire,T-Mobile
-Jha,Acquire,Motorola Mobility Inc
-Motorola Mobility Inc,Own,Jha
-Clydesdale,Acquire,UK
-Clydesdale,Acquire,Virgin Media Inc.
-Banesco Group,Acquire,NCG Banco
-Suntory,Acquire,PepsiCo Inc.
-Saji,Acquire,Orangina
-ADP,Acquire,TAV
-Murdoch Competition Liberty Global,Acquire,Virgin Media Inc
-Tata Steel,Acquire,Corus Group
-Allianz Real Estate,Acquire,Koe Galerie
-Blackstone Group LP,Acquire,Koe Galerie
-Suntory Holdings Ltd,Acquire,Beam Inc.
-Carlyle Group LP,Acquire,Ortho Clinical
-Kinder Morgan,Acquire,Holdco LLC
-Sysco Corp,Acquire,US Foods
-Verso,Acquire,NewPage
-Forest Laboratories Inc,Acquire,Aptalis Pharma
-Richardson GMP,Acquire,Macquarie Private Wealth Canada
-Bancorp,Acquire,Citizens Financial Group Inc
-KKR & Co,Acquire,Sedgwick Claims Management Services Inc.
-KKR,Acquire,Mitchell International Inc.
-Sports Direct International Plc,Acquire,Debenhams Plc
-Jha,Acquire,Motorola Mobility Inc
-Motorola Mobility Inc,Own,Jha
-Clydesdale,Acquire,UK
-Clydesdale,Acquire,Virgin Media Inc.
-Banesco Group,Acquire,NCG Banco
-Suntory,Acquire,PepsiCo Inc.
-Saji,Acquire,Orangina
-ADP,Acquire,TAV
-Murdoch Competition Liberty Global,Acquire,Virgin Media Inc
-Tata Steel,Acquire,Corus Group
-Google Ventures,Invest_In,Nest
-Jana,Invest_In,Boeing Co.
-Yu’E Bao,Invest_In,Tian Hong Asset Management Co
-Yu’E Bao,Invest_In,Hangzhou-based
-Tian Hong Asset Management Co,Invest_In,Yu’E Bao
-Mubadala,Invest_In,Batista 's EBX Group Co.
-Shanduka,Invest_In,300 million rand
-Shanduka,Invest_In,Lonmin
-300 million rand,Invest_In,Shanduka
-Lonmin,Invest_In,Shanduka
-TPG Capital,Invest_In,TXU Corp
-Lampert,Merge,Kmart Holding Corp Austrian Merger Biolitec
-Dixon & Bell,Merge,Troutman Sanders
-Hitachi,Invest_In,Hiroaki Nakanishi
-Fiat,Merge,Chrysler
-Fiat SpA,Merge,Chrysler Group LLC
-Fiat,Merge,Chrysler
-Zachodni,Merge,Kredyt Bank SA
-McVitie & Price,Merge,MacFarlane Lang
-Fiat,Merge,Chrysler
-Alfa Romeo,Merge,Chrysler
-Cerrejon,Own,BHP
-BHP,Own,Cerrejon
-Dun & Bradstreet Corp.,Own,Hoover 's Inc
-EMC Corp,Own,VMware
-Citigroup Inc,Own,Akbank TAS
-BlackRock,Own,Akbank TAS
-Goldman Sachs Group Inc,Own,Education Management Co
-McGraw-Hill Cos.,Own,CMA
-Ricardo Salinas,Own,Grupo Iusacell SA
-Grupo Televisa SAB,Own,Grupo Iusacell SA
-Bridgepoint,Own,Diaverum AB
-Diageo,Acquire,United Spirits
-BlackRock,Own,Akbank TAS
-South African,Acquire,Barclays
-Shuanghui,Acquire,September
-Downtown Properties,Acquire,Plaza Las Fuentes
-Oaktree Capital Management LP,Acquire,Republic Services Corp.
-Forest Laboratories Inc,Acquire,Aptalis Pharma
-Yunfeng,Invest_In,Alibaba
-Saudi Aramco,Acquire,Hanjin Energy Co
-Aramco,Acquire,Hanjin
-Namenda,Acquire,Aptalis Pharma
-Yunfeng,Invest_In,Alibaba
-Mega,Acquire,TRS Investments Ltd.
-Tan,Acquire,PT Borneo Lumbung Energi & Metal
-Novartis,Acquire,Glaxo
-Roche,Acquire,IQuum Inc
-Tsinlien Group Co,Acquire,Famous Ever Group Ltd.
-Valley National Bancorp,Acquire,1st United Bancorp
-Flipkart,Acquire,Myntracom
-Myntracom,Acquire,Amazoncom Inc.
-Abbott,Acquire,Kalo Pharma Internacional SL
-Siemens,Acquire,Rolls-Royce
-Flipkart,Acquire,Myntra
-Qatar Petroleum International,Acquire,Canadian Natural Gas
-Dubai Islamic,Acquire,PT Bank Panin Syariah Tbk
-Qatar Petroleum International,Acquire,Canadian Natural Gas
-National Social Security Fund,Acquire,China Life Insurance Co.
-Centurion Investments,Acquire,Apax
-Mercer Africa Ltd,Acquire,Alex Forbes
-Carlos Slim,Acquire,AT&T Inc
-GE,Acquire,Alstom
-Merlin,Acquire,Tree Inversiones Inmobiliarias SA
-Hyundai Group,Acquire,Hyundai Elevator Co.
-RBI Solar Inc,Acquire,Centrosolar Group AG
-Carrefour,Acquire,DIA
-Imperial Tobacco Group Plc,Acquire,Reynolds
-Agbar,Own,La Caixa
-SMA Solar Technology,Acquire,Phoenix Solar AG
-Aegon,Acquire,Banco Santander Totta SA
-InBev NV,Acquire,Anheuser-Busch Cos.
-KKR & Co.,Acquire,Oriental Brewery
-Bank Islam Malaysia Bhd,Acquire,BIMB Holding Bhd
-InBev NV,Acquire,Anheuser-Busch Cos.
-Eli Lilly & Co.,Acquire,ImClone Systems Inc
-Sanofi,Acquire,Genzyme Corp
-B&N Bank JSC,Own,Asokerco Trading Limited LLC
-Kraft,Acquire,Cadbury
-InBev NV,Acquire,Anheuser-Busch Cos.
-Community Health Systems Inc,Acquire,XYZ
-Statoil,Acquire,Tullow
-Valeant,Acquire,Obagi Medical Products Inc
-M&T,Acquire,Hudson City
-Fiat SpA,Acquire,Chrysler
-Macquarie,Acquire,OCBC
-Canada Pension Plan Investment Board,Acquire,Neiman Marcus Inc
-Elliott,Acquire,Riverbed Technology Inc.
-John Malone,Acquire,Charter Communications Inc
-AB InBev,Acquire,Oriental Brewery
-KKR & Co.,Acquire,Oriental Brewery
-Logista,Acquire,Imperial
-Allianz Real Estate,Acquire,Koe Galerie
-Blackstone Group LP,Acquire,Koe Galerie
-Suntory Holdings Ltd,Acquire,Beam Inc.
-Carlyle Group LP,Acquire,Ortho Clinical
-Kinder Morgan,Acquire,Holdco LLC
-Sysco Corp,Acquire,US Foods
-Verso,Acquire,NewPage
-Forest Laboratories Inc,Acquire,Aptalis Pharma
-Richardson GMP,Acquire,Macquarie Private Wealth Canada
-Bancorp,Acquire,Citizens Financial Group Inc
-KKR & Co,Acquire,Sedgwick Claims Management Services Inc.
-KKR,Acquire,Mitchell International Inc.
+Subjective_Company,Objective_Company,Relation,Times
+InBev NV,Acquire,Anheuser-Busch Cos.,1
+Saieh,Own,SMU SA,1
+Shire,Acquire,SARcode Bioscience Inc.,1
+Amgen,Acquire,Onyx Pharmaceuticals Inc.,1
+Andresen,Own,Ferd,1
+Kmart,Merge,Sears Roebuck,1
+Raiffeisen,Acquire,Austria,1
+American Apparel,Invest_In,Sebag,1
+Facebook,Own,Eric Steiman,1
+Gates,Acquire,Tomkins Ltd,1
+Verizon,Acquire,Vodafone Group Plc,2
+Stryker,Acquire,OtisMed Corp.,1
+Novatek,Acquire,Rosneft,1
+BP,Acquire,OAO Rosneft,1
+Value LP,Acquire,Staples Inc.,1
+McGraw-Hill Cos.,Own,CMA,1
+Stephenson,Invest_In,Comcast,1
+Metro Pacific Investments Corp,Own,Maynilad,1
+Sebag,Invest_In,American Apparel,1
+Fiat,Acquire,Chrysler,1
+Actavis Plc,Acquire,Forest Laboratories Inc.,1
+Ulster Bank,Merge,Permanent TSB Group Holdings Plc.,1
+BNSF Railroad Co,Own,Warren Buffett,1
+Telefonica,Acquire,Royal KPN NV,1
+Carlyle,Invest_In,TCW Group Inc,1
+Hewlett-Packard,Acquire,Autonomy Corp,1
+Barrick,Acquire,Lumwana,1
+Oracle,Acquire,Pillar Data Systems Inc.,1
+KKR & Co.,Acquire,Oriental Brewery,1
+Verizon Communications Inc,Acquire,Vodafone Group Plc,1
+Haitong Securities Co,Acquire,Novo Banco SA,1
+Starboard Value LP,Acquire,Staples Inc.,1
+Warren Buffett,Own,BNSF Railroad Co,1
+Apple,Acquire,PrimeSense Ltd,1
+Gertler,Own,Nessergy Ltd,1
+Aegon,Acquire,Banco Santander Totta SA,1
+Ferd,Own,Andresen,1
+Tomkins Ltd,Acquire,Gates,1
+Lumwana,Acquire,Equinox Minerals Ltd.,1
+Molson Coors Brewing Co,Acquire,Czech,1
+Eric Steiman,Own,Facebook,1
+Cisco,Acquire,NDS Group Ltd.,1
+Phibro,Acquire,Occidental,1
+Baron Benjamin de Rothschild,Acquire,Acquisition LLC,1
+Livingston,Acquire,Lehman Brothers Global Asset Management Ltd,1
+Diageo,Acquire,United Spirits,1
+Blackstone,Acquire,Hilton,2
+Facebook,Own,Instagram,1
