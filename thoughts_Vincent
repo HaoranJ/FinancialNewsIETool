@@ -1,3 +1,0 @@
-1. use word to vector to extract potential "acquisition" words
-2. filter the text to extract sentences
-3. deal with fake relations : "rejected a tackeover", "potential acquisition"
